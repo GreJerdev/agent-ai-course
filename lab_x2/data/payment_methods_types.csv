@@ -1,0 +1,2033 @@
+pmt_id,payment_method_type,country,payment_method_type_name,pmt_type
+9ab2c6e9-6998-11e8-ad14-060fa91e3c30,cash,AU,blueshyft cash,blueshyft
+50e6a8a7-8449-11e8-ad14-060fa91e3c30,bank_redirect,CL,Bank Redirect,chilepse
+545c8203-84e4-11e8-ad14-060fa91e3c30,bank_redirect,CO,Bank Redirect,colombiapse
+818cf06c-84e4-11e8-ad14-060fa91e3c30,bank_redirect,MX,Bank Redirect,mexicopse
+8b18f3b5-9e72-11e8-85bb-126629637faa,bank_redirect,MX,BBVA,mx_bbva_bank
+eda52f6b-9e72-11e8-85bb-126629637faa,bank_redirect,MX,Santander MEX,mx_santander_bank
+50e98c86-9e73-11e8-85bb-126629637faa,bank_redirect,CR,Cathay,cr_cathay_bank
+50e3cf03-9e73-11e8-85bb-126629637faa,bank_redirect,MX,online bank payment banorte mexico,mx_banorte_bank
+50e5fcd5-9e73-11e8-85bb-126629637faa,bank_redirect,MX,bank transfer payment citibanamex mexico,mx_citibanamex_bank
+50e70957-9e73-11e8-85bb-126629637faa,bank_redirect,CR,Promerica,cr_promerica_bank
+50e4d43d-9e73-11e8-85bb-126629637faa,bank_redirect,MX,Scotiabank Mexico,mx_scotiabank_bank
+80476a2c-9e73-11e8-85bb-126629637faa,bank_redirect,CR,Banco Popular y de Desarrollo Comunal,cr_bancopopular_bank
+aaa691a5-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco Pichincha COL,co_bancopichincha_bank
+aa98c2db-9e73-11e8-85bb-126629637faa,bank_redirect,BR,Banco Itau Brasil,br_bancoitau_bank
+aaa9734e-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Bancolombia,co_bancolombia_bank
+aa96e6ed-9e73-11e8-85bb-126629637faa,bank_redirect,BR,Santander,br_santander_bank
+aaa2485c-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco Caja Social,co_cajasocial_bank
+aab3be77-9e73-11e8-85bb-126629637faa,bank_redirect,PE,Scotiabank,pe_scotiabank_bank
+aab74f31-9e73-11e8-85bb-126629637faa,bank_redirect,PE,Caja Tacna,pe_cajatacna_bank
+aaae70c7-9e73-11e8-85bb-126629637faa,bank_redirect,CO,online bank payment Banco Agrario Colombia,co_bancoagraio_bank
+aac0c8c4-9e73-11e8-85bb-126629637faa,cash,CR,Cash Payments Scotiabank Costa Rica ,cr_scotiabank_cash
+aa9b77b1-9e73-11e8-85bb-126629637faa,bank_redirect,CL,Banco Santander One Step,cl_bancosantander_bank
+aa9a9b09-9e73-11e8-85bb-126629637faa,bank_redirect,CL,Banco Estado Chile,cl_bancoestado_bank
+aa97dba1-9e73-11e8-85bb-126629637faa,bank_redirect,BR,Banco do Brasil SafetyPay,br_bancodobrazil_bank
+aab2dc09-9e73-11e8-85bb-126629637faa,bank_redirect,MX,bank transfer payment Banco de Credito Mx,mx_bancodecredito_bank
+aab674b5-9e73-11e8-85bb-126629637faa,bank_redirect,PE,Caja Huancayo,pe_cajahuancayo_bank
+aabfe953-9e73-11e8-85bb-126629637faa,cash,CR,Correos de Costa Rica,cr_correosdecosta_cash
+aab11afd-9e73-11e8-85bb-126629637faa,bank_redirect,EC,Banco Guayaquil,ec_bancoguayaquil_bank
+aaad9672-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Nequi,co_nequi_bank
+aa9ebb9a-9e73-11e8-85bb-126629637faa,bank_redirect,CO,BBVA,co_bbva_bank
+aa9c563e-9e73-11e8-85bb-126629637faa,bank_redirect,CL,Banco de Chile One Step,cl_bancodechile_bank
+aa953508-9e73-11e8-85bb-126629637faa,bank_redirect,CR,Banco Nacional de Costa Rica,cr_banconacionalde_bank
+aa9ddeb3-9e73-11e8-85bb-126629637faa,bank_redirect,CL,Banco BBVA Chile One Step,cl_bancobbva_bank
+aaac10bb-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Itaú,co_itau_bank
+aab499fe-9e73-11e8-85bb-126629637faa,bank_redirect,PE,Interbank,pe_interbank_bank
+aaa191d1-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco AV Villa,co_bancoavvilas_bank
+aab58b00-9e73-11e8-85bb-126629637faa,bank_redirect,MX,bank transfer payment Caja Arequipa Peru,mx_cajaarequipa_bank
+aa960e8f-9e73-11e8-85bb-126629637faa,bank_redirect,BR,Bradesco,br_bradesco_bank
+aaab02c4-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Citibank Colombia,co_citibank_bank
+aa9d3001-9e73-11e8-85bb-126629637faa,bank_redirect,CL,Banco BCI One Step,cl_bancobci_bank
+aab201ab-9e73-11e8-85bb-126629637faa,bank_redirect,PE,BBVA Continental,pe_bbvacontinental_bank
+aab02b93-9e73-11e8-85bb-126629637faa,bank_redirect,EC,Banco Pichincha,ec_bancopichincha_bank
+aab83147-9e73-11e8-85bb-126629637faa,bank_redirect,PE,Caja Trujillo,pe_cajatrujillo_bank
+aaaa2f4d-9e73-11e8-85bb-126629637faa,bank_redirect,CO,BANCOOMEVA,co_bancoomeva_bank
+c1482f53-9e73-11e8-85bb-126629637faa,cash,MX,Cash Payments Retail Stores Mexico,mx_retailstores_cash
+c14e4cee-9e73-11e8-85bb-126629637faa,cash,MX,HSBC Mexico,mx_hsbc_cash
+c151923f-9e73-11e8-85bb-126629637faa,cash,MX,Banco Inbursa,mx_bancoinbursa_cash
+c14539d9-9e73-11e8-85bb-126629637faa,cash,MX,Banamex WS,mx_banamex_cash
+c16e63ab-9e73-11e8-85bb-126629637faa,cash,AU,Cash Payments Retail Australia,au_cash_cash
+c182e553-9e73-11e8-85bb-126629637faa,bank_transfer,ID,QNB Virtual Account,id_qnb_bank
+c13ee524-9e73-11e8-85bb-126629637faa,cash,EC,Cash payment Banco Pichincha Ecuador,ec_pichincha_cash
+c1e98f1f-9e73-11e8-85bb-126629637faa,cash,MX,Cash Payments PaysafeCard Mexico,mepsccash
+c1b303d4-9e73-11e8-85bb-126629637faa,cash,CZ,Cash Payments PaysafeCard Czech Republic,czp_psc_cash
+c1b006ef-9e73-11e8-85bb-126629637faa,cash,CY,Cash Payments PaysafeCard Cyprus,cyp_psc_cash
+c1892346-9e73-11e8-85bb-126629637faa,cash,ID,Indomaret,id_Indomaret_cash
+c204c844-9e73-11e8-85bb-126629637faa,cash,SI,Cash Payments PaysafeCard Slovenia,si_psc_cash
+c19b33d5-9e73-11e8-85bb-126629637faa,cash,AR,Cash Payments PaysafeCard Argentina,ar_psc_cash
+6deafcaa-af90-11e8-a933-0ea3bb4200ce,ewallet,CN,WeChat Pay,cn_wechat_ewallet
+b299beef-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Bankwest Australia,au_bankwest_bank
+b299b98e-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment ANZ Australia,au_anz_bank
+b299bc0a-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment BOQ Australia,au_boq_bank
+b299c7a5-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment ME Bank Australia,au_me_bank
+b299c053-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Bendigo Bank Australia,au_bendigo_bank
+b299cdf9-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Westpac Australia,au_westpac_bank
+b299c2cc-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Citibank Australia,au_citibank_bank
+6134c477-ef15-4ce0-bb9c-7d1d4ccb5975,bank_redirect,NZ,online bank payment ASB New Zealand,nz_asb_bank
+b299c500-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment CUA Australia,au_cua_bank
+62a566c4-962a-4a98-a250-9b4d31695006,bank_redirect,NZ,online bank payment Bank Direct New Zealand,nz_bankdirect_bank
+b299cbde-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment St. George Bank Australia,au_georgebank_bank
+b299c672-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment IMB Building Society Australia,au_imb_bank
+b299bad9-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Bank of Melbourne Australia,au_melbourne_bank
+b299c8bb-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment NAB Australia,au_nab_bank
+b299c9c5-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Newcastle Permanent Australia,au_newcastlepermanent_bank
+b299bda1-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment BankSA Australia,au_banksa_bank
+8839d83c-91b3-4256-8227-d5d720b40a10,bank_redirect,NZ,online bank payment TSB Bank New Zealand,nz_tsb_bank
+b299ccee-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Suncorp Australia,au_suncorp_bank
+90e04c4b-7a0d-419d-8963-d02f27bc95a2,bank_redirect,NZ,online bank payment BNZ New Zealand,nz_bnz_bank
+b299cad1-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Peoples Choice Credit Union Australia,au_choicecreditunion_bank
+a37b7393-96e5-44d3-b36e-8392f0798583,bank_redirect,NZ,online bank payment Kiwibank New Zealand,nz_kiwibank_bank
+fa9f4285-7b2d-44b2-9b2e-675b3295ac1f,bank_redirect,NZ,online bank payment Westpac New Zealand,nz_westpac_bank
+41df2e52-c6f8-11e8-9273-0ef1982c1e4a,bank_transfer,IT,IBAN,it_iban
+bdc2f13c-c6fa-11e8-9273-0ef1982c1e4a,cash,IT,Cash,it_cash
+7e76406d-ca2f-11e8-ad14-060fa91e3c30,bank_redirect,AU,POLi,au_poli_bank
+93ba9ac4-3426-45e5-9409-47db78a626a8,bank_redirect,NZ,POLi,nz_poli_bank
+4c2a61ad-d124-11e8-ad14-060fa91e3c30,ewallet,MX,CESPE - Comisión Estatal de Servicios Públicos de Ensenada,mx_cespe8_utilitybills
+975ad3d6-d124-11e8-ad14-060fa91e3c30,ewallet,MX,Naucalpan,mx_naucalpan_utilitybills
+98078ba0-d124-11e8-ad14-060fa91e3c30,ewallet,MX,Aliados,mx_aliados_utilitybills
+979ea648-d124-11e8-ad14-060fa91e3c30,ewallet,MX,CESPE - Comisión Estatal de Servicios Públicos de Ensenada,mx_cespe30_utilitybills
+9827ba58-d124-11e8-ad14-060fa91e3c30,ewallet,MX,Blue Telecomm,mx_bluetelecomm_utilitybills
+9867d28d-d124-11e8-ad14-060fa91e3c30,ewallet,MX,CESPT - Comision Estatal de Servicios Publicos de Tijuana,mx_cespt_utilitybills
+98c9f02c-d124-11e8-ad14-060fa91e3c30,ewallet,MX,CEA - Comisión Estatal de Aguas Querétaro [ACCOUNT],mx_ceaaccount_utilitybills
+99acc41b-d124-11e8-ad14-060fa91e3c30,ewallet,MX,Telcel,mx_telcel_utilitybills
+99e2013b-d124-11e8-ad14-060fa91e3c30,ewallet,MX,JAPAY - JUNTA DE AGUA POTABLE Y ALCANTARILLADO DE YUCATAN,mx_japay_utilitybills
+99a7b6e4-d124-11e8-ad14-060fa91e3c30,ewallet,MX,CEA - Comisión Estatal de Aguas Querétaro [BARCODE],mx_ceabarcode_utilitybills
+9f77068a-d125-11e8-ad14-060fa91e3c30,ewallet,MX,INTERNET AMIGO,mx_internetamigo_airtimetopup
+95490504-d126-11e8-ad14-060fa91e3c30,ewallet,MX,TAETelcel,mx_taetelcel_airtimetopup
+952dcd40-d126-11e8-ad14-060fa91e3c30,ewallet,MX,Gobierno del Estado de Mexico,mx_gdedm_utilitybills
+954b41f1-d126-11e8-ad14-060fa91e3c30,ewallet,MX,AMIGO SL,mx_amigo_sl_airtimetopup
+954d3c6b-d126-11e8-ad14-060fa91e3c30,ewallet,MX,TAEUNEFON,mx_taeunefon_airtimetopup
+9637eff1-d126-11e8-ad14-060fa91e3c30,ewallet,MX,TAENEXTEL,mx_taenextel_airtimetopup
+95f0bc7c-d126-11e8-ad14-060fa91e3c30,ewallet,MX,TAEIUSACELL,mx_taeiusacell_airtimetopup
+2775a148-d127-11e8-ad14-060fa91e3c30,ewallet,MX,TAEMOVISTAR,mx_taemovistar_airtimetopup
+38789f5d-d127-11e8-ad14-060fa91e3c30,ewallet,MX,TotalPlay [Barcode],mx_totalplay1_utilitybills
+3975655e-d127-11e8-ad14-060fa91e3c30,ewallet,MX,COMAPA - Agua de Tamaulipa,mx_comapa_utilitybills
+399fed89-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Telnor,mx_telnor1_utilitybills
+3995738d-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Agua de Saltillo [Barcode],mx_aguadesaltillo_utilitybills
+3964bd00-d127-11e8-ad14-060fa91e3c30,ewallet,MX,JAD - Agua de Matamoros [Barcode],mx_jad_utilitybills
+3a723be2-d127-11e8-ad14-060fa91e3c30,ewallet,MX,JMAS - Chihuahua [Barcode],mx_jmas_utilitybills
+3a55c6b4-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Multimedios Saltillo [Barcode],mx_multimedios_saltillo_utilitybills
+3a745dc5-d127-11e8-ad14-060fa91e3c30,ewallet,MX,INTERAPAS (San Luis Potosi),mx_interapas_utilitybills
+3a5f4b0e-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Telecable [Barcode],mx_telecable_utilitybills
+3a596eb9-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Zacatecas [Barcode],mx_zacatecas_utilitybills
+3a61c5a8-d127-11e8-ad14-060fa91e3c30,ewallet,MX,SEAPAL (Puerto Vallarta) [Barcode],mx_seapal_utilitybills
+3ae87441-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Telmex [Barcode],mx_telmex1_utilitybills
+3ae66b9b-d127-11e8-ad14-060fa91e3c30,ewallet,MX,AMD - Durango,mx_amd_utilitybills
+3c8e1279-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Pase Urbano,mx_paseurbano_airtimetopup
+3c89ab38-d127-11e8-ad14-060fa91e3c30,ewallet,MX,IAVE,mx_iave_utilitybills
+3c3a55e5-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Televia,mx_televia_utilitybills
+3dfa70e2-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Gobierno de la Ciudad de Mexico,mx_gdlcdm_utilitybills
+3e5230b8-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Movistar [Barcode],mx_movistar_utilitybills
+3e211043-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Tramites Vehiculares de Chihuahua (Tijuana),mx_tvdc_utilitybills
+3e501d13-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Izzi,mx_izzi_utilitybills
+3e4b42f5-d127-11e8-ad14-060fa91e3c30,ewallet,MX,TotalPlay,mx_totalplay2_utilitybills
+3f5d4a5d-d127-11e8-ad14-060fa91e3c30,ewallet,MX,JUMAPA - Agua de Celaya [Barcode],mx_jumapa_utilitybills
+3f5f8c01-d127-11e8-ad14-060fa91e3c30,ewallet,MX,AyDM - Agua y Drenaje Monterrey,mx_aydm_utilitybills
+401b47ba-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Aguakan - Agua de Quintana Roo [Barcode],mx_aguakan_utilitybills
+406c8941-d127-11e8-ad14-060fa91e3c30,ewallet,MX,CMAPAS - Agua de Salamanca,mx_cmapas_utilitybills
+40efcd28-d127-11e8-ad14-060fa91e3c30,ewallet,MX,CFE [barcode],mx_cfe30_utilitybills
+40f2fb6d-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Cablevision,mx_cablevision_utilitybills
+40de03f4-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Iusacell/AT&T/Nextel,mx_iusacellatntnextel_utilitybills
+40ed09ef-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Telnor [Barcode],mx_telnor2_utilitybills
+40ad6654-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Cablemas [Barcode],mx_cablemas_utilitybills
+41943603-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Megacable,mx_megacable1_utilitybills
+42f11f4d-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Maxcom,mx_maxcom_utilitybills
+44521c72-d127-11e8-ad14-060fa91e3c30,ewallet,MX,VeTV,mx_vetv_utilitybills
+45b39b9a-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Siapa - Guadalajara [Barcode],mx_siapaguadalajara_utilitybills
+470b7473-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Infonavit,mx_infonavit_utilitybills
+484375bc-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Gas Natural Mexico [Barcode],mx_gasnaturalmexico_utilitybills
+4962c770-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Maxcom [Barcode],mx_maxcom24_utilitybills
+49745292-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Megacable [Barcode],mx_megacable2_utilitybills
+4a291e47-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Sky,mx_sky_utilitybills
+4b725a39-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Dish [Barcode],mx_dish_utilitybills
+4b69f52a-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Cablevision Monterrey [Barcode],mx_cablevisionmonterrey_utilitybills
+4b73fb2d-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Telmex,mx_telmex2_utilitybills
+4c2a0d5a-d127-11e8-ad14-060fa91e3c30,ewallet,MX,Axtel [Barcode],mx_axtel_utilitybills
+4c70c499-d127-11e8-ad14-060fa91e3c30,ewallet,MX,CFE,mx_cfe12_utilitybills
+047fd8fd-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment JANASHAKTHI LIFE - J,lk_ezcash_jicl
+5757b5b3-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment CEYLINCO GENERAL VIP,lk_ezcash_cvip
+5757b582-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment SP-ARPICO_INSURANCE,lk_ezcash_ains
+5757b4f9-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment LOLC Life Assurance,lk_ezcash_lola
+5757b559-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment SANASA INSURANCE,lk_ezcash_sicl
+0fe6f347-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Ceylinco Life,lk_ezcash_clin
+5757b56c-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment SRI LANKA INSURANCE ,lk_ezcash_slil
+f898b2c1-d1ec-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment WATER-FOR-LIFE,lk_ezcash_wfl
+5757b534-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment AIA insurance lanka,lk_ezcash_aial
+5757b549-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment ALLIANZ LIFE,lk_ezcash_azlf
+fe4ffacd-d1ec-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Cooplife insurance,lk_ezcash_coopl
+5757b599-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment AIA insuarance lanka,lk_ezcash_aiap
+878452c9-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment SP-HOLTON_HOSPITAL,lk_ezcash_holt
+87845232-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment UNION_ASSURANCE ,lk_ezcash_ualp
+eccc3bc8-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment  NAMAL UDUGAMA FUND ,lk_ezcash_nama
+e0ca81ac-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Dialog Mobile ,lk_ezcash_gsm
+eccc3b32-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Sandeepani Com ,lk_ezcash_hu48
+878452f9-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment HEMAS_SOUTHERN_HOSPI ,lk_ezcash_hema
+eccc3c10-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment SP-HELPING CHILDREN ,lk_ezcash_hcsl
+878452b4-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Nawaloka Hospitals,lk_ezcash_nh
+878452e0-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment National cancer hospital,lk_ezcash_pets
+eccc3be3-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment SL-Paediatricians ,lk_ezcash_lh
+8784527f-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Asiri Diagnostic,lk_ezcash_adsl
+eccc3b6a-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Colours Of Courage,lk_ezcash_coct
+87845314-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment METHTHA_CENTRAL ,lk_ezcash_mttt
+eccc3b55-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment BACK TO THE BIBLE,lk_ezcash_bttb
+eccc3b1d-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment BUDDHIKA COMM,lk_ezcash_hu20
+87845333-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Miracle health hospi,lk_ezcash_mhhp
+5757b5ee-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment JANASHAKTHI INSURANC ,lk_ezcash_jicg
+87845293-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Asiri hospitals,lk_ezcash_als
+eccc3c31-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment eZCash Donate,lk_ezcash_don
+eccc3b81-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Help Age,lk_ezcash_hasl
+eccc3acf-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment BT STATIONARY,lk_ezcash_bts
+eccc3b43-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment SANDEEPANI COMM,lk_ezcash_hu08
+878452a2-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Amaya medical,lk_ezcash_amcl
+5757b5cf-d1ed-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment CEYLINCO_HEALTH,lk_ezcash_chsl
+e0ca8229-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Dialog HBB/CDMA,lk_ezcash_cdma
+e0ca8214-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Dialog TV,lk_ezcash_dtv
+e0ca8262-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Airtel Mobile,lk_ezcash_atel
+968fcb28-d514-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Touch Parking ,lk_ezcash_nfcc
+e0ca82af-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Lanka Bell,lk_ezcash_lkbel
+e0ca8339-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Touch Reload,lk_ezcash_nfc
+e0ca827a-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Dialog WIMAX,lk_ezcash_bb
+e0ca824c-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Hutch Mobile,lk_ezcash_hutch
+e0ca823a-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Etisalat Mobile,lk_ezcash_eti
+e0ca8293-d512-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Package Top-Up,lk_ezcash_hybrid
+bc08d994-af8f-11e8-a933-0ea3bb4200ce,ewallet,LK,Utility Bill Payment Ceylon Electricity Board ,lk_ezcash_ceb
+bc08e2dc-af8f-11e8-a933-0ea3bb4200ce,ewallet,LK,Utility Bill Payment Sri Lanka Telecom,lk_ezcash_slt
+bc08e140-af8f-11e8-a933-0ea3bb4200ce,ewallet,LK,Utility Bill Payment National Water Supply ,lk_ezcash_nwsdb
+bc08d3d1-af8f-11e8-a933-0ea3bb4200ce,ewallet,LK,eZCash eWallet,lk_ezcash_consumer_wallet
+bc08dddd-af8f-11e8-a933-0ea3bb4200ce,ewallet,LK,Utility Bill Payment Lanka Electricity Company ,lk_ezcash_leco
+4c2652ba-cdfd-4e79-98bc-ec38a88a7974,bank_redirect,NG,Providus Bank redirect,ng_providusbankredirect_bank
+59a38a24-8481-443a-a83f-3fed2eb21686,bank_redirect,NG,FIRST BANK PLC redirect,ng_firstbankredirect_bank
+80ede7b4-fb39-4f10-a8ff-701c51de0ecf,bank_redirect,NG,STERLING BANK PLC redirect,ng_sterlingbank_bank
+283cbc35-e561-4a28-933d-5bfbc430ce46,bank_redirect,NG,ZENITH BANK PLC redirect,ng_zenithbank_bank
+f0ad0a58-25c7-496f-86f3-dca0097097c6,bank_redirect,NG,United Bank for Africa,ng_unitedbankforafrica_bank
+7c4c041d-c3ba-415d-a056-ad4cf2964141,bank_redirect,NG,UNITY BANK PLC redirect,ng_unitybankredirect_bank
+35c12e24-c6a3-4b1e-bc9d-f41109747c6e,bank_redirect,NG,GTBANK PLC redirect,ng_gtbankredirect_bank
+130c1b23-fd50-4f8f-9da6-766ac6550e97,bank_redirect,NG,ACCESS BANK NIGERIA redirect,ng_accessbankredirect_bank
+f0357ea1-4ff7-413b-bc1a-599ec92c69fe,bank_redirect,MY,Alliance Bank,my_allianceonline_bank
+73f49420-dbb4-454f-abb1-8d83dcc70306,bank_redirect,MY,Affin Bank,my_affinonline_bank
+edb73d03-bbd0-4983-b243-4380a312761e,bank_redirect,MY,UOB Bank,my_uob_bank
+93c95310-7b45-4bae-8c12-42c6b4ab41b4,bank_redirect,MY,Public Bank,my_publicbankonline_bank
+ee8b8f56-6044-4943-9dbe-0d5138a389ed,bank_redirect,MY,HSBC Bank,my_hsbconlinebanking_bank
+235d2afc-5b05-451d-8750-7525e88cedca,ewallet,MY,Boost,my_boost_ewallet
+f81f48ad-079f-4994-82ed-eb47d453c4ef,bank_redirect,MY,Hong Leong Bank,my_hongleongonline_bank
+05e17d09-111c-4bf8-900c-ce4c17e13192,on-screen QR,MY,Hong Leong PEx+,my_hongleongpex_qr_ewallet
+777a3c6f-2103-4096-89fa-32416db3e8e0,bank_redirect,MY,Bank Rakyat,my_bankrakyatinternetbanking_bank
+4c1bab8a-1534-4cbc-91ca-5ec893ae9b0d,bank_redirect,MY,CIMB Virtual Account,my_cimbvirtualaccount_bank
+bd2a6602-e585-48d2-96ed-9edc555abefa,bank_redirect,MY,Maybank,my_mayabank2u_bank
+4ae2880a-dcd0-4562-b724-45b763b3fac9,bank_redirect,MY,BSN Bank,my_bsnonline_bank
+c62f3caa-6105-47c3-962e-53d34945659c,ewallet,MY,PayPal eWallet,my_paypal_myr_ewallet
+97e22dc8-b378-46ba-8934-59039eae2975,bank_redirect,MY,RHB Bank,my_rhbonline_bank
+2f3e3150-a211-45cf-b8f3-470f6e9b372d,bank_redirect,MY,Standard Chartered Bank,my_standardcharteredbank_bank
+939cf5f8-9010-454e-98e8-4a1c52b8ce68,bank_redirect,CO,Colombia BANCO_UNION_COLOMBIANO_TEST bank payment,co_banco_union_colombiano_bank_test
+715601bd-a8b7-444b-85ab-95d2584a3a0b,bank_redirect,TH,Krungsri e-Payment,th_krungsri_epayment_bank
+f7030da8-c6fe-40e1-9a03-8f340d4e1f43,bank_redirect,TH,"Omise (Gateway) bank payments:Krungsri Krung Thai, Bankgok Bank, Siam Commercial Bank (SCB)",th_other_onlinebanking_bank
+93884e1d-81bd-4ab1-a63f-3d91f61b4b67,bank_redirect,MY,Web Cash,my_webcash_bank
+b6297fe3-eb7d-4886-bd15-ae1be6f02f19,bank_redirect,TH,SCB - Web Pay,th_scb_webpay_bank
+2eb49cc1-eb31-46ec-b41a-71a05f0d0bda,bank_redirect,TH,Omise bank,th_other_onlinebanking
+c6e99619-d720-4908-a977-e729c667e887,ewallet,MY,eWallet VCash,my_vcash_ewallet
+88110649-f925-4b37-89ed-05c3b8d4bd2c,bank_redirect,CO,Colombia  ban co test bank payment,co_ban_co_bank_test
+216d472e-bfef-46e1-82be-ab12ccaa950f,bank_redirect,ID,cimb niaga,id_cimbniaga_redirect_bank
+beee7088-1181-4954-be93-506ec2f289c0,bank_redirect,ID,bri,id_bri_redirect_bank
+4b1f641d-42f9-40d3-8351-c56a11534c5d,bank_redirect,ID,bca,id_bca_redirect_bank
+94194ce7-d23f-48ff-b163-f82bb00aac86,ewallet,CN,UnionPay,cn_unionpay_card
+0219f45a-db8f-4c23-96e6-c3381f99f330,bank_redirect,ID,bni,id_bni_redirect_bank
+ac7a323f-b034-4116-82a3-d472fa8fa44a,bank_redirect,ID,mandiri,id_mandiri_redirect_bank
+1896e31d-8ebb-440b-afa4-732bc1907498,ewallet,VN,eWallet NganLuong,vn_bganluong_ewallet
+cd25fe11-b698-4556-a17c-49fd9647fdf6,bank_redirect,NZ,online bank payment ANZ New Zealand,nz_anz_bank
+5c4f9d33-ff70-4936-b3aa-fb58566ff6a5,bank_redirect,NZ,iBank NZ 01 - test Bank,nz_ibanknz01_bank
+a585f07f-baae-44cf-a6bf-e8c470e406d8,cash,CR,Mucap,cr_mucap_cash
+9855cc16-4e2b-48d1-a228-917745c4c9c7,cash,FR,France Yes by Cash,fr_yesbycash_cash
+fc175a32-2e68-4fc3-957c-568b751feb4d,cash,IT,Italy Ticket Premium,it_ticketprem_cash
+813fbd6c-9e83-11e8-85bb-126629637faa,bank_transfer,SK,IBAN,sk_iban_bank
+814323c3-9e83-11e8-85bb-126629637faa,bank_transfer,SI,IBAN,si_iban_bank
+814a09fd-9e83-11e8-85bb-126629637faa,bank_transfer,SE,IBAN,se_iban_bank
+8138d8f3-9e83-11e8-85bb-126629637faa,bank_transfer,RO,IBAN,ro_iban_bank
+8135422c-9e83-11e8-85bb-126629637faa,bank_transfer,PT,IBAN,pt_iban_bank
+8131c5e5-9e83-11e8-85bb-126629637faa,bank_transfer,PL,IBAN,pl_iban_bank
+5dcc99e9-9e83-11e8-85bb-126629637faa,bank_transfer,NL,IBAN,nl_iban_bank
+5dc5cfea-9e83-11e8-85bb-126629637faa,bank_transfer,MT,IBAN,mt_iban_bank
+5db82ec7-9e83-11e8-85bb-126629637faa,bank_transfer,LV,IBAN,lv_iban_bank
+5dc25691-9e83-11e8-85bb-126629637faa,bank_transfer,LU,IBAN,lu_iban_bank
+5dbed030-9e83-11e8-85bb-126629637faa,bank_transfer,LT,IBAN,lt_iban_bank
+5db152e6-9e83-11e8-85bb-126629637faa,bank_transfer,IT,IBAN,it_iban_bank
+5daa5bfb-9e83-11e8-85bb-126629637faa,bank_transfer,IE,IBAN,ie_iban_bank
+5da383ff-9e83-11e8-85bb-126629637faa,bank_transfer,HU,IBAN,hu_iban_bank
+5d7dfb90-9e83-11e8-85bb-126629637faa,bank_transfer,HR,IBAN,hr_iban_bank
+5d9cb5ea-9e83-11e8-85bb-126629637faa,bank_transfer,GR,IBAN,gr_iban_bank
+8150bd0a-9e83-11e8-85bb-126629637faa,bank_transfer,GB,IBAN,gb_iban_bank
+5d926719-9e83-11e8-85bb-126629637faa,bank_transfer,FR,IBAN,fr_iban_bank
+5d8f1e94-9e83-11e8-85bb-126629637faa,bank_transfer,FI,IBAN,fi_iban_bank
+81468f49-9e83-11e8-85bb-126629637faa,bank_transfer,ES,IBAN,es_iban_bank
+5d8baebb-9e83-11e8-85bb-126629637faa,bank_transfer,EE,IBAN,ee_iban_bank
+5d884507-9e83-11e8-85bb-126629637faa,bank_transfer,DK,IBAN,dk_iban_bank
+5d95fb2c-9e83-11e8-85bb-126629637faa,bank_transfer,DE,IBAN,de_iban_bank
+5d84cb48-9e83-11e8-85bb-126629637faa,bank_transfer,CZ,IBAN,cz_iban_bank
+c16e63ab-9e73-11e8-1135-126629637faa,bank_transfer,CY,IBAN,cy_iban_bank
+5d7aa7d6-9e83-11e8-85bb-126629637faa,bank_transfer,BG,IBAN,bg_iban_bank
+5d774173-9e83-11e8-85bb-126629637faa,bank_transfer,BE,IBAN,be_iban_bank
+c16e63ab-9e73-11e8-1138-126629637faa,bank_transfer,AT,IBAN,at_iban_bank
+e004b6b0-fd18-4083-920e-f7709d6decbb,bank_redirect,AT,Oberbank AG,at_oberbankageps_bank
+9d755a1d-bae9-466b-907e-9546a346d483,bank_redirect,AT,Bankhaus Spängler,at_carlspanglercoeps_bank
+0d4dac20-fb61-48a5-afc2-e1de3caccc1b,bank_redirect,AT,BAWAG P.S.K eps Online Überweisung,at_bawageps_bank
+cb28fec1-7dc5-425d-97c7-e7ed14a5f356,bank_redirect,AT,Erste Bank der oesterreichischen Sparkassen AG,at_erstebankundsparkasseneps_bank
+f01c7e35-5f89-4b2f-b46d-2094092a46bf,bank_redirect,AT,Raiffeisen Bankengruppe Österreich,at_raiffeiseneps_bank
+bf5b8103-0e25-4dd0-aebb-2052add2a432,bank_redirect,AT,Sparda Wien,at_spardabankwieneps_bank
+60a8bdbd-55bd-4e21-91b7-2d5d2c5c1715,bank_redirect,AT,EPS bank payments Arztebank Austria,at_arztebankeps_bank
+b8561b1b-8448-4685-9c98-8de04a6432a5,bank_redirect,AT,Hypo Alpe-Adria-Bank International AG,at_hypoalpeadriaageps_bank
+1f858b4f-f692-4eb4-ad16-5fac5140d777,bank_redirect,AT,Hypo Alpe-Adria-Bank AG,at_hypoalpeadriabankeps_bank
+d5a0d484-9381-479d-b191-5d9b1e46a72e,bank_redirect,AT,EPS bank payments Easybank Austria,at_easybankeps_bank
+4a56b16d-cde1-4b80-84c5-f0f4aa8a7065,bank_redirect,AT,EPS bank payments UniCredit Bank Austria Austria,at_unicredit_eps_bank
+3f9e7db4-5aa8-4dbb-a552-a8bfefcd7ede,bank_redirect,AT,Volksbank Marchfeld,at_marchfeldereps_bank
+b8ce3447-1692-4112-9dde-65da70ad083c,bank_redirect,AT,Hypo Burgenland,at_hypobankburgenlandeps_bank
+3d5d1fd5-d9b2-4316-bddd-129f85c95c7e,bank_redirect,AT,Hypo Tirol,at_hypotiroleps_bank
+9531c23c-9060-499c-9ac7-350660457cd5,bank_redirect,AT,EPS bank payments Volkskreditbank AEG AG Austria,at_volksbankgruppeageps_bank
+08998827-292d-4cf3-a91d-3434e67c90d1,bank_redirect,AT,EPS bank payments Brüll Kallmus Bank AG Austria,at_brullkallmusageps_bank
+feebe58a-3348-46dc-b67e-53dc405a79c5,bank_redirect,AT,VR-Bank Braunau,at_vrbraunaueps_bank
+412ee11f-8ade-43ee-b8a8-3d0e6a62c418,bank_redirect,AT,BTV VIER LÄNDER BANK,at_btvvierlandereps_bank
+0ad8f6cf-cbe7-4ba8-99ee-9d98dd27d208,bank_redirect,AT,Volksbank Gruppe,at_volksbankgruppe_eps_bank
+2f992ea5-1805-4ac4-bb5a-a5338c57aa28,bank_redirect,AT,"EPS bank payments HYPO OberOsterreich, Salzburg, Steiermark Austria",at_hyposteiermark_eps_bank
+15f7d83c-e437-4d62-97a2-aa32b5ce8e8c,bank_redirect,AT,Vorarlberger Landes- und Hypothekenbank,at_hypolandesbankeps_bank
+545eadc8-3db7-4faf-87fe-475c1992d183,bank_redirect,AT,Bankhaus Schelhammer & Schattera,at_bankhausschelhammerschatterageps_bank
+3e7508fc-4b85-4f18-8bd9-5a549299adfa,bank_redirect,AT,EPS bank payments Bankhaus Schelhammer and Schattera Austria,at_schelhammerschatteraeps_bank
+1cd84e19-a5f7-4571-a315-ea63795a9b52,bank_redirect,AT,Dolomitenbank Osttirol-Westkärnten eG,at_dolomiteneps_bank
+8da44567-bdbc-4bb4-94b7-620f72d40e31,bank_redirect,AT,EPS bank payments Schoellerbank Austria,at_schoellerbankeps_bank
+2b9a3b2d-cf3b-4d68-b653-c873d85dbbbd,bank_redirect,AT,BKS Bank AG,at_bkseps_bank
+d68c3f3e-91e5-455b-bc86-34ca2af82643,bank_redirect,AT,EPS bank payments Capital Bank Grawe Gruppe AG Austria,at_capitalgrawegruppeageps_bank
+123e9d47-5efd-4e19-adc4-568ae67463a9,bank_redirect,BR,bank transfer payment Bank Bradesco SafetyPay Brazil,br_bradescosafetypay_bank
+0364c590-ae23-4c3d-85a6-4ae8c2716392,bank_redirect,AT,EPS bank payments Volkskreditbank AG Austria,at_volkskreditbankageps_bank
+30d434e2-4785-4e40-9a1a-23f1995b5384,bank_redirect,BR,bank transfer payment Banco do Brasil SafetyPay Brazil,br_bancodobrasilsafetypay_bank
+45bc050c-9d9b-4688-9936-02d071d67bf6,bank_redirect,CL,Banco Estado One Step,cl_bancoestadoonestep_bank
+4aa2f4dd-296f-4f9b-beb1-4f107493d416,bank_redirect,CO,Banco Santander,co_bancosantander_bank
+b34d6dc7-d4fa-4822-87be-f1c680f903d9,cash,CR,Cash Payments Banco Lafise Costa Rica,cr_bancolafise_cash
+c7ffb081-dc11-49e5-b2fd-a637065e3934,cash,CR,Cash Payments Cathay Costa Rica,cr_cathay_cash
+768b5ba6-d374-47af-86c5-1e20603f8357,bank_redirect,CR,bank transfer payment Scotiabank Costa Rica,cr_scotiabank_bank
+148125e1-22fc-49e1-ae67-582684369307,cash,CR,Cash Payments Promerica Costa Rica ,cr_promerica_cash
+13b47922-280a-4293-8f6b-ca5a43890925,bank_redirect,ES,Ibercaja,es_ibercaja_bank
+cc07676c-eccf-48e6-a97c-fa856324a4c9,cash,CR,Cash Payments Banco Popular y de Desarrollo Comunal Costa Rica,cr_bancopopular_cash
+67604867-5f86-433d-8556-0ff60efd0596,cash,CR,Cash Payments Grupo Mutual Costa Rica,cr_grupomutual_cash
+f2bc4fc8-b79b-446a-842c-705ecf308078,bank_redirect,CR,CR MUCAP BANK,cr_mucap_bank
+813afb4e-59b7-4e88-8987-561890fa4820,cash,ES,Cash Payments PAGAQUI Spain,es_pagaqui_cash
+e88ac654-1d05-410c-8649-0b45aa3376d3,bank_redirect,ES,online bank payment BBVA Sapin,es_bbva_bank
+9a5c2b1b-35e1-4ccf-a30e-36d2730a576e,cash,ES,Cash Payments Abanca Spain,es_abanca_cash
+5812a406-36bb-4378-9a0f-514af7814046,bank_redirect,MX,online bank payment Banamex mexico,mx_banamex_bank
+436999e1-4ce6-43fe-a1ff-7696774c5a61,cash,MX,Cash Payments Scotiabank Mexico,mx_scotiabank_cash
+7d0cb532-4b7c-4915-8d4a-f67dcbefefe2,cash,MX,Cash Payments Santander Mexico,mx_santander_cash
+ea16d505-5c0e-4b42-8816-ce418057620e,bank_redirect,MX,online bank payment Todos los bancos mexicanos a través de la transferencia interbancaria. mexico,mx_allbanks_bank
+08e40770-7ca4-4019-8edd-a3dd5f5b7e89,cash,MX,Cash Payments Banorte Mexico,mx_banorte_cash
+c83691b2-afed-4bc7-b214-adb1a72f4ede,bank_redirect,NL,Rabobank iDeal,nl_rabobankideal_bank
+2bd283cc-b472-49e2-aca3-2112b89bb606,bank_redirect,NL,Triodos Bank,nl_triodosbankideal_bank
+411b81dc-c6ed-4d21-91ed-e75bc11ebfe6,bank_redirect,NL,ING,nl_ingideal_bank
+006d8637-ed5a-431f-bf28-f1ef9094cc83,bank_redirect,NL,SNS Bank iDeal,nl_snsbank_ideal_bank
+e95675a9-5a8b-4a69-a6ee-ed3100f0602d,bank_redirect,NL,ABN AMRO iDeal,nl_abnamroideal_bank
+bf3fce2b-e63a-470a-927a-bf998ed6894e,bank_redirect,DE,Online Bank GiroGate Germany,de_girogate_bank
+3f86c8fc-e0d1-400a-90e2-720a005048ab,bank_redirect,PT,Online Bank Multibanco Portugal,pt_multibanco_bank
+adfc588e-9517-4b52-9635-fedc596e514f,cash,PT,Cash Payments PagaAqui Portugal,pt_pagaaqui_cash
+e1f3ed4a-1357-4b8d-8991-d93be3638708,cash,PE,Peru OTC Cash,pe_cash_cash
+e06a2023-60cb-4432-ae73-e3b8eb8f9ecf,bank_redirect,IN,AXIS,in_axis_bank
+6d8fca8a-b78f-49be-b573-1f3e417a76f6,bank_redirect,IN,Bank of Maharashtra,in_bankofmaharashtra_bank
+3b23f019-ef48-4900-965d-d76ce8004b1a,bank_redirect,IN,Bank of Baroda Corporate Banking,in_barodacorporate_bank
+2920d0a0-9219-46a8-8e81-fd2d12f42123,bank_redirect,IN,DBS Bank,in_dbs_bank
+d7330ec5-cfa1-4b79-aaf4-f7fbf5eba087,bank_redirect,IN,DCB BANK Personal Banking,in_dcbpersonal_bank
+ce9b3816-020e-4d44-b36d-69fabcda216f,bank_redirect,IN,Central Bank of India,in_central_bank
+47e0a4db-b495-4d85-aab5-e80ee3ff6db9,bank_redirect,IN,Bank of Bahrain and Kuwait,in_bahrainandkuwait_bank
+4b488200-1f43-44dc-9ad8-d8dafa6698a9,bank_redirect,IN,Dhanalakshmi Bank,in_dhanalakshmi_bank
+b7540f65-57a9-4d4e-bb36-4b4ae59c8ae0,bank_redirect,IN,Industrial Development Bank of India,in_industrialdevelopmentbankofindia_bank
+c211e0d5-ac1c-4e2e-a525-04b7caa53bbb,bank_redirect,IN,Jammu and Kashmir Bank,in_jammuandkashmir_bank
+79a353ac-1093-4010-b752-110f0571ea12,bank_redirect,IN,Development Credit Bank,in_developmentcredit_bank
+a7e1206f-7563-421a-aec2-deaed1762134,bank_redirect,IN,PNB,in_pnb_bank
+de2d4fc9-80ca-4df4-9d27-afa57c776d6d,bank_redirect,IN,Royal Bank Of Scotland,in_royalbankofscotland_bank
+c06d7bc4-27ef-4e36-aff9-5e3c11a71ae4,bank_redirect,IN,Oriental Bank of Commerce,in_orientalbankofcommerce_bank
+24167fa0-1d31-4575-8526-f2479fb6f28e,bank_redirect,IN,Punjab And Maharashtra Co-operative Bank,in_punjabandmaharashtracooperative_bank
+4c7907b1-ee6d-4ace-9a19-2b225f7e3315,bank_redirect,IN,Punjab National Bank (Corporate),in_punjabnationalcorporate_bank
+2e548878-63fe-4daa-a647-dc6dab362cb3,bank_redirect,IN,Laxmi Vilas Bank (Corporate Netbanking),in_laxmivilascorporate_bank
+5bcacbe7-4c3b-4c68-bc6f-cccf96375ad3,bank_redirect,IN,KOTAK,in_kotak_bank
+4d87b437-c24c-4e9e-bfb6-66bb718e7de6,bank_redirect,IN,Punjab & Sind Bank,in_punjabandsind_bank
+10bf666a-572a-47d3-900d-6cc2f20c4614,bank_redirect,IN,Karur Vysya - Corporate Netbanking,in_karurvysyacorporate_bank
+318b41f9-1a90-4748-8dca-da3e82da750f,bank_redirect,IN,Laxmi Vilas Bank,in_laxmivilas_bank
+e5bf8228-83b3-4989-b674-58e96fa73986,bank_redirect,IN,State Bank of Mysore,in_statebankofmysore_bank
+e867df05-1265-43e3-ae02-4bf1dfc07fde,bank_redirect,IN,Shamrao Vitthal Cooperative Bank,in_shamraovitthalcooperative_bank
+bb450ccc-121e-41ec-81f2-e469be3db6fa,bank_redirect,IN,SBI,in_sbi_bank
+2bc241f4-03f7-4faf-9869-3f57bb31cd55,bank_redirect,IN,State Bank of Travancore,in_statebankoftravancore_bank
+3155e9ee-7a49-42d7-86da-32c18f7f8f30,bank_redirect,IN,State Bank of Hyderabad,in_statebankofhyderabad_bank
+0be96ec3-4c59-4509-b3a8-133f8ae03cf9,bank_redirect,IN,Tamilnad Mercantile Bank,in_tamilnadmercantile_bank
+8c45034c-10b2-4e72-be97-d841cbdf6c9a,bank_redirect,IN,State Bank of Patiala,in_statebankofpatiala_bank
+3d482cdc-56a4-42cd-a59e-ecfcf86ced66,bank_redirect,IN,IN Standard Chartered Bank,in_standardchartered_bank
+e244459c-7cf5-469f-8c43-1eaa148ccaaf,bank_redirect,IN,State Bank of Bikaner and Jaipur,in_statebankofbikanerandjaipur_bank
+5201a499-eefe-4f6e-aea6-deb79f2b63ae,bank_redirect,IN,Union Bank of India- Corporate Netbanking,in_unionbankofindiacorporate_bank
+dbfd43b1-010a-42bc-ac8f-d55ee8e6850c,bank_redirect,IN,Union Bank of India,in_unionbankofindia_bank
+4f282738-7ea8-4a82-a288-915adf52aef0,bank_redirect,IN,Instamojo Test Bank,in_instamojo_bank_test
+a3b85a97-8af1-4a3e-ad2d-d051f455760f,bank_redirect,IN,United Bank of India,in_unitedbankofindia_bank
+e4c4d9ea-e731-460b-8ea3-1ae59951f9a9,bank_redirect,IN,Yes Bank,in_yes_bank
+56cd4280-ddae-4629-b1cc-cc6a3d79fc15,ewallet,IN,Mobikwik,in_mobikwik_ewallet
+c8080efc-034e-479c-9aa5-fca63cadd565,ewallet,CN,AliPay eWallet,cn_alipay_cny
+006efb2a-acd0-475f-9bd0-3b983d36eeff,bank_transfer,CN,Bank Transfer,cn_bank_transfer_collections_bank
+2c33378c-9d9f-4fe6-95a1-2ddde5231eea,bank_transfer,UY,Bank Transfer Payment Uruguay,uy_test_bank
+4f9ddb44-1b79-4645-940f-bf126cee63bf,bank_redirect,TH,Credit card,th_card_card
+5979c613-a1b9-49f9-8566-4d1b6a92cd9c,bank_redirect,MY,Credit Card,my_creditcard_card
+a863cf6e-a539-4365-9425-f296103f03db,bank_redirect,MY,Credit Card,my_creditcardmyrpreauth_card
+eac59aa0-2e26-43ed-9918-acd83a71438b,card,CO,Colombia Card payments,co_card_card
+3b5b16f7-e932-4e5e-8efb-962f7de11566,card,EC,Ecuador Card payments,ec_card_card
+12c04601-383c-4753-b640-f401d0306327,card,IN,India Credit Cards,india_credit_card
+b9333a42-74c5-465e-b35f-cdee389dfc20,bank_redirect,CN,UnionPay (Disbursements),cn_cup_disbursements_bank
+f04b8cbe-1a35-48cb-aee0-9063721800f5,bank_redirect,CN,UnionPay,cn_cup_collections_bank
+8df5bfdf-f5ab-4b8e-a3c3-0406528000e9,ewallet,KH,Metfone eWallet,kh_metfone_ewallet
+8e8ef0ab-c838-4630-82b2-b0252d23d256,bank_redirect,KH,Visa,kh_credit_visa_card
+51966e79-2714-4f51-8cad-fe272f485d29,bank_redirect,KH,Diners Club,kh_credit_diner_card
+e0ef1468-eab9-4269-a04c-750036168bd5,bank_redirect,KH,UnionPay,kh_credit_cup_card
+39a2e7c8-6fa1-4bea-8aaf-ce8dd788af98,ewallet,KH,PiPay eWallet,kh_pipay_ewallet
+33d95ea1-b3a1-4320-a18d-3a97e27ab4a3,ewallet,KH,Wing Money eWallet,kh_wing_ewallet
+c104816e-2fbe-484c-8b0a-c4c617b7e030,bank_redirect,KH,JCB,kh_credit_jcb_card
+3bf56a26-3418-49b3-8310-f9221a2f6ef0,ewallet,KH,AliPay eWallet,kh_alipay_ewallet
+e92eae6d-2fd1-4d07-9251-468b7b5eba42,bank_redirect,KH,Mastercard,kh_credit_mc_card
+6ba9628c-f84d-4f1c-8c46-ab7b0f0c0495,card,IN,India Debit Cards,india_debit_card
+bd1a2333-30ea-11e9-8baa-0ed4cc82c482,card,NG,Nigeria International Card Payment,ng_international_card
+69c89929-cdfe-496f-81dd-efb458aa399d,card,MY,Mastercard,my_mastercard_card
+73b47ef1-70df-426a-b03c-da27dfa084e4,card,MY,Visa,my_visa_card
+70157c6b-62d0-43eb-bda3-e7e118703bbe,cash,EC,Cash payment Banco Pichinchami Ecuador,ec_pichinchami_cash
+764c788c-86c2-4cc6-bf99-ae7e43be9702,cash,EC,Cash payment farmaciassanasana,ec_farmaciassanasana_cash
+99bf73aa-d1dc-438b-8294-8e2c1223f91e,cash,TH,BIGC,th_bgic_cash
+ab4b5b8d-db5c-11e8-8544-0ed4cc82c482,ewallet,LK,Utility Bill Payment Sri Lanka Institute of Information Technology,lk_ezcash_sliit
+b3df76bc-6aee-409a-98ec-8d6e0db38bcd,card_redirect,KR,Local Credit/Debit Card,kr_credit_card
+4ed672c2-ef7b-4e06-940b-fdceca67bb23,bank_redirect,KR,Local Bank Transfer,kr_online_bank
+b51eee78-d57e-4196-ad50-f634704c25cc,ewallet,KR,T-money,kr_tmoney_ewallet
+9a8ebd75-a137-4981-8e7b-a8c636d13dcd,ewallet,KR,Toss eWallet,kr_toss_ewallet
+3f454537-3b7c-4b13-9d68-8063a4d9ee84,bank_redirect,UY,BROU Bank Transfer Payment Uruguay,uy_brou_bank
+825e01a7-fd39-4576-9f62-97fcc94fa08f,bank_redirect,UY,Itaú Bank Transfer Payment Uruguay,uy_itau_bank
+cdcbd2d5-ff0b-42a5-8748-c26e2a6c7bcd,bank_redirect,UY,Santander Bank Transfer Payment Uruguay,uy_santander_bank
+fe33932b-5a98-4b1b-8989-2052459cec63,bank_redirect,UY,BBVA Bank Transfer Payment Uruguay,uy_bbva_bank
+e0af9a79-c09e-4d18-be29-f94b8eb2d770,bank_redirect,UY,Banque Heritage Bank Transfer Payment Uruguay,uy_banqueheritage_bank
+6175fade-f871-400c-84c1-04a833414120,bank_redirect,UY,Scotiabank Bank Transfer Payment Uruguay,uy_scotiabank_bank
+fa58be4b-66c5-4d06-b7df-52a078800ad7,bank_redirect,UY,HSBC Bank Transfer Payment Uruguay,uy_hsbc_bank
+5ea07cae-cd5f-41c7-b852-0634f2ad4358,cash,GB,Cash payments UK,gb_cashpz_cash
+a1866bb5-05de-4564-920b-2a8011c61ee7,cash,BO,Express Cash Bolivia,bo_express_cash
+96ed3998-7b3b-42b8-a7bd-3ce584a4549f,cash,UY,Cash payments Uruguay,uy_redpagos_cash
+f195932a-89d3-434f-91e5-c8a5bb322879,cash,BR,HSBC Cash Payment,br_hsbc_cash
+c8b535ef-5dda-4fcb-bf1a-c73a2b5eb524,cash,BR,Citibank Cash Payment,br_citibank_cash
+b83fe9f7-beef-4590-bc37-a874103c7849,cash,BR,Correios Cash Payment,br_correios_cash
+5555aaf6-4b89-4a42-afcb-85437945f87c,cash,BR,Loterica Cash Payment,br_loterica_cash
+ef4d4146-921b-40f9-87b3-7805dcbef3dc,bank_redirect,ZA,online bank payment Ozow bank Instant EFT,za_ieft_bank
+777f65b3-6a6a-11e9-8c79-0e6deef80380,ewallet,SG,GrabPay,sg_grabpay_ewallet
+5a211ca9-a0c9-11e9-949a-125c447e35c6,cash,IL,RBO Bulk Test,rbo_test_cash
+6f0cd72d-a0c9-11e9-949a-125c447e35c6,bank_redirect,IL,RBO Bulk Test,rbo_test_bank
+e65f0d6a-6db2-4d40-bcb7-8466bbd0521b,cash,BO,Farmacorp Cash Bolivia,bo_farmacorp_cash
+dc45bd11-e826-4e73-ac82-d2367aba2017,cash,BO,Diaconia Cash Bolivia,bo_diaconia_cash
+433a305b-16cf-4568-aff5-baa040ed006e,cash,BO,Crecer Cash Bolivia,bo_crecer_cash
+aa7563ec-ff55-4b1d-a47b-495dea4e376a,cash,BO,Cidre Cash Bolivia,bo_cidre_cash
+f1edebeb-8272-4373-8ad5-48ca016098ab,cash,BO,Tiendas Ya Cash Bolivia,bo_tiendasya_cash
+069dc8f5-d526-44d2-ab2d-ae7e6d714e90,cash,BO,Tigo Money Cash Bolivia,bo_tigomoney_cash
+8b4fd541-d3e9-4fcb-810c-c86190529ee8,cash,BO,Pronto Cash Bolivia,bo_pronto_cash
+caf31711-07ca-4f0e-91cd-63254c290e8a,bank_transfer,KW,KW Virtual IBAN,kw_iban_bank
+4ede84d5-2e16-400a-8cce-cea8e27da6dc,bank_transfer,MX,Rapyd Networks Mexico S.A.P.I. DE C.V.,mx_rapyd_banregio_bank
+8d3cf1d2-8aa9-4e69-8054-2b45d25b78ac,card,SG,eNETS,sg_eNETS_card
+a0af0df6-bbb4-45cd-971e-cc8b510c381b,ewallet,ID,eWallet GrabPay,id_grabpay_ewallet
+3293ec9d-6d85-40e3-ae7e-e5d6b54cb13c,ewallet,VN,eWallet GrabPay,vn_grabpay_ewallet
+1048a660-ebf7-4cb3-a8aa-83dc711de257,ewallet,TH,GrabPay eWallet,th_grabpay_ewallet
+f72f2360-c52f-4933-bce5-ef400be869ba,cash,MX,Te Creemos,mx_tecreemos_cash
+93ac0182-a1f3-45dd-85ff-67270a3b3692,cash,MX,Farmacias Guadalajara,mx_farmaciasguadalajara_cash
+8bf79798-1bfa-448a-a6ce-b77d628db154,bank_redirect,AT,BAWAG P.S.K eps Online Überweisung,at_bawag-p.s.k-eps-online-uberweisung_bank
+ad74434e-d74e-4de7-92bc-4466a5780504,bank_redirect,AT,Bankhaus Spängler,at_bankhaus-spangler_bank
+0bfd1402-cd26-4fe5-a939-56ceef4bf2b3,bank_redirect,AT,Hypo Niederösterreich,at_hypo-niederosterreich_bank
+23d49179-6dcb-4a9f-b5e1-f44aed242fd4,bank_redirect,AT,Volksbank Gruppe,at_volksbank-gruppe_bank
+14c078eb-22e9-4299-9ff0-43a07b4d67f3,bank_redirect,AT,Raiffeisen Bankengruppe Österreich,at_raiffeisen-bankengruppe-osterreich_bank
+9289c3bf-9f63-4724-adfd-c62ed6d130da,bank_redirect,AT,Bank Austria eps Online Überweisung,at_bank-austria-eps-online-uberweisung_bank
+2da1e704-eaca-4039-8caf-6bea3082860a,bank_redirect,AT,Erste Bank der oesterreichischen Sparkassen AG,at_erste-bank-der-oesterreichischen-sparkassen-ag_bank
+d19f4509-e26c-4b28-b047-6870c4436b5c,bank_redirect,AT,Easybank,at_easybank_bank
+12281a41-8581-4871-baa3-378d4c851f33,bank_redirect,AT,Sparda Wien,at_sparda-wien
+ae2ca1cc-757a-4549-9374-f90eaaf80913,bank_redirect,AT,Hypo Alpe-Adria-Bank AG,at_hypoalpeadriabankag_bank
+fe41e737-0496-403d-a808-c986b073efc0,bank_redirect,AT,Ärztebank,at_arztebank_bank
+e9202c10-5fe7-493b-a28a-78745619f60f,bank_redirect,AT,Apothekerbank,at_apothekerbank_bank
+989dc5a6-d697-46d6-919b-6ae4df7e2349,bank_redirect,AT,Investkreditbank,at_investkreditbank_bank
+4ee1ced9-8352-4656-a69c-27c6b66b5ff0,bank_redirect,AT,Gärtnerbank,at_gartnerbank_bank
+2dea3134-00b7-4af8-8420-91d6cb118b19,bank_redirect,AT,Immo-Bank,at_immo-bank_bank
+03beef33-722c-4a78-9d86-6c68e1b6cc7b,bank_redirect,AT,Hypo Burgenland,at_hypo-burgenland_bank
+da6a31d7-0a22-44fe-840c-b00e9b2f8b80,bank_redirect,AT,Hypo Tirol,at_hypo-tirol_bank
+e190f449-e5ba-4a02-819c-2d299106c549,bank_redirect,AT,"Hypo OÖ, SZBG, STMK",at_hypo-oo-szbg-stmk_bank
+a0dd5c38-83f7-4e05-8a11-01d421e47236,bank_redirect,AT,Vorarlberger Landes- und Hypothekenbank,at_vorarlberger-landes-und-hypothekenbank_ bank
+2f32855a-0259-4c6d-8824-e2a855aa6ffe,bank_redirect,AT,Bankhaus Krentschker & Co,at_bankhaus-krentschker-co_bank
+05d12f24-c716-4afd-937c-3a3ed755a10f,bank_redirect,AT,Bankhaus Schelhammer & Schattera,at_bankhaus-cchelhammer-sdchattera_bank
+d2525f84-a185-4c2e-a86e-33c6d619a229,bank_redirect,AT,Commerzialbank Mattersburg,at_commerzialbank-mattersburg_bank
+08bf74b0-ae15-49f5-887e-31376df9b068,bank_redirect,AT,Schoellerbank,at_schoellerbank_bank
+973941da-050f-4f35-bd9d-55468384c802,bank_redirect,AT,Sparda-Bank Villach/Innsbruck,at_sparda-bank-villach-Innsbruck_bank
+38206ae0-4e32-4362-9625-809713fe7b46,bank_redirect,AT,VR-Bank Braunau,at_vr-bank-braunau_bank
+e816a0e4-830a-4d13-93c9-5ab454503d0f,bank_redirect,AT,Oberbank AG,at_oberbankag_bank
+381412ae-f81a-470b-95a6-d53ca8565743,bank_redirect,AT,BKS Bank AG,at_bks-bank-ag_bank
+477882ec-35ae-4d7d-9f47-68918e9ed0ab,bank_redirect,AT,Volkskreditbank AG,at_volkskreditbank-ag_bank
+060fcd4a-41dd-46a7-917e-a0571930635b,bank_redirect,AT,Raiffeisen Saalfelden,at_raiffeisen-saalfelden_bank
+6f63cb0b-4a30-42e1-9845-1e95ad109204,bank_redirect,AT,BTV VIER LÄNDER BANK,at_btv-vier-lander-bank_bank
+32292b8a-6c67-48c8-8759-ea2a4088ba35,bank_redirect,AT,HYPO NOE Gruppe Bank AG,at_hypo-noe-gruppe-bank-ag_bank
+98c2401c-1aeb-477e-b02c-e1bac2e7498b,bank_redirect,AT,Hypo Alpe-Adria-Bank International AG,at_hypo-alpe-adria-bank-international- ag_bank
+004959a7-02d7-43b2-945e-87a3e00fce19,bank_redirect,AT,Volksbank Marchfeld,at_volksbank-marchfeld_bank
+10e4266d-0f5d-4212-b6c4-084dfb31b25b,bank_redirect,AT,Dolomitenbank Osttirol-Westkärnten eG,at_dolomitenbank-osttirol-westkärnten-eg_bank
+c19a989e-07f8-4b28-b6ea-dd6e3e316260,bank_redirect,BE,Bancontact Mister Cash,be_bancontact-mister-cash_bank
+6e03fd88-eacf-41d1-b95d-bb5a2beb296b,bank_redirect,BR,Bradesco SafetyPay,br_bradesco_safetypay_bank
+8f9e33a2-f227-452d-ac4b-2c21f606528a,bank_redirect,BR,Santander Brasil,br_santander_brasil_bank
+485a11b0-986e-4f38-aa68-9de03d3b19f5,bank_redirect,BR,Banco do Brasil SafetyPay,br_banco_do_brasil_safetypay_bank
+0b2fda1a-732f-4637-9c01-db61380249fa,bank_redirect,BR,Banco Itau Brasil,br_banco_itau_brasil_bank
+7f62828b-3c21-4580-9135-1a0716c30c78,cash,CL,Walmart Chile,cl_walmart-chile_cash
+ae6b3c80-e760-4824-aea7-d40ddeda26b9,bank_redirect,CL,Banco Estado One Step,cl_banco-estado-one-step_bank
+1ae292b0-9d40-4d54-9c92-b57bf8b9bc69,bank_redirect,CL,Banco Santander One Step,cl_banco-santander-one-step_bank
+1d47e5d5-df00-44c5-9486-0d26d00f53d1,bank_redirect,CL,Banco de Chile One Step,cl_banco-de-chile-one-step_bank
+6c6c2378-19ee-4d68-9def-8816077ceff6,bank_redirect,CL,Banco BCI One Step,cl_banco-bci-one-step_bank
+385bed43-0266-438c-bf30-a4a5bd1f8378,bank_redirect,CL,Banco BBVA Chile One Step,cl_banco-bbva-chile-one-step_bank
+0591bb7c-8b3e-4aa6-aace-7a9d694d4cbb,cash,CL,Caja Vecina,cl_caja-vecina_cash
+5ebe64e1-a0e4-438a-8e4f-d369ae56dc26,bank_redirect,CO,BBVA,co_bbva_colombia_bank
+c461b430-efba-49b1-a4f4-4fc7056ca5b8,bank_redirect,CO,Banco de Bogota,co_banco-de-bogota_bank
+ee41ed0e-6665-4363-9d3e-c024c5d66ef7,bank_redirect,CO,Banco AV Villas,co_banco-av-villas_bank
+83b1d694-8a5f-4d38-bba2-df8d08fd665b,bank_redirect,CO,Banco Caja Social,co_banco-caja-social_bank
+b4252f7a-b376-4c45-8ae8-d5f52404e9b5,bank_redirect,CO,Banco Colpatria,co_banco-colpatria_bank
+4fae63e2-f3db-4ea8-80e3-390c02c44fce,bank_redirect,CO,Banco Davivienda,co_banco-davivienda_bank
+506c4f63-fdf1-4081-b6a6-feb169591c65,bank_redirect,CO,Banco de Occidente,co_banco-de-occidente_bank
+68d71752-ff46-4db8-b129-4c6e4da45c31,bank_redirect,CO,Banco GNB Sudameris,co_banco-gnb-sudameris_bank
+f200678e-02a9-4524-8e32-ee6917cc2433,bank_redirect,CO,Banco Pichincha COL,co_banco-pichincha-col_bank
+85ebbf71-9954-45a0-bfe2-3e49077f2bc3,bank_redirect,CO,Banco Popular,co_banco-popular_bank
+91c114cd-7ff5-4b2f-9f9a-9fa0f4148d9e,bank_redirect,CO,Banco ProCredit,co_banco-procredit_bank
+94a4aaf5-9a5e-4ce6-aeba-aef5662e64dd,bank_redirect,CO,Citibank Colombia,co_citibank-colombia_bank
+54562015-0c5b-46bb-a9e6-78ffff6d6b59,bank_redirect,CO,Banco Falabella,co_banco-falabella_bank
+f20432a1-d261-4c68-a8f4-ba8f6af4ed95,cash,CO,MovilRed Colombia,co_movilred-colombia_cash
+24c86a12-20ad-43e2-bfd0-70509a4826f7,cash,CO,Banco AV Villas Cash,co_banco-av-villas-cash_cash
+a57cea9a-15ca-46eb-a283-720cef1f57a4,bank_redirect,CO,Banco Agrario,co_banco-agrario_bank
+d94b59a4-f64b-4bbe-be98-58679f121b7c,cash,CO,PinValidda-Bank,co_pinvalidda-bank_cash
+50c2428c-57b1-456a-80b0-894fc148ce21,bank_redirect,CO,Banco Cooperativo Coopcentral,co_banco-cooperativo-coopcentral_bank
+774fc944-2606-4d9c-8b1d-73314ce76574,cash,CR,Correos de Costa Rica,cr_correos-de-costa-rica_cash
+d883f324-a6df-45d8-933b-f913834bf9c5,cash,CR,Scotiabank Costa Rica,cr_scotiabank_costa_rica_bank
+2b2ca1dd-d816-474f-b474-4c9d512a64ad,bank_redirect,CR,Grupo Mutual,cr_grupo-mutual_bank
+1ad207f5-73c5-4ed2-a625-a268231ebdf7,bank_redirect,CR,Banco Lafise,cr_banco-lafise_bank
+03392c83-1429-485f-9ba3-80ad77c87c08,cash,EC,Banco Guayaquil,ec_banco-guayaquil_cash
+76b2d529-7949-40e8-b0d2-c3b84c25648e,bank_redirect,ES,La Caixa,es_la-caixa_bank
+c9bc9104-0c42-4bea-8c0f-9205b6c0768e,bank_redirect,ES,Banco Popular UNNAX,es_banco-popular-unnax_bank
+3cc0615e-6769-4467-9be1-a4c7a3433858,bank_redirect,ES,Banco Sabadell UNNAX,es_banco-sabadell-unnax_bank
+5f6c8cf8-9739-4208-b744-773e56594e81,bank_redirect,ES,NG Direct,es_ing-direct_bank
+63c7a348-51e8-45c2-a034-45474fbc0d0a,bank_redirect,ES,Bankia,es_bankia_bank
+10caa680-c21d-41a9-8e1a-fc31c2188102,bank_redirect,ES,La Caixa Empresa,es_la-caixa-empresa_bank
+e1149513-e9cd-44dd-8f86-662c5d469a5f,bank_redirect,ES,Santander Empresa,es_santander-empresa_bank
+8e0d33ef-0c19-435f-88a5-14e6b1b73139,bank_redirect,ES,Sabadell Empresa,es_sabadell-empresa_bank
+5ea339e9-cf31-46f5-8c3f-c6a0bb76e526,bank_redirect,ES,ING Direct Empresa,es_ing-direct-empresa_bank
+fcd1c122-ae0a-467f-908f-810b50aa763a,bank_redirect,ES,Bankia Empresa,es_bankia-empresa_bank
+00f53baa-6bc8-4ae7-bfba-67ecdf5b0d26,bank_redirect,IT,My Bank,it_my-bank_bank
+87edb407-7e1b-4f66-81b0-1161270126d2,cash,MX,Banamex WS,mx_banamex-ws_cash
+05f187ea-4a1a-4d06-806c-75f95c0d7868,bank_redirect,MX,Banorte Empresas,mx_banorte-empresas_bank
+dc475ff9-b0c0-4359-95fa-cc88a100c555,bank_redirect,MX,SPEI MX,mx_spei-mx_bank
+aef21f8b-6998-41a3-8a48-949052267adf,cash,MX,OpenPay,mx_openpay_cash
+7bcd2eb6-11ef-4c3a-b22c-1703bfbeade9,cash,MX,Banco Azteca,mx_banco-azteca_cash
+3db795cb-7e9d-4428-857a-cf6308a7f671,cash,MX,HSBC Mexico,mx_hsbc-mexico_cash
+a9f4c417-4520-4688-a0ab-b669b3983d50,cash,MX,Banco Inbursa,mx_banco-inbursa_cash
+9dd1c9a5-3c60-4243-b7d7-0f993922f484,cash,MX,BBVA Bancomer,mx_bbva-bancomer_cash
+ebb03b8e-013c-4993-af2d-c54ff39410e8,bank_redirect,MX,Santander MEX,mx_santander-mex_bank
+f97b24d4-90ab-4671-a504-360c362d42dc,bank_redirect,MX,Scotiabank Mexico,mx_scotiabank-mexico_bank
+a930e31b-3c01-46c0-b194-4505513e2c22,bank_redirect,NL,ING,nl_ing_bank
+e7c46f0f-9796-46c3-a30f-9c4cd9bf043d,cash,PE,Banco de Crédito,pe_banco-de-credito_cash
+33f64ba2-5c9c-4154-8f95-5bfcd5f422f1,cash,PE,Scotiabank Peru,pe_scotiabank-peru_cash
+40a7a59c-390f-457b-8625-5ba597bc4823,cash,PE,Caja Tacna,pe_caja-tacna_cash
+2f0ec943-c215-46cc-96ca-551fa2fa0eaa,cash,PE,Caja Trujillo,pe_caja-trujillo_cash
+ad1464f0-e6f9-47b3-b254-fe027d233cc4,cash,PT,PAGAQUI,pt_pagaqui_cash
+2d7e7f51-c007-41fa-8ecd-6a24f7912a88,cash,SV,Punto Xpress SLV,sv_punto-xpress-slv_cash
+8ae11bed-03b7-4230-945d-214ce0a6a20a,cash,US,MoneyGram,us_moneygram_cash
+77def59f-140d-11ea-94a4-023b8c97181a,cash,MX,Banamex WS,mx_banamex_ws_cash
+7baf0cd3-1408-11ea-94a4-023b8c97181a,bank_redirect,AT,Hypo Alpe-Adria-Bank International AG,at_hypo_alpe_adria_bank_international_ag_bank
+83c58184-1408-11ea-94a4-023b8c97181a,bank_redirect,AT,Vorarlberger Landes- und Hypothekenbank,at_vorarlberger_landes_und_hypothekenbank_bank
+8aac83d3-1408-11ea-94a4-023b8c97181a,bank_redirect,AT,Dolomitenbank Osttirol-Westkärnten eG,at_dolomitenbank_osttirol_westkarnten_eg_bank
+d16f184e-bbb9-4f9e-a8e9-ea1c1dd09322,bank_redirect,PE,Banco de Credito,pe_bancodecredito_bank
+83b33e8f-bd8b-4538-aab6-1dfe0cba7a32,bank_redirect,PE,Caja Arequipa,pe_cajaarequipa_bank
+eeb165b2-7f76-4f4b-abd6-62501fe963c4,bank_redirect,AT,Bank Austria eps Online Überweisung,at_bankaustriaepsonlineuberweisung_bank
+192dabf2-db0e-4400-a118-9423be806d63,bank_redirect,AT,Bankhaus Schelhammer & Schattera,at_bankhauscchelhammersdchattera_bank
+075e8937-1a43-4d1c-b264-54743fe22b1c,bank_redirect,AT,Bankhaus Krentschker & Co,at_bankhauskrentschkerco_bank
+657d91e6-2348-42d5-84be-2cf0c41195b7,bank_redirect,AT,Bankhaus Spängler,at_bankhausspangler_bank
+a967dcea-51f1-4cc3-8dad-f1ae26d30e7b,bank_redirect,AT,BAWAG P.S.K eps Online Überweisung,at_bawagpskepsonlineuberweisung_bank
+c3264b82-fcab-410d-93df-8cf88430ffc4,bank_redirect,AT,BKS Bank AG,at_bksbankag_bank
+901d21d6-7f96-4fb4-85c3-207370d70e6f,bank_redirect,AT,BTV VIER LÄNDER BANK,at_btvvierlanderbank_bank
+59c8b1e0-0bbf-4a14-928d-326c1998f7c9,bank_redirect,AT,Commerzialbank Mattersburg,at_commerzialbankmattersburg_bank
+d90f629a-8769-44ce-b53a-92d7481f33bc,bank_redirect,AT,Erste Bank der oesterreichischen Sparkassen AG,at_erstebankderoesterreichischensparkassenag_bank
+f6599b23-66a1-44f7-be1c-186b99004cfb,bank_redirect,AT,Hypo Burgenland,at_hypoburgenland_bank
+cfbc582a-2039-421d-935a-920196758f38,bank_redirect,AT,Hypo Niederösterreich,at_hyponiederosterreich_bank
+2ffddeb0-759e-48fc-935f-29468140a91a,bank_redirect,AT,HYPO NOE Gruppe Bank AG,at_hyponoegruppebankag_bank
+2799f855-ba92-4dc5-8c72-9e08834bd5d2,bank_redirect,AT,"Hypo OÖ, SZBG, STMK",at_hypoooszbgstmk_bank
+7521bb9c-e6b1-4a47-867d-3073678d535e,bank_redirect,AT,Hypo Tirol,at_hypotirol_bank
+db53991b-789b-4309-bac0-9d6f0177c7b4,bank_redirect,AT,Raiffeisen Bankengruppe Österreich,at_raiffeisenbankengruppeosterreich_bank
+5a58869c-927a-42f7-bffd-7fd87ba91c4e,bank_redirect,AT,Raiffeisen Saalfelden,at_raiffeisensaalfelden_bank
+cddd6171-c2ae-4a52-9a81-60d49f50c50d,bank_redirect,AT,Sparda-Bank Villach/Innsbruck,at_spardabankvillachinnsbruck_bank
+5f7f582d-3643-4409-a275-98ed8c37ae20,bank_redirect,AT,Sparda Wien,at_spardawien_bank
+3b22a0e2-bf4c-11ea-9218-02672765d2c9,bank_redirect,AT,Volksbank Gruppe,at_volksbankgruppe_bank
+73572c75-aba0-4e12-974f-0dbff209d7a0,bank_redirect,AT,Volksbank Marchfeld,at_volksbankmarchfeld_bank
+f2bd931e-c470-4905-9326-c9ca01340f42,bank_redirect,AT,Volkskreditbank AG,at_volkskreditbankag_bank
+0a2de83b-a9b7-43cb-a032-4e12c9ffc0c3,bank_redirect,AT,VR-Bank Braunau,at_vrbankbraunau_bank
+e06276cc-8e2d-44e6-b162-f2e3af8eccee,bank_redirect,BR,Banco Itau Brasil,br_bancoitaubrasil_bank
+d66374b4-3851-43e1-9f09-075e0eb8ee34,bank_redirect,BR,Santander Brasil,br_santanderbrasil_bank
+250ceb2e-db75-48bf-a0bc-bbdef94a28c7,cash,CO,Banco AV Villas Cash,co_bancoavvillascash_cash
+0525516e-c0bb-4e2d-a442-5a9b54edaacb,cash,CO,PinValidda-Bank,co_pinvaliddabank_cash
+43945556-45be-11ea-9179-12e4b01f6a99,cash,IN,Pay at store,in_bharatpay_cash
+8ba8f9bc-d609-42ae-b09a-56d61ccc1917,cash,GT,Inmobiliario Bank,gt_inmobiliario_cash
+73baf5e4-1bb2-40b9-be14-942c82534e3c,cash,GT,Azteca Bank,gt_azteca_cash
+0ff285c1-beca-4342-a917-52a4e42bcfb8,cash,GT,Batres Drugstore,gt_farmaciasbatres_cash
+f39f9a60-7eb5-4de6-ba5f-3c47413b4172,cash,GT,Meykos Drugstore,gt_farmaciasmeykos_cash
+291d6504-ce1d-4c51-8940-459b1e2a1d8c,cash,GT,Ficohsa Bank Multipago Kiosk,gt_multipago_cash
+56aba012-780c-455e-b8e1-d326a4b961f9,cash,GT,Promerica Bank,gt_promerica_cash
+5b4066b8-ae9d-41ab-8f9d-cf27d9555216,cash,GT,Wester Union Agencies,gt_westernunion_cash
+770605fa-137d-400a-a938-b4301387399d,cash,GT,Bancredit Bank,gt_bancredit_cash
+089f4d2c-b479-4c2d-852e-1fb0991058c7,cash,GT,Convenience strore in Shell,gt_shell_cash
+21d87474-193e-4042-880d-c8c1b2ddb334,cash,GT,BAC credometic Bank,gt_baccredometic_cash
+9ef03e57-6735-420e-899e-238486ae39fa,cash,GT,Walmart Supermarket,gt_walmart_cash
+231038c0-243e-4b5b-aff1-b0cb8802c4b8,cash,GT,General Punto Xpress Stores,gt_puntoxpress_cash
+09238b1e-7436-45e3-b02a-cffff899860f,bank_redirect,SG,OCBC PayNow,sg_ocbcpao_bank
+fb56f6a8-b179-489e-88fd-f9109951da2f,cash,US,Family Dollar,us_familydollar_cash
+4670d786-2088-4fb6-b928-efffbf404c73,cash,US,Dollar General,us_dollargeneral_cash
+38c2fb74-57e9-4f35-8923-312ee820e6ce,cash,US,CVS,us_cvs_cash
+51c1621d-71f9-4560-90c4-ff5019b1eebd,cash,US,7Eleven,us_7eleven_cash
+2cc64969-8264-4e12-9f00-fcbc2781883b,cash,US,Speedway,us_speedway_cash
+a1b068ec-713e-42ab-8d49-03e6a0bb6924,cash,US,Kum and Go,us_kumandgo_cash
+cc5ff754-64c6-43a1-a064-a450bccb424b,cash,PY,Cash collection via pay code in PY,py_stores_cash
+0cebffdc-22c4-490f-bd0b-7b5736966fc4,bank_redirect,GB,Zapp Application,gb_zappapp_bank
+493e79b9-0a7a-41ca-8327-fbe7d083a1f3,bank_redirect,DE,Giropay,de_giropay_bank
+b507bd7d-15c4-4d8e-8059-66d90b4ac962,bank_redirect,GB,Zapp,gb_zapp_bank
+99186307-a7a2-4b11-868a-ee68caba10ae,bank_redirect,PL,P24,pl_p24_bank
+9987d53b-96d5-4025-8d41-aaf46b3d43bb,bank_redirect,BE,Bancontact,be_bancontact_bank
+fb64e4f1-607f-4130-895b-db55d764bab0,cash,CR,Teledolar MN,cr_teledolarmn_cash
+aa943acf-9e73-11e8-85bb-126629637faa,bank_redirect,CR,Banco Lafise,cr_bancolafise_bank
+52391df3-31c1-41b0-9bd2-7120d8396bde,cash,ES,Telepay España,es_telepayespana_cash
+20015005-d7ac-4b6d-9e71-cb0da9ecfc7f,bank_redirect,CO,Citibank,co_citibankcolombia_bank
+b2c535ae-6f53-494c-8500-a579eb470674,bank_redirect,CO,Banco Agrario,co_bancoagrario_bank
+0c403f77-1024-4253-aa9e-634bf1fdaa28,bank_redirect,ES,Sabadell Empresa,es_sabadellempresa_bank
+5304aec7-2a9a-4914-8cfb-6a1999e7672d,bank_redirect,PA,Western Union PAN,pa_westernunionpan_bank
+5fc9cf23-e9c4-49b3-a97d-19b139fdaa43,bank_redirect,AT,Immo-Bank,at_spardabanklinz_bank
+dbfbe3a8-8d3e-4691-b73e-431ce79ad244,bank_redirect,MX,Banorte Empresas,mx_banorteempresas_bank
+eb552cde-4552-483e-9c7f-ec80d239d0f8,cash,EC,Banco Pichincha ECU,ec_bancopichinchaecu_cash
+b82bddf4-ec3a-45be-bfba-e1b46ab8b27f,bank_redirect,NL,Rabo Bank,nl_rabobank_bank
+0a597c09-667a-4a73-90ee-395a3d456b8e,bank_redirect,ES,NG Direct,es_ingdirect_bank
+da948103-9fe7-4039-ad6a-2b2bfac69a2d,bank_redirect,CL,Banco BBVA Chile One Step,cl_bancobbvachileonestep_bank
+aaa32603-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco Colpatria,co_bancocolpatria_bank
+aaa40303-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco Davivienda,co_bancodavivienda_bank
+65dae194-3eaa-4ddd-8f94-f4815eb8a142,bank_redirect,AT,Immo-Bank,at_immobank_bank
+2c2bde31-dc85-400c-a6ea-c37f6752e77d,bank_redirect,CR,Banco Nacional de Costa Rica,cr_banconacionaldecostarica_bank
+32c2bda5-5726-4273-bc93-4ec8612cb2b1,bank_redirect,ES,La Caixa Empresa,es_lacaixaempresa_bank
+965763ae-9a19-40d6-bf4e-1e71fa16a22b,bank_redirect,BE,Bancontact Mister Cash,be_bancontactmistercash_bank
+8bf90894-87e7-4c2e-b8dd-cbaedcf317e1,bank_redirect,NL,NL ABN AMRO,nl_abnamro_bank
+74913722-9b73-4007-931d-907ed5485513,bank_redirect,CR,Banco Popular y de Desarrollo Comunal,cr_bancopopularydedesarrollocomunal_bank
+936c795f-cfc8-4730-b678-fd179bcc7461,bank_redirect,MX,Santander MEX,mx_santandermex_bank
+aaaf4adb-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco Cooperativo Coopcentral,co_bancocooperativocoopcentral_bank
+8f6f6624-efc4-45e4-abf8-7e6ac3892b85,cash,MX,HSBC Mexico,mx_hsbcmexico_cash
+ebe448e9-0600-4625-83e4-268ac06321cd,bank_redirect,AT,Sparda-Bank Linz,at_spardabanklinz
+aaacbc6a-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco Falabella,co_bancofalabella_bank
+755ec2a1-dd12-4912-944d-3e6e80eca67d,bank_redirect,ES,Banco Sabadell UNNAX,es_bancosabadellunnax_bank
+0938d364-d2d3-4c4c-889c-f9806b62c320,bank_redirect,CL,Banco Santander One Step,cl_bancosantanderonestep_bank
+aaa5d54d-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco GNB Sudameris,co_bancognbsudameris_bank
+aedda7d2-d4f6-493a-b405-3428542dc55d,bank_redirect,NL,Triodos Bank,nl_triodosbank_bank
+aaa0a89e-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco de Bogota,co_bancodebogota_bank
+82d2ee0b-4eac-4913-be51-405ed06b76e8,bank_redirect,ES,Santander Empresa,es_santanderempresa_bank
+50e877c0-9e73-11e8-85bb-126629637faa,bank_redirect,CR,Grupo Mutual,cr_grupomutual_bank
+3de76491-6c83-43ff-bc07-c895cf72d39f,bank_redirect,CO,Banco Caja Social,co_bancocajasocial_bank
+c02dbdb5-8e99-4a59-b705-8cb5c8a1efde,bank_redirect,MX,Scotiabank,mx_scotiabankmexico_bank
+8a08418e-5b45-476f-9231-23bf57a247b6,bank_redirect,ES,Bankia Empresa,es_bankiaempresa_bank
+aaa7ad0b-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco Popular,co_bancopopular_bank
+aaa4e8a2-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco de Occidente,co_bancodeoccidente_bank
+50237d42-2c35-4358-932e-81a77af76c7f,bank_redirect,CL,Banco de Chile One Step,cl_bancodechileonestep_bank
+0fc51e0c-d4ca-4066-8512-57fcf625fb48,bank_redirect,NL,SNS Bank,nl_snsbank_bank
+aaa892f4-9e73-11e8-85bb-126629637faa,bank_redirect,CO,Banco ProCredit,co_bancoprocredit_bank
+01fcfd25-314c-4627-b8b6-be6e239c8934,bank_redirect,ES,La Caixa,es_lacaixa_bank
+8034c177-8052-454f-95ca-59136d1a6874,cash,PE,Scotiabank Peru,pe_scotiabankperu_cash
+00dabfdf-9041-425a-9895-e9d5284c752f,bank_redirect,IT,My Bank,it_mybank_bank
+e237a5ca-e571-48fe-85d5-cc63e8b5da70,cash,CL,Walmart Chile,cl_walmartchile_cash
+c584aea2-47b7-4c40-949d-ddec92fa1e36,bank_redirect,CO,Banco Pichincha,co_bancopichinchacol_bank
+5bd09a9d-63c7-4d4b-84d4-1ef74dba9fa1,bank_redirect,CO,Banco AV Villas,co_bancoavvillas_bank
+5189093f-d079-493f-a7e2-f6956fa394f9,bank_redirect,ES,Santander Spain,es_santanderspain_bank
+4c8ccbc9-59d6-4c6f-9f42-0744e0b80a52,bank_redirect,ES,Banco Popular UNNAX,es_bancopopularunnax_bank
+66e1e593-d0cc-4033-b4d4-2ccdb637eca8,bank_redirect,CL,Banco BCI One Step,cl_bancobcionestep_bank
+ee9aec1a-889f-4d26-9c7e-7df972c28f5d,cash,CA,Moneygram-CA,ca_moneygramca_cash
+61a9dcd4-f497-4d16-9db9-d3ffc18b9fa5,bank_redirect,MX,SPEI MX,mx_speimx_bank
+60b2e79a-afeb-4ed5-923e-966f66b1d2d6,bank_redirect,ES,ING Direct Empresa,es_ingdirectempresa_bank
+d8f82df0-aa23-11ea-9218-02672765d2c9,bank_redirect,BR,Banco do Brasil Bank Payments,br_bancodobrasil_cb_bank
+2ec7eed2-aa24-11ea-9218-02672765d2c9,bank_redirect,BR,Banco Itau Bank Payments,br_bancoitau_cb_bank
+aaada2ed-aa24-11ea-9218-02672765d2c9,bank_redirect,BR,Banrisul Bank Payments,br_banrisulbank_cb_bank
+b5386805-aa25-11ea-9218-02672765d2c9,bank_redirect,BR,Bradesco,br_bradesco_cb_bank
+6f0d8782-aa26-11ea-9218-02672765d2c9,bank_redirect,BR,Santander,br_santander_cb_bank
+fbb3a2c5-4d02-43ce-8e36-112ceb648a5d,cash,ID," AlfaExpress, AlfaMid, Dan-Dan, Lawson, Alfamart",id_alfagroup_cash
+b9a2a15b-3d65-4dc3-a052-d64194083103,ewallet,ID,OVO,id_ovo_ewallet
+5da6f72a-9e83-11e8-85bb-126629637faa,bank_transfer,IS,IBAN,is_iban_bank
+5dbb8310-9e83-11e8-85bb-126629637faa,bank_transfer,LI,IBAN,li_iban_bank
+5dc93f01-9e83-11e8-85bb-126629637faa,bank_transfer,MC,IBAN,mc_iban_bank
+813c50c7-9e83-11e8-85bb-126629637faa,bank_transfer,SM,IBAN,sm_iban_bank
+fbf9b4eb-bf4b-11ea-9218-02672765d2c9,bank_redirect,AT,Bankhaus Schelhammer & Schattera AG,at_bankhausschelhammerschatteraag_bank
+b4650191-3c9f-40b5-baf0-58aea892581c,cash,US,Cash Payment in US,us_multiplestoresother_cash
+b368806b-a9d3-4c3e-8967-8fdb6d105eb4,cash,CR,General Punto Xpress Network Stores,cr_palistores_cash
+2433a047-1791-11eb-9179-12e4b01f6a99,ewallet,SG,WeChat Pay,sg_wechat_ewallet
+64e1453a-033c-413a-bef4-d368177722a5,cash,CR,Costa Rica cash collections,cl_teledolar_cash
+8451f467-7e6e-4ae1-9ab5-54ed2844e77c,cash,TH,Big C,th_bigc_cash
+518de458-9872-11eb-a8b3-0242ac130003,cash,HN,General Tengo Network Stores,hn_tengo_cash
+b40e001e-9d7e-4306-8efd-46d8da087388,ewallet,MY,Grabpay eWallet Payments Malaysia,my_grabpay_ewallet
+877581ed-bbaf-11eb-a80e-0274f6f35407,cash,AR,Pago Facil stores for cash collection,ar_pagofacilpt_cash
+87790ac6-bbaf-11eb-a80e-0274f6f35407,cash,AR,Pago 24 stores for cash collection,ar_pago24pt_cash
+488d50f2-305f-4a52-9126-5bdec745dfc7,ewallet,TH,Linepay Ewallet for Google,th_linepaygoogle_ewallet
+2388a1e4-2645-48e9-b028-af6043b526ac,bank_redirect,BR,PIX,br_pix_bank
+70485abb-dfe6-4eef-ba1a-936d9f2d71dd,bank_redirect,BR,PIX,br_pix_cb_bank
+ac9b97cb-a643-46fe-a249-d3b2cf960302,cash,US,Stripes,us_stripes_cash
+7b96c109-00bd-11ec-8ecd-0e8aac30020d,ewallet,ID,Ovo Ewallet for Google,id_ovogoogle_ewallet
+50ebf5d7-64f0-425b-98fc-2d0eb7f6cd61,card,DE,apple_pay,de_applepay_card
+8bb4eced-e12e-4be0-b985-8162cf40e1cb,card_to_card,UA,Ukraine Card to Card,ua_domestic_cardtocard
+8e3fc45f-7949-4120-ae7e-d693d9a1ef76,bank_redirect,CO,Banco Agrario,co_bancoagrario_lcl_bank
+508f699a-f98c-46f3-a153-36a60d2e32ba,bank_redirect,CO,Banco AV Villas,co_bancoavvillas_lcl_bank
+80e2dcf5-ce7e-4043-84b6-b28e13335744,bank_redirect,CO,Banco Caja Social,co_bancocajasocial_lcl_bank
+05ed5661-31c1-4851-b4ce-ca6274803300,bank_redirect,CO,Banco Colpatria,co_bancocolpatria_lcl_bank
+6cd9d2d8-318f-4c6a-bad6-dd92f6310dd3,bank_redirect,CO,Banco Cooperativo Coopcentral,co_bancocooperativocoopcentral_lcl_bank
+e37d0788-b584-44c0-9e62-afbd9001179b,bank_redirect,CO,Banco Davivienda,co_bancodavivienda_lcl_bank
+4e763312-61ba-418c-b30a-d90466e98c48,bank_redirect,CO,Banco Falabella,co_bancofalabella_lcl_bank
+93707c17-adb0-412a-a2b9-a9de1da2a858,bank_redirect,CO,Banco Pichincha,co_bancopichinchacol_lcl_bank
+cce0d6c7-d4b4-4bbb-937c-c5189f5e94bb,bank_redirect,CO,Banco Popular,co_bancopopular_lcl_bank
+6dd457e5-47c1-450b-8d00-c926c7222e02,bank_redirect,CO,Banco ProCredit,co_bancoprocredit_lcl_bank
+a240979c-58db-4fa2-8395-79607acfc3fa,bank_redirect,CO,Banco AV Villas,co_bancoavvilas_lcl_bank
+c82cd986-a025-4d41-b76d-7d2720f32697,bank_redirect,CO,Banco de Bogota,co_bancodebogota_lcl_bank
+e30de11f-d5fc-40c9-983a-fe573f9669b9,bank_redirect,CO,Banco de Occidente,co_bancodeoccidente_lcl_bank
+caaae3fc-94ff-4618-bb0b-d1406d0dfd13,bank_redirect,CO,Banco GNB Sudameris,co_bancognbsudameris_lcl_bank
+6f4ed0ab-f817-480c-8cbb-b677435945ce,bank_redirect,CO,Bancolombia,co_bancolombia_lcl_bank
+d0963562-fbc3-44b5-9506-156b87f1aadc,bank_redirect,CO,BANCOOMEVA,co_bancoomeva_lcl_bank
+016aab7d-085e-4259-ba46-98f61aff7b80,bank_redirect,CO,Banco Pichincha,co_bancopichincha_lcl_bank
+9de77a90-02b7-4eab-a2b6-57bc164f1130,bank_redirect,CO,Banco Santander,co_bancosantander_lcl_bank
+ba19a29c-54bd-4dc5-82c5-ece726d1a81a,bank_redirect,CO,BBVA,co_bbva_lcl_bank
+abe61fff-cf0b-4dc8-913f-6fedf2c7dcc0,bank_redirect,CO,Banco Caja Social,co_cajasocial_lcl_bank
+db2d781e-4d7c-46ba-94c3-5eff9d630adf,bank_redirect,CO,Citibank,co_citibankcolombia_lcl_bank
+4c65af67-5119-4aa0-a03b-c80acbad3ef1,bank_redirect,CO,Citibank,co_citibank_lcl_bank
+c3d0b0b6-ab22-49f5-8d0a-04ff0d7129ae,bank_redirect,CO,Itau Bank,co_itau_lcl_bank
+3603b0b6-a0f8-49f7-b999-1995f2de6224,bank_redirect,CO,Nequi,co_nequi_lcl_bank
+5959c0a0-ae9f-47bf-a0d4-93601b2d629b,bank_redirect,CL,Itau Bank,cl_itaubank_bank
+19e992a4-ecde-43ce-95fc-bda431449f94,bank_redirect,CL,Khipu,cl_khipubank_bank
+945cf808-940a-476a-ab91-907557aecd64,cash,US,Royal Farms,us_royalfarms_cash
+7d619cd9-d45c-461f-ae39-d6507b449b98,cash,US,Pilot Flying,us_pilotflying_cash
+f9a886ac-a97c-4d3c-98f8-aae723fc7ee8,cash,US,Go Mart stores,us_gomart_cash
+2cc60ae4-749e-404d-bbc5-37d46a73c846,cash,US,Walgreens,us_walgreens_cash
+e379738c-e062-4006-a2b1-e66192db79e8,cash,US,Duane Reade,us_duanereade_cash
+3d649136-abad-41a6-a61d-7ae94b5584f8,cash,US,Travel Centers of America,us_travelcentersofamerica_cash
+83651130-bcac-45c8-bdee-b3a1558a8fde,cash,US,Sheetz,us_sheetz_cash
+4abeae39-12c6-45b6-a978-af3825b95df1,cash,US,Kwik Trip,us_kwiktrip_cash
+1a468515-70bc-4335-98d2-f8f627e60cdd,cash,US,Stop-N-Go,us_stopngo_cash
+05658887-3175-4ebc-87dd-409cbecbd62a,cash,US,Walmart,us_walmart_cash
+a2a68d85-6b38-4766-9304-f630ccabd621,bank_transfer,ID,BCA Virtual Account,id_bcabank_bank
+8e550d0a-5209-482d-aa87-ddadb56749c5,cash,US,Rutters,us_rutters_cash
+1df07a25-7444-468e-8ce0-d12914e8be4a,bank_transfer,US,Same day US ACH debit,us_sameday_ach_bank
+cd1fa349-87d3-46e8-85fb-5d11a30f947f,bank_transfer,US,US ACH debit,us_standard_ach_bank
+6a2de9f5-c3dc-4cb6-bb2c-519bb9df2061,cash,CR,Punto Xpress,cr_puntoxpress_cash
+6a3c5b5b-534b-4431-9970-9135aac215c6,ewallet,BR,Pix,br_pix_ewallet
+3fb0d72f-adc3-41db-8e22-f2f21681964d,bank_redirect,NG,Access Bank,ng_accessbank_bank
+2986b429-2f75-4fb7-bede-e2ed460ccddd,bank_redirect,NG,Diamond Bank,ng_diamondbank_bank
+44758708-9f07-48d9-99e0-4870fc42a7a4,bank_redirect,NG,Fidelity Bank,ng_fidelitybank_bank
+6f220ff7-e979-4df0-a690-55ac8596e0c9,bank_redirect,NG,First Bank,ng_first_bank
+6a823085-419f-4372-bcfd-0c660288c617,bank_redirect,NG,Guarantee Trust Bank,ng_guaranteetrustbank_bank
+d7d3d416-da06-47ab-93f3-657a47430ba2,bank_redirect,NG,Keystone Bank,ng_keystonebank_bank
+ca4a22fe-60aa-442f-8bb9-6246f4d7a5e7,bank_redirect,NG,QUICKTELLER,ng_quickteller_bank
+123ddd94-db5b-4f68-be01-2e94ed85e727,bank_redirect,NG,Skye Bank,ng_skyebank_bank
+3ce51c9b-3ed8-48e5-a1c8-d886d94e91b6,bank_redirect,NG,Union Bank,ng_unionbank_bank
+c68c6842-168d-4c8f-8853-6286f7f00f56,bank_redirect,NG,Ecobank,ng_interecobank_bank
+93c4dfe9-f171-4974-8a9b-4ac58723890b,bank_redirect,NG,First Bank of Nigeria,ng_interfirstbank_bank
+30cd0c64-44ff-46eb-8f34-fe158bca7e7f,bank_redirect,NG,Zenith Bank,ng_interzenithbank_bank
+ed6ca07c-946f-42b5-b945-ba9f4c3a7fa2,bank_transfer,NG,NG Virtual Account Bank Transfer,ng_interswitch_bank
+c2a716e7-7137-42f0-94e6-1f704ac44251,bank_transfer,NG,Access Bank USSD,ng_accessbank_ussd_bank
+50164bf7-4453-419e-872d-12292ad0702a,bank_transfer,NG,Ecobank USSD,ng_ecobank_ussd_bank
+ef0dd639-b385-4348-8aed-75b7f2557920,bank_transfer,NG,Fidelity Bank USSD,ng_fidelitybank_ussd_bank
+4b3ad86d-b435-4ba1-bd35-c5603cd6bbc2,bank_transfer,NG,First Bank USSD,ng_firstbank_ussd_bank
+023d9280-36bc-420a-b5a1-80e34102d9f8,bank_transfer,NG,FCMB USSD,ng_fcmbank_ussd_bank
+c07eb1a2-f83c-4b23-b4e7-ee901d503476,bank_transfer,NG,GT Bank USSD,ng_gtbank_ussd_bank
+7caa6638-964e-4473-ba26-8275926e1125,bank_transfer,NG,Keystone Bank USSD,ng_keystonebank_ussd_bank
+47df64ea-ba48-420d-845f-03325acf5a2c,bank_transfer,NG,Stanbic IBTC Bank USSD,ng_stanbicibtcbank_ussd_bank
+1ac61365-cbdf-4510-bd7a-0a228dd54199,bank_transfer,NG,Sterling Bank USSD,ng_sterlingbank_ussd_bank
+f2308855-9073-41f2-baeb-5ea644948d31,bank_transfer,NG,Union Bank USSD,ng_unionbank_ussd_bank
+37b49540-f8f9-4db3-a8c1-772ae49b38ed,bank_transfer,NG,UBA USSD,ng_ubabank_ussd_bank
+e57815c8-8f19-4243-b995-63eca5c31c8d,bank_transfer,NG,Unity Bank USSD,ng_unitybank_ussd_bank
+55f0154b-7bf0-402e-8f42-1e1d7b38facd,bank_transfer,NG,Zenith Bank USSD,ng_zenithbank_ussd_bank
+5fec9c65-b76a-4780-b9a5-2753d7abcb12,bank_transfer,NG,VFD Microfinance Bank USSD,ng_vfdbank_ussd_bank
+ff9446f6-51ba-44ef-bc02-928ad3b66979,bank_transfer,NG,Wema Bank USSD,ng_wemabank_ussd_bank
+b8bfbfc7-495d-458d-9e8f-c56480139bc3,ewallet,GH,ATMoney,gh_airteltigo_ewallet
+54bf6ea4-c4a6-4297-9530-c3e3d93bfef4,ewallet,GH,Vodafone,gh_vodafone_ewallet
+9b4be7fd-acdf-4052-b217-7c4347151733,ewallet,UG,Airtel,ug_airtel_ewallet
+8565a341-d08c-445e-a790-5af738b57118,ewallet,ZM,Zamtel,zm_zamtel_ewallet
+52e34717-e253-4027-99d7-85dd945d7d53,ewallet,RW,Airtel Money,rw_airtelmoney_ewallet
+4ae7e1be-eb9b-46df-9486-64cfe81d5604,bank_transfer,NG,Bank Transfer,ng_virtualaccountmo_bank
+b36970ab-09ca-4ff5-93bd-559928f5bae9,bank_transfer,NG,Access Bank USSD,ng_accessbankmo_ussd_bank
+c4603c5e-d8c7-4986-b35f-ff1140d341f2,bank_transfer,NG,Ecobank USSD,ng_ecobankmo_ussd_bank
+ac815cb1-42fb-4efd-bf09-d95ba93e60b1,bank_transfer,NG,Fidelity Bank USSD,ng_fidelitybankmo_ussd_bank
+c9c0f254-1862-4c82-8cb5-ec3169800443,bank_transfer,NG,First Bank USSD,ng_firstbankmo_ussd_bank
+5a72d098-55fd-492c-8d90-43fada664eb1,bank_transfer,NG,FCMB USSD,ng_fcmbankmo_ussd_bank
+03715880-1041-48e4-bb54-971aa5cd2079,bank_transfer,NG,GT Bank USSD,ng_gtbankmo_ussd_bank
+a4440889-6b75-4b57-8a56-08c3d8296f11,bank_transfer,NG,Keystone Bank USSD,ng_keystonebankmo_ussd_bank
+6cab3257-7398-493e-bd5f-aa359b1167a2,bank_transfer,NG,Stanbic IBTC Bank USSD,ng_stanbicibtcbankmo_ussd_bank
+832cc715-98c4-48fd-8930-82fe3fe192e3,bank_transfer,NG,Sterling Bank USSD,ng_sterlingbankmo_ussd_bank
+4ad99101-0228-4cda-bb97-c748def7fdb9,bank_transfer,NG,Union Bank USSD,ng_unionbankmo_ussd_bank
+71cfff0a-03ee-4fc7-a782-73636f0499f0,bank_transfer,NG,UBA USSD,ng_ubabankmo_ussd_bank
+96da955d-0c3a-4734-a2bf-c362725feeef,bank_transfer,NG,Unity Bank USSD,ng_unitybankmo_ussd_bank
+657dc970-cf5b-42f9-9fc8-54c1dbf88fc4,bank_transfer,NG,VFD Microfinance Bank USSD,ng_vfdbankmo_ussd_bank
+7b5e84d3-2b90-4cd9-a326-10c2b53d1420,bank_transfer,NG,Wema Bank USSD,ng_wemabankmo_ussd_bank
+cae8e147-5a55-4d1e-8657-4e84206ad7ae,bank_transfer,NG,Zenith Bank USSD,ng_zenithbankmo_ussd_bank
+90e85838-cb27-4712-aef4-7ecec4e4eab5,cash,BR,Boleto,br_boleto_cash
+f0cd20ac-c2a2-4cc9-85bf-0a14357e8dd4,cash,BR,Boleto Flash,br_boletoflash_cash
+4868abb2-3f96-42be-a331-3a95d46496b3,card,JP,Credit or Debit Card,jp_credit_card
+55b0307b-3b6e-48d6-b839-b64d13f187c2,card,BY,Visa,by_visa_card
+db2bddaf-efac-42d3-af1b-4a83a901e5e2,card,BY,Mastercard,by_mastercard_card
+3355eb9b-f568-4b79-8b12-8f2d87e03bfd,card,GB,Visa,gb_visa_extended_card
+4f54d20a-4915-4468-a9e7-e3a8a8fdb4e6,card,GB,MasterCard,gb_mastercard_extended_card
+bcd835db-54e3-4628-afdc-517d3149f68c,card,MT,Visa Valitor Test,mt_visavalitor_card
+a846b368-d684-4ecc-acc1-6199216416e7,card,GB,AMEX,gb_amex_card
+bc57597c-2b59-4ed4-9d62-fb506861a7d8,card,SG,American Express,sg_amex_card
+50a7f866-d931-4017-ab58-b4f4be42ed60,card,SG,UnionPay,sg_credit_cup_card
+1df3aebd-b68c-414c-8e63-4ca49fcdb2f8,card,SG,Mastercard,sg_credit_mastercard_card
+4276e084-184a-4d2c-be79-6161c3a6fb47,card,SG,UnionPay,sg_debit_cup_card
+642c4a76-a784-4145-a887-c342351ca5b1,card,SG,Mastercard Debit,sg_debit_mastercard_card
+2db15aa7-7b6b-471f-9ffa-9bb3fffb1342,card,SG,Visa Debit,sg_debit_visa_card
+26d7bd49-c26c-4b1f-87ce-0a73cede6e3a,card,SG,Visa,sg_credit_visa_card
+62bb99fa-b3d6-4ba6-a1fe-d517dc62989f,card,SG,JCB,sg_credit_jcb_card
+203bfb0b-df4a-44ae-bf88-d3478699f482,card,SG,JCB Debit,sg_debit_jcb_card
+283f95e5-dc0a-4a2c-9202-94086c0e3a51,card,AU,Mastercard,au_credit_mastercard_card
+0db663b6-a3e2-4019-aa1c-bc98d4bf000d,card,AU,Visa,au_credit_visa_card
+80c3b1b6-e937-4fa8-867c-5028336dafc5,card,AU,Mastercard Debit,au_debit_mastercard_card
+9f3a3c3d-8639-4046-972f-ad76927f424c,card,AU,Visa Debit,au_debit_visa_card
+b150e69c-2a5f-4e7d-8c0b-521a2f69dfe7,card,HK,UnionPay,hk_credit_cup_card
+94e2711d-8c2f-4ca7-884a-cc36659bedd9,card,HK,Mastercard,hk_credit_mastercard_card
+e19c149e-eaae-4211-aea2-90a781807937,card,HK,Visa,hk_credit_visa_card
+d97fa55d-b787-43e3-96e8-cb28a33f2011,card,HK,UnionPay Debit,hk_debit_cup_card
+d350bb8a-de43-45c6-a370-051c7db36cde,card,HK,Mastercard Debit,hk_debit_mastercard_card
+267a48d9-6b22-43be-943e-1bb4a38708b2,card,HK,Visa Debit,hk_debit_visa_card
+c6932129-9515-453f-8c2a-b88f2556b389,card,IN,American Express,in_amex_card
+bba70b89-56df-45ef-bd0f-62410162d456,card,IN,Mastercard,in_credit_mastercard_card
+5b26bc98-47ee-4eeb-825a-a82776a84910,card,IN,RuPay,in_credit_rupay_card
+dd542c61-ce00-42f6-a429-ec023733c4e4,card,IN,Visa,in_credit_visa_card
+247fef22-6b92-4f02-8978-3e57827d198c,card,IN,Mastercard Debit,in_debit_mastercard_card
+6602ee11-af36-4a24-b0f8-528af7cef92a,card,IN,RuPay Debit,in_debit_rupay_card
+f1efc1ab-3329-43d8-b624-339a5cfd62d5,card,IN,Visa Debit,in_debit_visa_card
+4a66f0fb-beab-4705-9172-5fc95ab815f8,card,MY,UnionPay,my_credit_cup_card
+996982d0-311c-4d9d-b70b-a16cc2517e43,card,MY,Mastercard,my_credit_mastercard_card
+39473e0d-94ce-4879-b399-47b86455e341,card,MY,Visa,my_credit_visa_card
+d0e97255-f973-49b4-88c4-d47738dba99c,card,MY,UnionPay Debit,my_debit_cup_card
+38819851-6dda-4266-885f-8c76472d1acd,card,MY,Mastercard Debit,my_debit_mastercard_card
+f84d86cf-a058-4725-937e-6107277ff677,card,MY,Visa Debit,my_debit_visa_card
+7ff6f094-59f9-42b9-bf26-eb907a050881,card,PH,Master Card,ph_credit_mastercard_card
+db3b6435-37d4-459a-95a8-d4e89be05bd6,card,PH,Visa Card,ph_credit_visa_card
+8dbb8aa9-4b14-4c8c-b0b7-04f3d31497a6,card,PH,Master Card Debit,ph_debit_mastercard_card
+da777550-ddc8-4b07-9d7e-d16ec6e40d3e,card,PH,Visa Card Debit,ph_debit_visa_card
+9ecfa083-a652-11ef-a69e-02ee5facfc59,ewallet,PH,GrabPay HO,ph_grabpay_ho_ewallet
+bd6b9f17-a652-11ef-a69e-02ee5facfc59,ewallet,PH,Maya HO,ph_maya_ho_ewallet
+129b2f33-a652-11ef-a69e-02ee5facfc59,ewallet,ID,LinkAja HO,id_linkaja_ho_ewallet
+2f74a312-a652-11ef-a69e-02ee5facfc59,ewallet,ID,OVO HO,id_ovo_ho_ewallet
+4b846f53-a652-11ef-a69e-02ee5facfc59,ewallet,ID,DANA HO,id_dana_ho_ewallet
+6732a565-a652-11ef-a69e-02ee5facfc59,ewallet,ID,Shopeepay HO,id_shopeepay_ho_ewallet
+db7af8d7-a652-11ef-a69e-02ee5facfc59,ewallet,PH,Instapay HO,ph_instapayqrph_ho_ewallet
+7a8a543b-5dca-453e-a335-19903e55b4f2,ewallet,TH,TrueMoney,th_truemoney_ewallet
+0e89e95d-ac81-41d3-b950-3aa051ff7ceb,ewallet,ID,LinkAja,id_linkaja_ewallet
+8bb630cc-4dd7-48d9-94e4-d239e8717831,ewallet,ID,DANA,id_dana_ewallet
+8c8fb41a-3675-43d2-b8d9-0c2ab31b8d91,bank_redirect,ZA,Capitec Bank Instant EFT,za_capitecverified_bank
+d68a48ec-71d1-4b74-bce2-967e9bc274a8,bank_redirect,ZA,Capitec Bank Instant EFT,za_capitecst_bank
+1d84093c-af92-4679-ba36-3ac466697773,bank_redirect,ZA,ABSA Instant EFT,za_absast_bank
+96660ce9-cac6-4155-8ae1-7b7a31fd86ab,bank_redirect,ZA,Online Discovery Bank Bank Payment by Instant EFT,za_discoveryst_bank
+7dc70300-b694-4636-92b5-e56b88691562,bank_redirect,ZA,FNB Instant EFT,za_fnbst_bank
+2cb366e0-8739-41a8-a6e7-3b9a4b8f0dec,bank_redirect,ZA,Nedbank Instant EFT,za_nedbankst_bank
+6ae9867f-9fb2-48c7-8f41-6a71b7b3882a,bank_redirect,ZA,Standard Bank Instant EFT,za_standardst_bank
+0c140371-6ee3-4070-ba60-4d0cfa4100ee,bank_redirect,ZA,Tyme Bank Instant EFT,za_tymebankst_bank
+17775fbd-6427-4e72-8be1-815ce45da254,bank_redirect,ZA,Online Absa Bank Payment by Instant EFT with User Tokenization,za_absaoneclick_bank
+c0e38038-7eca-438c-8eae-65c5e13cacbc,bank_redirect,ZA,Online Discovery Bank Bank Payment by Instant EFT with User Tokenization,za_discoveryoneclick_bank
+a02d3f59-44b4-4e3b-9176-99d315279c0f,bank_redirect,ZA,Online Fnb Bank Payment by Instant EFT with User Tokenization,za_fnboneclick_bank
+afb63430-5325-45b1-a2f0-3e7c95d492da,bank_redirect,ZA,Online Nedbank Bank Payment by Instant EFT with User Tokenization,za_nedbankoneclick_bank
+7dfeb87d-1ac8-4e40-b4b8-ea161216b110,bank_redirect,ZA,Online Standard Bank Bank Payment by Instant EFT with User Tokenization,za_standardoneclick_bank
+b0d3f99b-4652-41ef-a2b3-559bfb3b1b88,bank_redirect,ZA,Online TymeBank Bank Payment by Instant EFT with User Tokenization,za_tymebankoneclick_bank
+0bd7fc6c-58fc-4d56-b150-b5c0eabfbeff,bank_redirect,BR,Itau Bank,br_itau_bank
+28ea4728-b571-4298-b465-d2617090b0b2,bank_redirect,BR,Banco do Brazil,br_brancodobrazil_bank
+1b8d1499-19b5-4b20-837a-1531cecba797,bank_redirect,TH,Krung Thai Bank,th_krungthaibank_redirect_bank
+7039f7df-622d-4103-895a-9c26d617297b,bank_redirect,TH,Krungsri e-Payment,th_okrungsriepayment_bank
+50f7d7bb-d033-4184-a4de-636662760299,bank_redirect,TH,Bangkok Bank,th_obangkokbank_bank
+f7145286-c3cb-422b-9cb5-a96082d2d92d,bank_redirect,TH,Siam Commercial Bank,th_osiamcommercialbank_bank
+e8368daf-2f3a-4859-a19d-05e968c1196e,bank_redirect,TH,Krung Thai Bank,th_okrungthaibank_bank
+d5c7d680-0414-4483-bdcb-36677a1e061b,bank_redirect,TH,Krungsri Bank,th_bay_bank
+eb93e8fd-3231-4354-b94f-7e4756bed95d,bank_redirect,TH,Bangkok Bank,th_bbl_bank
+a5b5c2f3-651c-4a60-9401-97e3a51e1405,bank_redirect,TH,Krung Thai Bank,th_ktb_bank
+3fb51eb3-bd23-4aee-95bf-20a91b8e3bcd,bank_redirect,TH,Siam Commercial Bank,th_scb_bank
+8f2c8319-8031-4914-9b51-181144e76db7,bank_redirect,TH,Kasikorn Bank,th_kasikorn_bank
+42f62f57-a327-48dc-9781-b6a25644f271,card,JP,Visa,jp_visa_card
+c1b3c997-9ce0-47b2-814e-5f04c56b82dd,card,JP,Mastercard,jp_mastercard_card
+91acc5b8-ca38-438e-8891-019064d14125,card,JP,Amex,jp_amex_card
+3e7821d9-fa20-40f2-9d35-bf65b4293db7,card,JP,Diners,jp_diners_card
+c64d56aa-f14b-4af4-a3ff-f96a54225676,card,JP,JCB,jp_jcb_card
+a26b43b4-a8de-4f54-8afd-910e9a15891d,ewallet,VN,VTC Pay,vn_vtcpay_ewallet
+5ff36584-88e6-4c0e-9bf4-f1e38225e15f,bank_redirect,VN,AB Bank,vn_abbank_bank
+0306255e-949d-41ff-8295-630f829d8316,bank_redirect,VN,ACB,vn_acb_bank
+69ef2e37-22d2-4398-bb00-848e01fbcc9b,bank_redirect,VN,Kienlongbank,vn_kienlongbank_bank
+0826aff4-c0cc-457e-9b35-8dae9a307916,bank_redirect,VN,Phuong Dong Bank,vn_ocb_bank
+1f2e4a44-09c0-4466-829a-e8ae4a07e83c,bank_redirect,VN,GP Bank,vn_gpbank_bank
+5c97b7b8-dcfb-4d7b-96d9-c438b41bd640,bank_redirect,VN,Agribank,vn_agribank_bank
+9232cac0-b55a-42ad-a2ee-eab8f9fb9d8f,bank_redirect,VN,Dong A Bank,vn_dongabank_bank
+099d0dd3-39d8-4428-90e7-dafd10068a28,bank_redirect,VN,National Citizen Bank,vn_ncb_bank
+53ffce6b-9091-495c-90bd-2b41c4c29b56,bank_redirect,VN,BIDV,vn_bidv_bank
+b018d775-7124-4c20-9dea-a33f50ee8189,bank_redirect,VN,Lien Viet Post Bank,vn_lienvietpostbank_bank
+c94710b8-4061-4dd5-b8a2-055977b82ea5,bank_redirect,VN,BVB,vn_bvb_bank
+00d324eb-6419-4929-b962-0f3ffa3cf7a0,bank_redirect,VN,Eximbank,vn_eximbank_bank
+307a6eae-b3a0-4d90-8d07-3fd72f95a05a,bank_redirect,VN,Bac A Bank,vn_bacabank_bank
+65a9091f-fb51-474c-b1b7-5add246678fc,bank_redirect,VN,Nam A Bank,vn_namabank_bank
+4728f054-c382-4788-80e4-733755c8c0c3,bank_redirect,VN,Maritime Bank,vn_maritimebank_bank
+86f764f5-ec00-4d3a-9908-cc6a7649a886,bank_redirect,VN,Military Bank,vn_mb_bank
+e1a60722-e293-4b26-96f2-065203716c23,bank_redirect,VN,HD Bank,vn_hdbank_bank
+b750b0ae-b93b-44ce-9d12-d1a974ab1857,bank_redirect,VN,PVcom Bank,vn_pvcombank_bank
+b83059e9-a101-4644-b6ff-cfbb029872dd,bank_redirect,VN,Vietcombank,vn_vietcombank_bank
+ded9c46b-1359-40af-9241-d824acefc897,bank_redirect,VN,VIB,vn_vib_bank
+b043ebb9-bee7-4b5c-a973-236ab343fc19,bank_redirect,VN,Viet A Bank,vn_vietabank_bank
+0be5d0b4-97ed-4a9a-b746-ebc0652b5537,bank_redirect,VN,Ocean Bank,vn_oceanbank_bank
+a8689107-c04d-462f-8652-8e1bdb792b03,bank_redirect,VN,VP Bank,vn_vpbank_bank
+3bb44756-e983-42cd-9cee-e6f98614884c,bank_redirect,VN,Techcombank,vn_techcombank_bank
+27cbd6ac-14bc-47ca-832c-98e791348636,bank_redirect,VN,Sacombank,vn_scbbank_bank
+b482e5ce-7881-4d5d-85bf-2f247837c05c,bank_redirect,VN,Tien Phong Bank,vn_tienphongbank_bank
+80e83f88-27dc-4ed0-8350-990ac1b7b885,bank_redirect,VN,SeA Bank,vn_seabank_bank
+094769ca-a175-4f7c-8ef3-23dec9726f34,bank_redirect,VN,Vietinbank,vn_vietinbank_bank
+1c564df4-2a24-419d-8e13-834a63ea05b6,bank_redirect,VN,PG Bank,vn_pgbank_bank
+2cc4919d-ffec-4481-9db5-c77293396443,bank_redirect,VN,SHB,vn_shb_bank
+92b557a4-b32f-41a5-94a0-399b66066c46,bank_redirect,VN,Saigon Bank,vn_saigonbank_bank
+2800b576-a41b-4fb2-8a03-92682999ec6c,bank_redirect,VN,Sacombank,vn_sacombank_bank
+64d5f2b7-e512-4c36-9fe6-9b85c8df53ee,bank_redirect,VN,VRB,vn_vrb_bank
+d32e3822-16c4-4bc0-9948-5a12a3b52f33,ewallet,VN,MoMo eWallet,vn_momo_ewallet
+de9e6650-6215-4a05-9527-5fe182f15dd2,card,TH,American Express,th_amex_card
+22a16021-a26c-462b-b9cc-e4e8975ca26e,card,TH,Mastercard,th_mastercard_card
+92f9a35a-bc1b-4a6b-9b40-19d10ca546b7,card,TH,Visa,th_visa_card
+ac11aee9-4b0e-4a85-90dd-1fc2cc19b493,ewallet,JP,Softbank Digital,jp_softbankdigital_carrier_ewallet
+9bf68d7c-767e-42f3-9fb5-9c8111eb1c77,ewallet,JP,Softbank eWallet,jp_softbankphysical_carrier_ewallet
+8fda1db7-46e7-4a93-99bc-5a5cf83d35f0,ewallet,JP,Famipay,jp_famipay_ewallet
+3ef34f80-b18d-4eee-8f08-c0efc78fd4ca,ewallet,JP,Docomo Digital,jp_docomodigital_carrier_ewallet
+d890784f-3c72-4686-aabc-8cb97d7ff3c1,ewallet,JP,Docomo Carrier Billing for Physical Goods,jp_docomophysical_carrier_ewallet
+545ff1f0-d9ea-49af-a7fb-a9a596b9d576,bank_redirect,VN,VIB,vn_mo_vib_bank
+ca56ee8d-1b5f-4208-8924-19b7538718d4,bank_redirect,VN,PG Bank,vn_mo_pgbank_bank
+ecb76181-dc6a-4c31-983e-8b256529785f,bank_redirect,VN,Saigon Bank,vn_mo_saigonbank_bank
+cb563dc2-4409-4f14-b6a8-11cbc5314344,bank_redirect,VN,ACB,vn_mo_acb_bank
+49576a3b-7241-407e-819d-f082c203c5d8,bank_redirect,VN,Dong A Bank,vn_mo_dongabank_bank
+2c023293-77ac-4f8b-a114-eea35e554ed7,bank_redirect,VN,Techcombank,vn_mo_techcombank_bank
+c8b1ec8d-a5c4-4fb8-88a6-621d5d9d385a,bank_redirect,VN,GP Bank,vn_mo_gpbank_bank
+0ff0f74c-89df-4f38-a172-e1beb1dfc79e,bank_redirect,VN,SHB,vn_mo_shb_bank
+ea19cab6-9783-465b-aac0-a945559df8fc,bank_redirect,VN,Phuong Dong Bank,vn_mo_ocb_bank
+89416b8a-685b-4dda-aa34-37856e6859cf,bank_redirect,VN,VP Bank,vn_mo_vpbank_bank
+349cd64e-9c2a-407c-afef-348158ed16b8,bank_redirect,VN,Nam A Bank,vn_mo_namabank_bank
+e7af38d9-6448-4051-83c4-45502a690d25,bank_redirect,VN,Maritime Bank,vn_mo_maritimebank_bank
+664a97b3-5577-4381-b72d-08a5f21b2c3f,bank_redirect,VN,Sacombank,vn_mo_scbbank_bank
+ebde08c8-6f1c-4912-b32d-4ee0f5c71b48,bank_redirect,VN,Eximbank,vn_mo_eximbank_bank
+0f8eb25f-6313-4c50-a36c-cb8167fed530,bank_redirect,VN,BIDV,vn_mo_bidv_bank
+31b92b7e-f271-4d85-9cc9-4dec0b54792a,bank_redirect,VN,Ocean Bank,vn_mo_oceanbank_bank
+d9207431-6d26-4acd-8d11-bade6266e1ef,bank_redirect,VN,HD Bank,vn_mo_hdbank_bank
+1e2677fe-7963-4bd1-9136-1d9c2517bdb3,bank_redirect,VN,Viet A Bank,vn_mo_vietabank_bank
+7ebc5909-43e3-4daa-9719-790770de9269,bank_redirect,VN,AB Bank,vn_mo_abbank_bank
+1908bd54-c683-44c1-aa9b-b40cc7987abc,bank_redirect,VN,Lien Viet Post Bank,vn_mo_lienvietpostbank_bank
+c0aae48d-5f80-483f-b77c-33764befe862,bank_redirect,VN,Military Bank,vn_mo_mb_bank
+691b16d9-ffad-4116-a136-354bbbd041b4,bank_redirect,VN,Tien Phong Bank,vn_mo_tienphongbank_bank
+5d4da068-fef2-412d-8609-c8ca4b973afc,bank_redirect,VN,Agribank,vn_mo_agribank_bank
+7c7afbdd-0ca2-49ab-8cfd-79e8ac2830b7,bank_redirect,VN,Bac A Bank,vn_mo_bacabank_bank
+3259e4c2-b13e-4dd2-8453-d382407ecf3c,bank_redirect,VN,BVB,vn_mo_bvb_bank
+c56930da-cb25-45b8-b639-77651080dad0,bank_redirect,VN,SeA Bank,vn_mo_seabank_bank
+954418fe-3713-4583-8819-483ede5abde6,ewallet,VN,VTC Pay eWallet,vn_mo_vtcpay_ewallet
+afd6caab-f8aa-40ac-b116-36911690f6f2,bank_redirect,VN,Vietinbank,vn_mo_vietinbank_bank
+67354c8a-5376-11ed-a9cb-12b437367f29,ewallet,KR,kakaopay,kr_kakaopay_ewallet
+e9b91272-80fe-434b-ac5a-917b6eca247d,bank_redirect,ZA,ABSA Bank Instant EFT,za_absa_bank
+ef7e3eaf-da07-4579-8a7a-a844465fa0be,bank_redirect,ZA,Capitec Bank Instant EFT,za_capitec_bank
+a35a2359-f8e9-4725-a8c9-2abe9560ca96,bank_redirect,ZA,FNB Bank Instant EFT,za_fnb_bank
+e163a3d0-932a-4c2f-bdbf-cdf43f716b3b,bank_redirect,ZA,Investec Bank Instant EFT,za_investec_bank
+9949acd7-b6e3-4e5d-a17b-ccf0b8e749e0,bank_redirect,ZA,Standard Bank Instant EFT,za_standard_bank
+da360d50-0049-4b7c-a818-91fc869431fc,bank_redirect,ZA,Nedbank Instant EFT,za_nedbank_bank
+ee52dcea-ce6a-48c3-976a-fbe39c11e3e7,bank_redirect,ZA,African Bank Instant EFT,za_africanbank_bank
+62d4a4c9-58b9-40e8-94b1-743af895f0d1,bank_redirect,ZA,Bidvest Bank Grow Instant EFT,za_bidvestbank_bank
+fb7028aa-0b5f-4114-bf7c-40f10e443a3c,bank_redirect,ZA,TymeBank Instant EFT,za_tymebank_bank
+e355c53c-6031-470f-857f-e523c53286b2,bank_redirect,ZA,Discovery Bank Instant EFT,za_discovery_bank
+cdd77407-e824-4d5b-94be-cdcfa15b0bfd,cash,ZA,Snapscan,za_snapscan_web_cash
+a19ea780-6822-4470-af10-794247039dec,cash,ZA,Snapscan,za_snapscan_qr_cash
+2cb87685-711f-4cbf-8d78-895d8face824,cash,ZA,Zapper,za_zapper_web_cash
+8a5704e8-97ed-47a1-8aff-14384d505810,cash,ZA,Zapper,za_zapper_qr_cash
+f8bb2539-572b-4447-b959-b40d4e23b887,cash,ZA,Masterpass,za_masterpass_web_cash
+92c78b1c-e273-4bd4-9352-61342cf48db1,cash,ZA,Masterpass,za_masterpass_qr_cash
+0f19b362-96b9-43d8-b500-a529dc246ef9,cash,ZA,Nedbank Scan To Pay,za_nedbank_scantopay_web_cash
+513e8398-9e6d-4888-9869-7a492fad22cf,cash,ZA,Nedbank Scan To Pay,za_nedbank_scantopay_qr_cash
+19694e7d-dad5-4ae7-b8ed-d3daad2ae996,cash,ZA,FNB Scan To Pay,za_fnb_scantopay_web_cash
+d627f2e2-75b9-4979-8670-02e12ed91cab,cash,ZA,FNB Scan To Pay,za_fnb_scantopay_qr_cash
+5391466a-b668-4133-8d70-b28ffa49f1b2,ewallet,ZA,1Voucher,za_1voucher_ewallet
+eb034441-a646-4046-a78c-8600b49ce696,ewallet,NG,Pay with QR code,ng_nqr_ewallet
+cc4da52f-2c12-4386-945e-49c2a984134d,bank_redirect,NG,DirectPay,ng_directpay_bank
+15da5eaa-a87d-4cae-b70f-bcfe8be3faf8,card,IN,International Card from Non-IN region,in_internationalcards_card
+60590b2e-8b89-4940-b09b-086e20d131d6,card,IN,Mastercard Credit Card,in_mastercard_credit_card
+beb6c007-bc52-45f1-8561-574092820411,card,IN,Diners Credit Card,in_diners_credit_card
+24d8d18c-2eb8-4169-928a-f17329655d67,card,IN,Amex Credit Card,in_amex_credit_card
+ce40a63e-f1ea-4704-b4dc-c00a8d3c11aa,card,IN,Rupay Credit Card,in_rupay_credit_card
+80a2b7a4-b6c7-4783-9d6d-20c097b90508,card,IN,VISA Debit Card,in_visa_debit_card
+e596c09c-ca81-4888-8f51-064533bad7b9,card,IN,Mastercard Debit Card,in_mastercard_debit_card
+22b6a6af-edf6-420a-9f9a-0a356a878e36,card,IN,Rupay Debit Card,in_rupay_debit_card
+362d84ee-bc5c-4051-92fe-d1aec37cca94,card,IN,Maestro Debit Card,in_maestro_debit_card
+ad05f8ec-7a22-43e7-826c-2fcbdeed6853,card,SG,Amex Credit Card,sg_amex_credit_card
+ad765547-107b-4e3b-929e-4a9cb29ede13,card,SG,Diners Credit Card,sg_diners_credit_card
+ee095109-2119-4e02-a7a7-bdde73408158,card,SG,Maestro Debit Card,sg_maestro_debit_card
+5b915bbf-2e5e-4989-9bdc-cad2b1a22fef,card,SG,Mastercard Credit Card,sg_mastercard_credit_card
+a5363e15-40ad-407d-859e-01b408e738f6,card,SG,Mastercard Debit Card,sg_mastercard_debit_card
+071e0829-e0e8-4d87-9057-f2f7a8bbb846,card,SG,Rupay Credit Card,sg_rupay_credit_card
+eccc9253-d237-4fda-8bb3-d741459a5a0b,card,SG,Rupay Debit Card,sg_rupay_debit_card
+cc3b722c-b51c-4021-a4c2-665b553c1185,card,SG,VISA Credit Card,sg_visa_credit_card
+1cee2ae7-48c7-4be4-bdff-086d6ca54be3,card,SG,VISA Debit Card,sg_visa_debit_card
+cfbb13db-1386-11eb-9179-12e4b01f6a99,card,MY,Amex Credit Card,my_amex_credit_card
+cf9dc8cd-1386-11eb-9179-12e4b01f6a99,card,MY,Diners Credit Card,my_diners_credit_card
+cf8055c2-1386-11eb-9179-12e4b01f6a99,card,MY,Maestro Debit Card,my_maestro_debit_card
+cf62a5d4-1386-11eb-9179-12e4b01f6a99,card,MY,Mastercard Credit Card,my_mastercard_credit_card
+cf459ee2-1386-11eb-9179-12e4b01f6a99,card,MY,Mastercard Debit Card,my_mastercard_debit_card
+cf2838b1-1386-11eb-9179-12e4b01f6a99,card,MY,Rupay Credit Card,my_rupay_credit_card
+cf0b36db-1386-11eb-9179-12e4b01f6a99,card,MY,Rupay Debit Card,my_rupay_debit_card
+ceee4058-1386-11eb-9179-12e4b01f6a99,card,MY,VISA Credit Card,my_visa_credit_card
+ced06944-1386-11eb-9179-12e4b01f6a99,card,MY,VISA Debit Card,my_visa_debit_card
+e0d4797c-8c86-11eb-b9a4-0ee0a5395629,card,IN,VISA Credit Card,in_visa_credit_card
+c185dc31-9e73-11e8-85bb-126629637faa,cash,ID,Alfamart,id_alfa_cash
+c17a187d-9e73-11e8-85bb-126629637faa,bank_transfer,ID,BRI,id_bri_bank
+aab90d31-9e73-11e8-85bb-126629637faa,cash,BR,Caixa,br_lotericas_cash
+aabac114-9e73-11e8-85bb-126629637faa,cash,CL,Serviestado,cl_serviestado_cash
+c165640d-9e73-11e8-85bb-126629637faa,cash,PE,Banco Ripley,pe_banco_ripley_cash
+c13bf90f-9e73-11e8-85bb-126629637faa,cash,CR,Teledolar,cr_teledolar_cash
+d7531a26-2720-4a2b-b21a-9317e240146a,cash,CR,Banco Nacional de Costa Rica,cr_banconacionalde_cash
+408ac00f-fc38-4ab3-b18f-40f8b9b92b39,cash,MX,Mexico Cash Network,mx_diestel_cash
+d01ac991-29ce-4cf9-9892-2c79dee03ef8,cash,DO,Dominican Republic Cash Network,do_todopago_cash
+a24c8e90-2291-4096-a60e-2027f6fc7448,cash,SV,Punto Xpress,sv_puntoxpress_cash
+eeec730e-cb98-473c-88ec-13e3858e946f,cash,MX,Farmacias Benavides,mx_farmaciasbenavides_cash
+eca206fe-9319-4db3-994c-e62f62b5e3a6,cash,MX,Farmacias del Ahorro,mx_farmaciasdelahorro_cash
+c1b8d5ee-ed49-4f8c-9bb9-57430355028c,cash,MX,Waldos,mx_waldos_cash
+c4cbbce5-8500-461b-9b28-028a163c828a,cash,PA,Western Union,pa_western_union_cash
+9b97c9c5-41cd-11ea-9179-12e4b01f6a99,cash,PE,Tambo,pe_tambo_cash
+2b02d90c-11a3-462d-b1c8-a68c912ca499,bank_transfer,US,ACH Debit,us_ach_bank
+d6d4b8b5-4e4a-11ea-8193-0e0450a4edb1,cash,BR,Caixa,br_lotericas_co_cash
+c24c968d-4e4a-11ea-8193-0e0450a4edb1,cash,BR,Bradesco,br_bradesco_co_cash
+c49f0f0f-1783-4b22-9ed3-f0b17e9f0888,cash,SG,NO LONGER APPLICABLE,sg_socash_cash
+68e8e39a-667e-43e8-aff8-8302ab9aca8e,cash,GT,Guatemala,gt_pronet_cash
+a9a63be1-ea44-440a-b4b4-00e883d160df,cash,GT,Cajas de Desarrollo POS,gt_cajasdedesarrollo_cash
+1bc42325-cbba-44fd-83c0-e74e60a7c8b1,cash,GT,Fundacion Genesis Empresarial,gt_fundaciongenesisempresarial_cash
+5a188d8f-f8fb-4b95-9a11-14c2d16c58e0,cash,GT,Banco de Antigua,gt_antigua_cash
+e0d5e59c-d205-49f9-a926-32ff55b64e31,cash,GT,Super 24,gt_super24_cash
+ae15441c-69b3-11ea-9179-12e4b01f6a99,cash,BR,Bradesco,br_bradescobr_cash
+c14b4227-9e73-11e8-85bb-126629637faa,cash,MX,Banco Azteca,mx_bancoazteca_cash
+aabba181-9e73-11e8-85bb-126629637faa,cash,CL,Caja Vecina,cl_cajavecina_cash
+9b62da5b-7280-4148-9287-62439c09f36b,cash,SV,Punto Xpress,sv_puntoxpressslv_cash
+9d9747e0-abb1-4b89-81a7-fcb67759b972,cash,CO,MovilRed,co_movilredcolombia_cash
+c14239ef-9e73-11e8-85bb-126629637faa,cash,EC,Banco Guayaquil,ec_bancoguayaquil_cash
+c16846f9-9e73-11e8-85bb-126629637faa,cash,PE,Caja Tacna,pe_cajatacna_cash
+d9cefc26-5414-4d83-997a-076d28ea3b8b,cash,PE,Caja Huancayo,pe_cajahuancayo_cash
+c16b4b24-9e73-11e8-85bb-126629637faa,cash,PE,Caja Trujillo,pe_cajatrujillo_cash
+c1546930-9e73-11e8-85bb-126629637faa,cash,MX,BBVA Bancomer,mx_bbvabancomer_cash
+c159ff00-9e73-11e8-85bb-126629637faa,cash,PE,Banco de Crédito,pe_bancodecredito_cash
+26907124-aa26-11ea-9218-02672765d2c9,cash,BR,Caixa,br_lotericas_cb_cash
+2754a831-aa27-11ea-9218-02672765d2c9,cash,BR,Caixa,br_lotericas_cbco_cash
+57f32212-aa28-11ea-9218-02672765d2c9,cash,BR,Bradesco,br_bradescobr_cb_cash
+ad96bd73-aa28-11ea-9218-02672765d2c9,cash,BR,Bradesco,br_bradesco_cbco_cash
+3344ab31-8489-40f7-9a53-da6ccf5c6378,cash,CR,Teledolar,cr_teledolar_no_commission_cash
+f115f5a4-c87f-415f-98e3-f36a12dad5c9,bank_transfer,ID,QRIS,id_qris_bank
+f3a573ab-e5c1-42bd-99eb-11a4057e3748,bank_transfer,JP,Local Bank Transfer,jp_banktransfer_bank
+6c63442a-2ead-11e9-8baa-0ed4cc82c482,cash,JP,FamilyMart,jp_familymart_cash
+112a7f43-2dc6-11e9-8baa-0ed4cc82c482,cash,JP,Lawson,jp_lawson_cash
+7917f14f-2dc2-11e9-8baa-0ed4cc82c482,cash,JP,7-Eleven,jp_711_cash
+080f145f-2eaf-11e9-8baa-0ed4cc82c482,cash,JP,SeicoMart,jp_seicomart_cash
+7e9701e0-2eae-11e9-8baa-0ed4cc82c482,cash,JP,MiniStop,jp_ministop_cash
+c081cd47-1972-422d-9fb1-1a3af844944f,bank_redirect,GB,Pay by Bank,gb_realtime_bank
+cb62fb58-7242-419f-8f1f-4e10aa183ef1,bank_redirect,DE,Pay by Bank,de_realtime_bank
+c57e4157-524d-4f18-a658-91e0ab5b64a1,bank_redirect,DE,SEPA Direct Debit,de_sepadirectdebit_bank
+202a844e-88b5-4930-8750-a866b6b296ca,bank_redirect,GB,SEPA Direct Debit,gb_sepadirectdebit_bank
+4dcd2c14-adcc-4657-840c-c491cbf30217,bank_redirect,FR,SEPA Direct Debit,fr_sepadirectdebit_bank
+d9be64c2-68ff-473f-81e4-c7866d2a386c,bank_redirect,FI,SEPA Direct Debit,fi_sepadirectdebit_bank
+8cbfd5dd-c940-444c-9e63-2af092ab2ae5,bank_redirect,AD,SEPA Direct Debit,ad_sepadirectdebit_bank
+b7794d6b-b579-41ad-b258-ad61811d9df5,bank_redirect,AT,SEPA Direct Debit,at_sepadirectdebit_bank
+0f092f9f-e230-4aec-8878-d39ed1718d4a,bank_redirect,PT,SEPA Direct Debit,pt_sepadirectdebit_bank
+cf3789b4-f8aa-4d53-a1e6-40e9379fd928,bank_redirect,BE,SEPA Direct Debit,be_sepadirectdebit_bank
+0493d345-5544-4fec-90d1-b8e5f5b82fdc,bank_redirect,BG,SEPA Direct Debit,bg_sepadirectdebit_bank
+80147cbc-d939-49e9-9adc-06de9395723a,bank_redirect,ES,SEPA Direct Debit,es_sepadirectdebit_bank
+9e5f4b07-0432-4280-8b46-5ddbe89bdb7f,bank_redirect,HR,SEPA Direct Debit,hr_sepadirectdebit_bank
+717d135e-c025-4cb1-879d-1faabefac514,bank_redirect,CY,SEPA Direct Debit,cy_sepadirectdebit_bank
+28a18a33-011b-4d4a-97d5-9f198c1e3329,bank_redirect,CZ,SEPA Direct Debit,cz_sepadirectdebit_bank
+b89e4797-b03a-44c1-be10-83c46727c540,bank_redirect,DK,SEPA Direct Debit,dk_sepadirectdebit_bank
+e719d3c2-b64e-4c95-bd00-c44260d56b95,bank_redirect,EE,SEPA Direct Debit,ee_sepadirectdebit_bank
+57f9e6a8-4f16-4094-8d67-082db2038c0e,bank_redirect,GI,SEPA Direct Debit,gi_sepadirectdebit_bank
+06342769-5503-4b03-a61a-6008014ced65,bank_redirect,GR,SEPA Direct Debit,gr_sepadirectdebit_bank
+b5fc8e85-ed48-4e2b-9996-f9fcb258c7ce,bank_redirect,HU,SEPA Direct Debit,hu_sepadirectdebit_bank
+32885a0f-d1cf-44e3-98b8-282eaac30376,bank_redirect,IS,SEPA Direct Debit,is_sepadirectdebit_bank
+8a45c059-103d-49e1-83bd-fd6fcc033300,bank_redirect,IE,SEPA Direct Debit,ie_sepadirectdebit_bank
+6dc9ae51-52f4-4521-b61e-08748df24875,bank_redirect,IT,SEPA Direct Debit,it_sepadirectdebit_bank
+d89d4ef6-9770-454e-8514-3cdf3e732189,bank_redirect,LV,SEPA Direct Debit,lv_sepadirectdebit_bank
+beac0390-78a0-4b8a-a575-94216a0d71ed,bank_redirect,LI,SEPA Direct Debit,li_sepadirectdebit_bank
+7d0f4e6c-ea75-4a8b-bad9-964c9216b7d7,bank_redirect,IS,SEPA Direct Debit,lt_sepadirectdebit_bank
+0aa1c039-2fd6-4329-a32f-8a8a3e355fc2,bank_redirect,IS,SEPA Direct Debit,lu_sepadirectdebit_bank
+15ee3f4c-aa8e-4991-8e71-032ca7e5acdb,bank_redirect,MT,SEPA Direct Debit,mt_sepadirectdebit_bank
+6ebbaa87-0156-4f34-b2c7-8c295f806bb4,bank_redirect,MC,SEPA Direct Debit,mc_sepadirectdebit_bank
+e0a4a4e8-e71b-4ae4-a53e-01ce348f7a8d,bank_redirect,NL,SEPA Direct Debit,nl_sepadirectdebit_bank
+58d9e7f3-4bd3-4075-a6d4-056e07253db4,bank_redirect,NO,SEPA Direct Debit,no_sepadirectdebit_bank
+0007a674-d441-4060-9155-deb101ca60af,bank_redirect,PL,SEPA Direct Debit,pl_sepadirectdebit_bank
+79ff2158-7050-4380-8808-3de5e26229c0,bank_redirect,RO,SEPA Direct Debit,ro_sepadirectdebit_bank
+072cd2d9-c567-4ba3-8f95-8c5407600459,bank_redirect,SM,SEPA Direct Debit,sm_sepadirectdebit_bank
+e17a63f8-e0e8-48d0-9355-cc638c7bc151,bank_redirect,SK,SEPA Direct Debit,sk_sepadirectdebit_bank
+edec7b11-fc75-429c-aff6-9fc939be900c,bank_redirect,SI,SEPA Direct Debit,si_sepadirectdebit_bank
+42d4616a-4c41-4fbd-87b7-6f848ab2068f,bank_redirect,SE,SEPA Direct Debit,se_sepadirectdebit_bank
+956ae82a-0857-4feb-96a7-18eecdbedfb5,bank_redirect,CH,SEPA Direct Debit,ch_sepadirectdebit_bank
+5ea9c5b3-51c4-46e9-96fe-64ad1618ca01,bank_redirect,VA,SEPA Direct Debit,va_sepadirectdebit_bank
+9959deeb-ace9-4149-bcc2-b4314b69ff6c,bank_transfer,US,US IAT ACH debit,us_iat_bank
+d120b559-d9b0-4e3b-a553-a877ccf9333f,ewallet,UG,MTN MoMo,ug_mtnmomo_ewallet
+c5393d55-0a09-40e7-ad07-7c6a94f60899,ewallet,RW,MTN MoMo,rw_mtnmomo_ewallet
+dd0966b0-c580-4e41-b29c-d36f51b0c493,ewallet,ZM,MTN MoMo,zm_mtnmomo_ewallet
+b1e7efe6-bd92-4dfc-abc6-1635d254ece6,ewallet,SZ,MTN MoMo,sz_mtnmomo_ewallet
+8cf04b52-6f21-48b9-9deb-fc7c9a237e62,ewallet,ZA,MTN MoMo,za_mtnmomo_ewallet
+b577afa8-16d4-440e-b1d3-ca86a9e2fbc1,ewallet,NG,MTN MoMo,ng_mtnmomo_ewallet
+650d6fff-2c9e-4b9d-8f06-8b6f3cdd7bf3,ewallet,CM,MTN MoMo,cm_mtnmomo_ewallet
+fd079013-d63e-4b00-b5a3-e36dd134cbab,ewallet,CI,MTN MoMo,ci_mtnmomo_ewallet
+f6ae4008-bf51-41eb-8e13-56c36b7f26c1,ewallet,GH,MTN MoMo,gh_mtnmomo_ewallet
+21f8c533-3c03-4c8c-a8b2-abdb0a6b6b16,ewallet,BJ,MTN MoMo,bj_mtnmomo_ewallet
+35500982-b502-4431-9cc5-29b5fadf1385,ewallet,LR,MTN MoMo,lr_mtnmomo_ewallet
+cbbb3114-2775-41e7-a414-31a1f9ab523a,ewallet,GN,MTN MoMo,gn_mtnmomo_ewallet
+c75d7223-19ca-4cd5-a73d-42922d738ff9,ewallet,CG,MTN MoMo,cg_mtnmomo_ewallet
+d6f448bc-fc8d-11ee-8a62-0ead6d00080b,ewallet,SS,MTN MoMo,ss_mtnmomo_ewallet
+d8d67d8c-553d-4a20-9448-86ffcf8fbe89,card,KR,Cards (Personal or Corporate),kr_localcards_card
+425a98f5-2464-46e0-982f-6c3bd8e68e91,card,KR,Personal Credit Card,kr_localcardsprivate_card
+9f66ae1f-f215-43da-ba85-96f373a18a4f,card,KR,kr_localcardscorporate_card,kr_localcardscorporate_card
+89712ec7-4f52-44f7-8131-fa42898168ff,bank_redirect,KR,Hyundai Credit Card,kr_hyundai_card
+a8d28487-da7a-461f-9d54-ac9a36384029,card_redirect,KR,Local Cards (Credit/Debit),kr_localcards_redirect_card
+43fc0b66-2973-44f5-a20f-f6e636d34301,card_redirect,KR,BooknLife Vouchers,kr_booknlife_voucher_card
+236b2315-3a98-442d-b357-2d6bd646a8d3,card_redirect,KR,Culture Land Vouchers,kr_cultureland_voucher_card
+ff797983-9186-41e2-b4f2-1d72bf86de0b,card_redirect,KR,Happy Money Vouchers,kr_happymoney_vouchers_card
+6e1587dc-a50e-4412-8b03-2e6b551d37f1,card_redirect,KR,OK Cashbag Points,kr_okcashbag_points_card
+b5fd0b86-1bb2-4aae-a333-145d7ff118fd,card_redirect,KR,Benepia Welfare Points,kr_benepiawelfare_points_card
+656a5e33-8886-441e-a3ef-6f6682070caa,card,BR,Amex,br_credit_amex_card
+4ed23ca8-56bd-4768-8134-242101fe68e8,card,BR,Diners,br_credit_diners_card
+1980621e-6f87-43af-b36b-5dc68333ee80,card,BR,Aura,br_credit_aura_card
+14a0a2ce-cd76-4342-92e9-1245687ca645,card,BR,Elo,br_credit_elo_card
+a585ed26-307f-4fab-ba9d-3aece73410f6,card,BR,Visa,br_credit_visa_card
+4b1b816b-80bf-493e-9cb8-90c840c022dc,card,BR,Mastercard,br_credit_mastercard_card
+5313fb2a-9cd4-4715-81bc-d2e27b6053de,card,BR,Mastercard Debit,br_debit_mastercard_card
+2abf35db-6653-4bd5-8bb3-88e16e6f7aad,card,BR,Visa,br_debit_visa_card
+e5129639-4a84-4369-87bd-7b29ff624580,card,NG,visa,ng_visa_manual_card
+6d0b3e28-e93c-4ac6-be30-67d3d446b1f4,card,NG,verve,ng_verve_pin_card
+0a472e30-2e56-4bf3-add9-f60e15d0836c,card,NG,mastercard,ng_mastercard_pin_card
+3a5e0d7a-4cdf-49e6-bd1e-61f5be5cda8d,card,NG,verve,ng_verve_otp_card
+ff53e864-33e3-4c79-81a3-12833f94041e,card,NG,mastercard,ng_mastercard_otp_card
+4360279b-c600-4fcf-9083-6db908be94a4,card,ZA,Visa,za_visa_card
+c6e84eaf-40d3-4ce3-bb58-da3cca078f26,card,ZA,Mastercard,za_mastercard_card
+f3b2506a-c281-4f45-a7d3-fb5f93989feb,card,ZA,Visa,za_visa_sb_card
+a8d63e76-c280-4899-94ec-7f2069d6f1f0,card,ZA,Mastercard,za_mastercard_sb_card
+b05f67a8-25e7-11e9-8baa-0ed4cc82c482,card,NG,Nigeria Domestic Card Payment,ng_domestic_card
+7d166f7a-6e0f-4009-8bc5-b863fad91698,card,NG,Visa,ng_visa_card
+d4f63483-3cae-4cae-9b31-b492c23a9a9b,card,NG,Mastercard,ng_mastercard_card
+b630138a-097e-49a7-8a09-3a6028895eed,card,KE,Visa,ke_visa_card
+b53749a4-3587-463c-84b1-65e6ceea5d45,card,KE,Mastercard,ke_mastercard_card
+70c8859c-6d38-4e67-aa79-fb8b5749db34,card,GH,Visa,gh_visa_card
+0229c9a2-f17d-4c66-bf93-6ab1ae65e415,card,GH,Mastercard,gh_mastercard_card
+aa9586a8-0ccc-4620-bdb7-8f2687615b58,card,MZ,Visa,mz_visa_card
+c4106317-a0ed-40e3-9c24-3e9a03ec3894,card,MZ,Mastercard,mz_mastercard_card
+3e0e6af0-2e40-4abb-9900-303107e3df87,card,CI,Visa,ci_visa_card
+e0940c2f-a3cd-4c95-9f5d-1e9f8e6bd1d8,card,CI,Mastercard,ci_mastercard_card
+7a0bb874-6a73-4202-b57f-9bf486e00bbc,card,MW,Visa,mw_visa_card
+b7fbd225-0c1b-47ec-aea9-60ddff790bab,card,MW,Mastercard,mw_mastercard_card
+fcb2d9c7-b911-11ee-991c-0e9417661433,card,ZA,Mastercard,za_mastercard_ext_card
+bcf2431b-b912-11ee-991c-0e9417661433,card,ZA,Visa card,za_visa_ext_card
+e7c14098-b912-11ee-991c-0e9417661433,card,UG,Visa card,ug_visa_card
+092bac00-b913-11ee-991c-0e9417661433,card,UG,Mastercard,ug_mastercard_card
+fe934fed-b913-11ee-991c-0e9417661433,card,ZM,Visa card,zm_visa_card
+6a47fefe-b913-11ee-991c-0e9417661433,card,ZM,Mastercard,zm_mastercard_card
+f303942a-b913-11ee-991c-0e9417661433,card,TG,Visa card,tg_visa_card
+8b6f2673-b914-11ee-991c-0e9417661433,card,TG,Mastercard,tg_mastercard_card
+81384635-b914-11ee-991c-0e9417661433,card,SL,Visa card,sl_visa_card
+7aa501d2-b914-11ee-991c-0e9417661433,card,SL,Mastercard,sl_mastercard_card
+98f88970-b916-11ee-ac81-0ec76ec60913,card,SN,Visa card,sn_visa_card
+8fcc0ab6-b916-11ee-ac81-0ec76ec60913,card,SN,Mastercard,sn_mastercard_card
+86bd7909-b916-11ee-ac81-0ec76ec60913,card,RW,Visa card,rw_visa_card
+7ef25120-b916-11ee-ac81-0ec76ec60913,card,RW,Mastercard,rw_mastercard_card
+76d23ae8-b916-11ee-ac81-0ec76ec60913,card,MA,Visa card,ma_visa_card
+6d2218ec-b916-11ee-ac81-0ec76ec60913,card,MA,Mastercard,ma_mastercard_card
+6321b695-b916-11ee-ac81-0ec76ec60913,card,GW,Mastercard,gw_mastercard_card
+55846109-b916-11ee-ac81-0ec76ec60913,card,GW,Visa card,gw_visa_card
+4ce94f11-b916-11ee-ac81-0ec76ec60913,card,EG,Visa card,eg_visa_card
+42aa3a1a-b916-11ee-ac81-0ec76ec60913,card,EG,Mastercard,eg_mastercard_card
+3944b9d4-b916-11ee-ac81-0ec76ec60913,card,CM,Visa card,cm_visa_card
+2dd7c242-b916-11ee-ac81-0ec76ec60913,card,CM,Mastercard,cm_mastercard_card
+25edf1de-b916-11ee-ac81-0ec76ec60913,card,BF,Visa card,bf_visa_card
+1e18e7a9-b916-11ee-ac81-0ec76ec60913,card,BF,Mastercard,bf_mastercard_card
+6deaf94c-af90-11e8-a933-0ea3bb4200ce,ewallet,CN,AliPay eWallet,cn_alipay_ewallet
+447eef58-6480-43da-bbb3-de7c04397c2d,card,KE,Visa credit card,ke_visa_credit_card
+19da4afb-112f-40e9-8585-1e84cb7f2e4b,card,KE,Visa debit card,ke_visa_debit_card
+92299c3c-c432-4891-adea-e5d4fe24b30a,card,KE,Mastercard credit card,ke_mastercard_credit_card
+d7076905-da90-4b4b-b068-433b7022335b,card,KE,Mastercard debit card,ke_mastercard_debit_card
+8c05131f-7982-411b-a345-c5753541c25b,card,GH,Visa credit card,gh_visa_credit_card
+0418ad7b-603c-401f-b7c9-b293a6a8249c,card,GH,Visa debit card,gh_visa_debit_card
+c6fb17b5-c358-4793-9a7c-668cafc86bd7,card,GH,Mastercard credit card,gh_mastercard_credit_card
+7f237fc2-2be8-46db-95aa-21dec1ea6560,card,GH,Mastercard debit card,gh_mastercard_debit_card
+422a9ef2-a3cc-460b-9047-799c77a3bd7c,card,NG,Visa credit card,ng_visa_credit_card
+a3422ed6-ea53-4e7f-8a6a-d512f315b18a,card,NG,Visa debit card,ng_visa_debit_card
+324c3c0d-61f1-4a35-be15-e485ea09210f,card,NG,Mastercard credit card,ng_mastercard_credit_card
+2aee903f-312e-400c-baed-0c145ec76199,card,NG,Mastercard debit card,ng_mastercard_debit_card
+6ba624d7-3037-4c11-a523-bd5da74aa10d,card,SA,Visa credit card,sa_visa_credit_card
+d401379f-f885-4c1d-8ad1-ccb189f77460,card,SA,Visa debit card,sa_visa_debit_card
+9a87592f-cc22-4540-89fd-a2710a6dfc5a,card,SA,Mastercard credit card,sa_mastercard_credit_card
+e14cb79d-e360-44fb-8029-79424735b11c,card,SA,Mastercard debit card,sa_mastercard_debit_card
+7df87001-f3c1-49f5-8125-adaf491d4acc,card,MZ,Visa credit card,mz_visa_credit_card
+9736b4ef-271c-41e9-bea5-2fa66e54c1c2,card,MZ,Visa debit card,mz_visa_debit_card
+40c82ff6-2afb-431b-bb03-afb494582be4,card,MZ,Mastercard credit card,mz_mastercard_credit_card
+eafcadcf-20a1-419a-93bb-11c9d1cd116d,card,MZ,Mastercard debit card,mz_mastercard_debit_card
+7298425a-7c60-4cfe-86f7-ed980612c73c,card,TZ,Visa credit card,tz_visa_credit_card
+27e0696f-bfa6-4d10-a4ee-34d5286af3fa,card,TZ,Visa debit card,tz_visa_debit_card
+683beac7-474f-4c6b-862a-f79c93b4b346,card,TZ,Mastercard credit card,tz_mastercard_credit_card
+406d3dbb-0b25-4618-84fd-e47f8ce593ab,card,TZ,Mastercard debit card,tz_mastercard_debit_card
+5a9db622-10ae-4f15-aa3d-f19e46d2bf49,card,CI,Visa credit card,ci_visa_credit_card
+9836b363-5c6a-48e3-be0b-f5ed5eaf0485,card,CI,Visa debit card,ci_visa_debit_card
+804a5658-cfac-49bb-9066-231507b63645,card,CI,Mastercard credit card,ci_mastercard_credit_card
+3fc168de-550d-47b5-af62-98db457982e4,card,CI,Mastercard debit card,ci_mastercard_debit_card
+83c685e9-dbf0-49a3-907f-b1fbcb38ab99,card,MW,Visa credit card,mw_visa_credit_card
+7d226eec-c10b-4641-885a-4833f666b670,card,MW,Visa debit card,mw_visa_debit_card
+812f625f-d030-4288-a800-79891cb78759,card,MW,Mastercard credit card,mw_mastercard_credit_card
+b5d33743-ba57-4fb7-9e97-25317668f203,card,MW,Mastercard debit card,mw_mastercard_debit_card
+009b9a5a-7e05-4ca9-a443-6905ce805baa,ewallet,KE,MPesa,ke_mpesa_ewallet
+d21fa6e7-7683-4d78-8baa-8c2580004976,ewallet,GH,MTN MoMo,gh_mtnmomo_mo_ewallet
+f37d6234-f643-4fef-998a-4a880c134065,ewallet,GH,ATMoney,gh_airteltigomo_ewallet
+eafb64a2-9572-4f8f-98e3-5573399381a3,ewallet,GH,Vodafone Cash,gh_vodafonecash_ewallet
+02c8f9b1-fc1c-4184-936a-a2e12c8345ea,ewallet,UG,MTN MoMo,ug_mtnmomo_mo_ewallet
+05cefafd-f743-4f2e-b128-bd125cbbac4c,ewallet,UG,Airtel Money,ug_airtelmoneymo_ewallet
+b256affd-5ee0-4590-a0d6-c7dbb3a83c01,ewallet,ZM,MTN MoMo,zm_mtnmomo_mo_ewallet
+f350a5ad-9a20-4ae0-acdb-0a1a827e5b4d,ewallet,ZM,Zamtel,zm_zamtelmo_ewallet
+62c4a590-cd25-4b29-b624-66a6d1f40d97,ewallet,RW,MTN MoMo,rw_mtnmomo_mo_ewallet
+71241ab5-60cd-4739-aeb2-812bc838f369,ewallet,RW,Airtel Money,rw_airtelmoneymo_ewallet
+b466c98d-f5d9-460f-b765-944ba5d6fc68,ewallet,TZ,MPesa,tz_mpesa_ewallet
+f1638b61-6b4b-4cf7-a045-1177b532a22e,ewallet,TZ,HaloPesa,tz_halopesa_ewallet
+0fa2a668-2b5d-4252-aed2-f23592d86196,ewallet,TZ,TigoPesa,tz_tigopesa_ewallet
+e120a4d2-0cfb-4e79-83bb-3c00381e13d4,ewallet,TZ,Airtel Money,tz_airtelmoney_ewallet
+2ede0286-9e30-4ff0-8b85-8e1480d6cd3c,ewallet,CI,MTN MoMo,ci_mtnmomo_mo_ewallet
+0a97b0cc-6dd6-4e81-a60b-b9675a9c7649,ewallet,CI,Yup,ci_yup_ewallet
+78ddd1d0-0fd7-4085-996e-1b2aee7641ea,ewallet,CI,Wizall,ci_wizall_ewallet
+c2a2a9ec-bb94-4f56-b455-aa5935510f22,ewallet,CI,Moov,ci_moov_ewallet
+8733b661-09b9-4bc5-8ed4-9ad30d077ef7,ewallet,CI,Orange Money,ci_orangemoney_ewallet
+a91ecdfe-74cc-4cbf-ba26-1aab4a93a06f,ewallet,CM,MTN MoMo,cm_mtnmomo_mo_ewallet
+f0f82db8-4645-47dd-bda0-56f88f8bb173,ewallet,CM,Orange Money,cm_orangemoney_ewallet
+cf72de60-705f-4720-93f1-51edd689be09,ewallet,CM,EUMM,cm_eumm_ewallet
+48201776-0b6b-4dd5-9810-2efafaa584b6,ewallet,BF,Orange Money,bf_orangemoney_ewallet
+ad231550-909d-4e74-b898-a7b63043dbf3,ewallet,BF,Mobicash,bf_mobicash_ewallet
+dc83da44-8888-47b6-8ec8-268989ecc6fb,ewallet,SN,Wizall,sn_wizall_ewallet
+7bef30fd-d4d1-4cd4-8bdb-e938ab2c20d8,ewallet,SN,Orange Money,sn_orangemoney_ewallet
+ae705c07-68c1-4364-9899-800406db0e6a,ewallet,SN,Free Money,sn_freemoney_ewallet
+4207bade-7ac9-4c76-b3b9-d737a91ca60c,ewallet,SN,Emoney,sn_emoney_ewallet
+c1573333-9e73-11e8-85bb-126629637faa,cash,PE,BBVA Continental,pe_bbvacontinental_cash
+aabc786a-9e73-11e8-85bb-126629637faa,cash,CO,Efecty,co_efecty_cash
+c15fab52-9e73-11e8-85bb-126629637faa,cash,PE,Interbank,pe_interbank_cash
+c15ce54e-9e73-11e8-85bb-126629637faa,cash,PE,Scotiabank,pe_scotiabank_cash
+27c3c78e-07e9-4f41-9467-691b0fa51f91,cash,PE,Western Union,pe_westernunion_cash
+5e6b65f9-5386-43b9-acd0-3802c1c4c664,cash,CO,SuRed,co_sured_cash
+a2d86f0e-fdf2-11ec-87f4-0ec78fa7c5b9,bank_transfer,CA,CA Bank Collections,ca_ach_bank
+7471fb1f-5e53-4190-9357-6843aef7dc5c,bank_transfer,KE,ABSA,ke_absa_ic_bank
+06592fb9-b8d3-417b-a763-646f967f9fea,bank_transfer,NG,Bank Transfer,ng_nibbs_ins_bank
+9185899c-ac02-4e2b-afd4-92678b233d0e,bank_transfer,NG,Quickteller USSD,ng_quickteller_ussd_bank
+38015783-a330-4f85-b7bf-79b4bed7601a,bank_transfer,NG,Globus Bank USSD,ng_globusbank_ussd_bank
+34528d91-2b7f-4d3b-920f-5c332b0269d4,bank_transfer,NG,Bank Transfer,ng_virtualaccount_bank
+acc5828e-ae08-473b-afaf-09b525970982,cash,CO,Colombia Cash Network,co_cash_cash
+53ee9bd3-3d5c-4d7c-bf8a-559670f9e4f7,cash,EC,Ecuador Cash Network,ec_kushki_cash
+3a21b181-1c7c-4583-a3e7-923af1a42b67,cash,PE,Pago Efectivo,pe_stores_cash
+dd6e28d2-a33b-45c0-b09b-564a65f64ca8,cash,PE,Banbif,pe_banbif_cash
+9ff75ff5-e8cd-4db9-bd6c-522bdb6165b8,cash,PE,Caja Arequipa,pe_caja_arequipa_cash
+c16276fa-9e73-11e8-85bb-126629637faa,cash,PE,Caja Arequipa,pe_cajaarequipa_cash
+2975816f-682f-4115-b6c9-b076c07638c6,bank_transfer,PE,Caja Arequipa,pe_caja_arequipa_bank
+1cf31925-8d5f-4b46-a66d-b9b3e6090e18,bank_transfer,PE,Interbank,pe_inter_bank_bank
+c44c9e5c-7f5d-4591-a7e5-68b64ce4838b,bank_transfer,PE,BCP,pe_bcp_bank
+ece56d66-ad0f-4ba6-9929-2e9c117f0f2f,bank_transfer,PE,Banbif,pe_banbif_bank
+702f70e6-b4a7-470a-a824-c00b80283bba,bank_transfer,PE,BBVA,pe_bbva_bank
+805a0918-eb6d-44cf-ac76-e255839b914f,bank_transfer,PE,Scotiabank,pe_scotia_bank_bank
+7d560bb1-6eed-409e-8ed8-cf880feb07c6,cash,EC,Facilito,ec_facilito_cash
+4ee89dc6-5ba3-4f05-9a9e-e45bc1e76453,cash,EC,Western Union,ec_westernunion_cash
+6b6ca9ab-57e3-42cb-8b75-2c09bf3ef583,cash,EC,Pago Agil,ec_pagoagil_cash
+b03b27d5-18db-44d9-a6c2-10882bbc245c,cash,EC,Western Union,ec_servipagos_cash
+d5961a1e-298a-4867-b187-c68377547215,ewallet,MY,Alipay,my_alipay_ewallet
+4fdcd215-2018-42c4-a5f8-7723791b4d0d,bank_transfer,KE,KCB,ke_kcb_ins_bank
+4f7619fc-60ff-4f00-b076-a9a19bd32c20,bank_transfer,KE,NCBA,ke_ncba_ins_bank
+918cec6d-2a37-4ba2-8917-f61fae2447bd,bank_transfer,KE,ABSA,ke_absa_ins_bank
+36a8ef56-ac5d-4efe-9ad9-259a05507660,bank_transfer,KE,National Bank,ke_nb_ins_bank
+cb1add30-3949-463d-bace-46bbc514aa37,bank_transfer,KE,Equity Bank,ke_equity_ins_bank
+69e69272-26a4-4c76-a927-e97ab9ee6e76,bank_transfer,KE,Coop Bank,ke_coop_ins_bank
+2c21b89c-5552-4faa-842d-e13934b0e54a,bank_transfer,KE,Stanbic Bank,ke_cfcstanbic_ins_bank
+1034be21-6d77-4dca-a9e4-77976ede0016,bank_transfer,KE,Standard Chartered Bank,ke_stanchart_ins_bank
+7d24f77a-3135-431f-8e37-18d0766c8160,bank_transfer,KE,Family Bank,ke_family_ins_bank
+bb65a53b-d144-4f80-95d8-db3c106f6c11,ewallet,KE,M-PESA,ke_mpesa_stk_ewallet
+3db9605d-743d-4dfa-80f9-422ac435e811,ewallet,KE,Airtel Money,ke_airtel_ussd_ewallet
+942f6b51-5acb-44d4-9ba4-187285b703e5,ewallet,ZM,MTN MoMo,zm_mtn_ussd_ewallet
+9e8840e9-7216-4035-accd-ffea7a417f5c,ewallet,ZM,Zamtel,zm_zamtel_ussd_ewallet
+ce32bfc8-c639-447d-8648-6b33d34293fd,ewallet,ZM,Airtel Money,zm_airtel_ussd_ewallet
+056ef724-6b20-4e7d-8614-4cb16e9ef020,ewallet,GH,MTN MoMo,gh_mtn_ussd_ewallet
+173a80db-02c4-4869-aa2f-a068b1f05829,ewallet,GH,ATMoney,gh_airteltigo_ussd_ewallet
+a128eace-836c-48cc-a03e-0a63b3c01b89,ewallet,GH,Vodafone,gh_vodafone_ussd_ewallet
+d82320c9-f6cd-4685-af8a-9b2a8e82d582,ewallet,UG,MTN MoMo,ug_mtn_ussd_ewallet
+361cfa02-2f4a-447e-ba05-7f07e29af555,ewallet,UG,Airtel Money,ug_airtel_ussd_ewallet
+5e8603f6-cf12-4267-b8b8-3e60c52e45f7,ewallet,MW,Airtel Money,mw_airtel_ussd_ewallet
+4b21ea3c-ab67-4b91-a214-f2fb51dcc79c,ewallet,MW,TNM Mpamba,mw_tnm_ussd_ewallet
+57a12556-89d3-40a9-8aa3-b370eaa17d61,ewallet,MZ,M-Pesa,mz_vodacom_pushn_ewallet
+daaa3fe0-2576-46e7-bb77-c07f27e9650e,ewallet,TZ,M-Pesa,tz_vodacom_ussd_ewallet
+64335812-b2b3-4057-8c06-9b077d24d730,ewallet,TZ,Tigo Pesa,tz_tigo_ussd_ewallet
+dffce9e0-93e0-4b49-a0d1-6e6e5c6a3620,ewallet,TZ,Airtel Money,tz_airtel_ussd_ewallet
+e2c484b0-4c8b-4787-a554-747585f765c7,ewallet,SN,Orange Money,sn_orangemoney_ins_ewallet
+0991710a-fbc5-4aed-8db8-2babd31d9730,ewallet,SN,Free Money,sn_freemoney_ussd_ewallet
+babeef08-7631-4f89-b177-5384214cb438,ewallet,CI,Orange Money,ci_orangemoney_otp_ewallet
+87aa4ea0-f3dd-41dc-b63e-107ab5bb4df1,ewallet,CI,MTN MoMo,ci_mtn_ussd_ewallet
+077e697e-604e-401a-818e-a117da4ab055,ewallet,CI,Moov,ci_moov_ussd_ewallet
+5ac41b1c-b78f-4ca1-b2e4-a4f6c9bf61fb,ewallet,CM,Orange Money,cm_orangemoney_otp_ewallet
+4b509df2-892c-44d3-bfda-35163e40a261,ewallet,CM,MTN MoMo,cm_mtn_ussd_ewallet
+d5a6cc94-f42b-4a7e-960b-241411b2a10f,ewallet,ML,Mobicash,ml_mobicash_ussd_ewallet
+b7e06e77-682a-4a15-b6e5-b74b28a603ee,ewallet,BF,Orange Money,bf_orangemoney_ussd_ewallet
+3098ec79-2d59-4b2a-82ed-4186d78086ce,ewallet,BF,Mobicash,bf_mobicash_ussd_ewallet
+c04a3bd5-25ce-49d2-84d0-74e6260c2e2c,bank_redirect,MY,Maybank,my_maybank_bank
+ffb9b61f-594f-48e6-a679-1110d159ee06,bank_redirect,MY,OCBC,my_ocbc_bank
+beae5442-3789-4031-9c7e-6665b7474a27,bank_redirect,MY,Affin Bank,my_affinbank_bank
+5f2f7a48-18a0-45ac-8986-82ccdaccdfac,bank_redirect,MY,Alliance Bank,my_alliancebank_bank
+940c9061-3117-4ace-899f-bd00e3484a16,bank_redirect,MY,Standard Chartered Bank,my_standardchartered_bank
+1448d97c-dc3d-48db-9f67-f39f896ca197,bank_redirect,MY,HSBC,my_hsbc_bank
+a26c30ff-9a1b-4cf5-8b97-ad750f953324,bank_redirect,MY,Public Bank,my_public_bank
+e6168e76-392c-48d2-9010-d25aacf3a721,bank_redirect,MY,RHB Bank,my_rhb_bank
+baa13f28-5826-424c-be94-cc3f57547503,bank_redirect,MY,Bank Islam,my_islam_bank
+9db71f08-0f96-4522-a8dc-aa309110dff6,bank_redirect,MY,Bank Muamalat,my_muamalat_bank
+b297a735-43b7-4c19-a80b-9e1f4060a7de,bank_redirect,MY,Bank Rakyat,my_rakyat_bank
+8d44c1a2-2639-4e66-9550-72273d6f2905,bank_redirect,MY,CIMB,my_cimb_bank
+3148dcdf-f518-42d0-b921-464b1a30c34a,bank_redirect,MY,Bank Simpanan Nasional,my_simpanannasional_bank
+349fca81-3482-4b77-9ed5-a670dff8d053,bank_redirect,MY,Hong Leong Bank,my_hongleong_bank
+83045c23-9d1d-4bbc-baf1-d231ddc2528b,bank_redirect,MY,UOB Bank,my_unitedoverseasbank_bank
+160f4867-195e-400f-822b-4933e296a3c0,bank_redirect,MY,Citibank (Corporate),my_b2b_citibank_bank
+4f160a82-2d0b-4c93-9581-712a1cdd2ef7,bank_redirect,MY,Bank Rakyat (Corporate),my_b2b_ibizrakyat_bank
+e8874a80-74b8-4f61-ae96-86195fa16a28,bank_redirect,MY,Public Bank Enterprise (Corporate),my_b2b_publicbankenterprise_bank
+bf01a4d3-4931-48a9-913d-8bc184d1e5ec,bank_redirect,MY,UOB (Corporate),my_b2b_uobregional_bank
+b9fb9cb6-2bef-43a1-9861-e6908b66c2e8,bank_redirect,MY,Alliance Bank (Corporate),my_b2b_alliancebank_bank
+8af0d887-4397-4361-8f32-b61e9306b20a,bank_redirect,MY,Deutsche Bank (Corporate),my_b2b_deutsche_bank
+7c65cf9d-7869-4e14-990f-10a7d0369eba,bank_redirect,MY,Kuwait Finance House (Corporate),my_b2b_kfh_bank
+0ba946c8-9c46-436a-9998-fed1ac45560c,bank_redirect,MY,OCBC Bank (Corporate),my_b2b_ocbcbank_bank
+b12daf38-7801-49f9-a01d-db09e5a01778,bank_redirect,MY,Standard Chartered Bank (Corporate),my_b2b_standardchartered_bank
+90a8afac-ec4c-4720-83c9-caec27b1c8b9,bank_redirect,MY,Paribas Bank (Corporate),my_b2b_bnpparibasbank_bank
+b7e24c81-8839-403d-8827-a0c5efbf9d01,bank_redirect,MY,Agrobank (Corporate),my_b2b_argobank_bank
+4723b747-c027-40f8-bfef-8a3d45fe597f,bank_redirect,MY,Maybank (Corporate),my_b2b_maybank2e_bank
+6ee6a475-18da-43b5-9d57-98412cf71bf5,bank_redirect,MY,AmBank (Corporate),my_b2b_ambank_bank
+1d1c5511-78f6-441a-a02e-6567a0b72fc8,bank_redirect,MY,Bank Islam (Corporate),my_b2b_bankislam_bank
+f929e9f5-fb9a-4c25-b718-81263ec5ee27,bank_redirect,MY,CIMB (Corporate),my_b2b_cimbbank_bank
+f41d3710-3a16-44e0-8349-f6b477feb22a,bank_redirect,MY,Hong Leong Bank (Corporate),my_b2b_hongleong_bank
+51f5aaa0-de7a-4615-bad8-3550ad9f1c81,bank_redirect,MY,HSBC (Corporate),my_b2b_hsbc_bank
+fc4091a6-438b-4853-b546-661880fc5a6a,bank_redirect,MY,Public Bank (Corporate),my_b2b_publicbank_bank
+96d50504-2cae-4001-bd2e-3a3e293f0b90,bank_redirect,MY,RHB Bank (Corporate),my_b2b_rhbbank_bank
+2e30f692-9227-4edc-82c2-c2b167ae3fea,bank_redirect,MY,United Overseas Bank (Corporate),my_b2b_unitedoverseasbank_bank
+1b7c1dea-51cf-40cb-86d3-833304cd8e44,bank_redirect,MY,Affin Bank (Corporate),my_b2b_affinbank_bank
+fb11ce49-51b7-4808-ab30-0bd44fefd554,bank_redirect,MY,AffinMax (Corporate),my_b2b_affinmax_bank
+e682f5ee-8805-473b-91d6-128b81ab33ea,bank_redirect,MY,Bank Muamalat (Corporate),my_b2b_bankmuamalat_bank
+4e93490a-6957-45e1-bef3-66cdd672c50f,bank_redirect,MY,Bank Of China,my_bankofchina_bank
+2022130f-b608-4d92-86ad-fc5c0e7fbd58,bank_redirect,MY,Ambank,my_amonline_bank
+b01bb2b9-a01e-42c7-8ad6-1692c28d7eba,bank_redirect,MY,Am Online,my_amonline_redirect_bank
+5a8820ee-dc9f-4b3f-8be7-e012acc98624,bank_redirect,MY,FPX B2B Hong Leong,my_b2bhongleong_bank
+d8555df8-e1a3-45b7-9bd0-68944ce1bbd2,bank_redirect,MY,FPX B2B RHB Bank,my_b2brhbbank_bank
+9891fd9f-7b4a-43c6-98d2-feb7d7b7483c,bank_redirect,MY,FPX B2B Bank Islam,my_b2bbankislam_bank
+66400463-17d6-4661-bf04-e7fefd314fb5,bank_redirect,MY,FPX B2B CIMB Bank,my_b2bcimbbank_bank
+5a08bb8e-06d3-4c91-a119-88f0f1d99929,bank_redirect,MY,FPX B2B Affin Bank,my_b2baffinbank_bank
+50338773-ddee-4ff5-82f2-9042d6cdad3c,bank_redirect,MY,FPX B2B HSBC,my_b2bhsbc_bank
+adf36da5-d2b3-4318-961f-7988141d594c,bank_redirect,MY,FPX B2B AmBank,my_b2bambank_bank
+b1eb0f6a-a1dd-4fac-9f68-38e931e08dd7,bank_redirect,MY,FPX B2B Public Bank,my_b2bpublicbank_bank
+5965d9d3-219b-48c4-a5a3-d6c5cf055628,bank_redirect,MY,Hong Leong Connect,my_hongleongconnect_redirect_bank
+5717f834-6e58-414d-9702-ad9b15491f77,bank_redirect,MY,FPX B2B UnitedOverseas Bank,my_b2bunitedoverseasbank_bank
+7c974136-a5de-4fd9-bbca-45edb444aff6,bank_redirect,MY,CIMB Clicks,my_cimbclicks_redirect_bank
+49ee5d16-d7bf-461f-9386-7a9ba26d7ad9,bank_redirect,MY,FPX Bank Rakyat,my_bankrakyat_bank
+12c6be6f-7159-47c0-a09f-00f1debf89a1,bank_redirect,MY,Maybank2u,my_maybank2u_redirect_bank
+024ba926-bcd0-47ac-8e29-86b25acda89f,bank_redirect,MY,FPX B2C BankSimpanan Nasiona,my_banksimpanannasiona_bank
+1a6bdb79-2354-4f3d-aa23-ddf4dcba821e,bank_redirect,MY,RHB Now,my_rhbnow_redirect_bank
+709ab2a2-5b1c-428d-a963-e4d3eb730489,bank_redirect,MY,PEx+ by HLBB,my_pexbyhlbb_redirect_bank
+24f9012e-8817-4051-afa9-2ec1a2de0497,bank_redirect,MY,MyClear FPX B2B,my_myclearb2b_bank
+d515cf65-58ab-42c5-b511-5666acad1801,bank_redirect,MY,MyClear FPX B2C,my_myclearb2c_bank
+2ad00807-3529-4a7c-b70c-272db573e8fb,bank_redirect,MY,Kuwait Finance House,my_kuwaitfinancehouse_bank
+0921fec0-8337-4ce5-aa52-56ebb212aaab,bank_transfer,AU,POLi payments,au_polipayment_bank
+ce70431a-0bc3-4557-94ab-1798d60162b3,cash,ID,Artajasa,id_artajasa_cash
+b6cf7d3d-c2df-4487-92af-57a674a3fc43,bank_transfer,ID,ATM Network TransferVirtual Account (VA),id_virtualaccount_bank
+b097f07a-242c-4ea3-8d1c-3c24b69ea41c,bank_transfer,MY,FPX B2B Maybank2E,my_b2bmaybank2e_bank
+9b51b063-e07d-4e83-9889-5428de1a1b48,ewallet,MY,MOLPoints,my_molpoints_ewallet
+b0b9f9c8-101a-4e9c-ad61-e72a8f4f0745,bank_transfer,MY,CIMB Virtual Account,my_cimbva_bank
+b9b31364-3dc7-4880-95a7-4107dae61fcc,cash,MY,MOLPay CASH via 7e,my_mol711_cash
+512bef64-d6ad-418c-937f-42de4529c12a,cash,MY,MOLPay ATM 9282,my_molatm_cash
+d148c41f-c9d6-4557-a152-ec71725204ca,ewallet,MY,Touch N Go,my_tng_ewallet
+a65e79ee-7cc0-4a02-be40-540a09c70851,bank_transfer,MY,FPX B2C Public Bank,my_publicbank_bank
+c23525ee-329f-4a9f-a8a2-def425bceeaa,bank_redirect,SG,eNETS Debit,sg_enetsdebit_bank
+ca4ccfbc-f140-4399-9cdc-37f6e95b4a26,cash,PH,Dragonpay,ph_dragonpay_cash
+00caab59-a6d3-41b8-99c2-85803e174034,bank_transfer,MY,FPX B2C RHB Bank,my_rhbbank_bank
+ae830f71-08f6-40fc-b8ac-5542157b3116,bank_transfer,MY,FPX B2C Maybank,my_mybankoffline_bank
+f0356f04-90ce-412c-a16b-de457edc20a3,bank_redirect,TH,Bangkok Bank,th_bangkokbank_redirect_bank
+9331fe29-5198-489d-a336-262326024a61,ewallet,MY,Webcash,my_webcash_ewallet
+37f83719-1c5e-4b01-8e4b-e11644aa3b5d,bank_transfer,PH,Dragonpay,ph_dragonpay_bank
+5369ac68-b955-4054-8676-ffdee2a420a2,cash,TH,Tesco Lotus,th_tescolotus_cash
+dc07d428-9e83-437f-a479-60f943267d17,bank_transfer,TH,Omise,th_omise_bank
+42cfaa34-45b0-44af-867b-1351412af3aa,cash,MY,7-Eleven,my_711otc_cash
+65eb8851-2c74-4e43-8efe-0cac8cac8fd6,cash,SG,SAM Kiosk,sg_samkiosk_cash
+7c257c6b-ba63-4f9b-a250-6fe78a458e01,bank_redirect,VN,Vietcombank,vn_vietncombank_bank
+203fc18e-1b36-4b1b-bd71-cc53ca4b681d,bank_redirect,VN,NAVI BANK,vn_navibank_bank
+da016212-3acc-480f-acf2-7ae158990063,bank_redirect,SG,eNETS,sg_enets_bank
+aaf6a20a-2de6-4471-8619-b8adae674aad,ewallet,MY,MY UnionPay,my_unionpay_ewallet
+bbbb30f4-5018-4a81-9ec6-88804b23130c,bank_transfer,VN,Vietnam Domestic Bank Transfer,vn_domestic_bank
+fa47b4cf-a6bb-48d0-81b4-0cdbd3d6fae2,bank_transfer,VN,VeitQR,vn_vietqr_bank
+c1771b94-9e73-11e8-85bb-126629637faa,bank_transfer,ID,CIMB,id_cimb_bank
+c1714f6b-9e73-11e8-85bb-126629637faa,bank_transfer,ID,Bank Permata,id_permata_bank
+c17ff8fb-9e73-11e8-85bb-126629637faa,bank_transfer,ID,Bank Mandiri,id_mandiri_bank
+c17d1052-9e73-11e8-85bb-126629637faa,bank_transfer,ID,BNI,id_bni_bank
+43e32ed2-f1f3-4434-97fc-5c6abfccf433,bank_transfer,ID,BCA,id_bca_bank
+95f06149-3fb6-4714-94a7-aa7f0aa21dd2,bank_transfer,ID,Danamon,id_danamon_bank
+8ab13bc1-929d-4627-a174-44391713649d,bank_transfer,ID,Maybank,id_maybank_bank
+c1743963-9e73-11e8-85bb-126629637faa,bank_transfer,ID,Bank Sinarmas,id_sinarmas_bank
+21d216ee-75f0-4db9-b96f-201c35834294,ewallet,ML,Orange Money,ml_orangemoney_ussd_ewallet
+b4eacb90-99af-4826-adcc-705d44e6c781,cash,PE,Agente KasNet,pe_kasnet_cash
+f9e83c89-301e-4638-85e0-7ebc61c9fb97,cash,PE,Disashop,pe_disashop_cash
+3932dab4-51f3-4be7-90c1-489623f82c54,cash,PE,MoneyGram,pe_moneygram_cash
+86e1c547-a6aa-47ad-8455-f9fa719a55ca,cash,PE,Full Carga,pe_fullcarga_cash
+939d96f7-44e9-4e32-abfa-83ca69be85d9,cash,PE,Agente Red Digital,pe_reddigital_cash
+5fa75038-aa7c-488e-b4ed-8d6613bc4f03,cash,PE,BCP,pe_bcp_cash
+36f101ba-3452-4a1b-ab47-c0c13c4e99f4,cash,PE,Western Union,pe_western_union_cash
+9d01c85f-bf9f-43c7-bf78-1a8c7b2582a8,cash,PE,Scotiabank,pe_scotia_bank_cash
+3aabf6bd-3bf9-4e5d-bb5f-711d68cecb03,cash,PE,BBVA Continental,pe_bbva_continental_cash
+6579461b-e585-49d2-8bd6-af145a210d5d,cash,PE,Interbank,pe_inter_bank_cash
+507aede5-b39f-11ea-b775-0e2799731de5,cash,EC,Banco Guayaquil,ec_bancoguayaquilpe_cash
+5e8f360f-b39f-11ea-b775-0e2799731de5,cash,EC,Tia,ec_tia_cash
+57cf6289-b39f-11ea-b775-0e2799731de5,cash,EC,Ponle,ec_ponle_cash
+3f8c843c-3399-11eb-9179-12e4b01f6a99,cash,EC,Western Union,ec_westernunion_primary_cash
+3ae9d044-339b-11eb-9179-12e4b01f6a99,cash,EC,Facilito,ec_facilito_primary_cash
+b3873ff1-97d8-4859-a34a-ce89d54bb16e,card,US,Discover Debit,us_debit_discover_card
+92b7f947-c671-4a23-814f-db536e9f319f,card,US,Mastercard Debit,us_debit_mastercard_card
+a628b8a3-4485-4885-9eb5-999e337f6296,card,US,Visa Debit,us_debit_visa_card
+056fb68d-eb91-4306-bb31-96cb17b55368,card,US,Other,us_atmdebit_card
+555b6622-ae40-48ba-9118-b67166cf4aa2,bank_transfer,BG,BG ABN AMRO,bg_trustpay_bank
+ad53875b-f393-46e1-9056-e15ae726d2e5,bank_redirect,CL,WebPay Bank Payments Chile,cl_webpay_bank
+aa99bb83-9e73-11e8-85bb-126629637faa,bank_redirect,BR,Brazil Banricompras bank,br_banrisul_bank
+ee5d1376-595e-11ea-8193-0e0450a4edb1,bank_redirect,BR,Brazil Banricompras bank,br_banrisulbank_bank
+96203181-319d-44d8-ab6d-51f6ff7501eb,bank_redirect,IN,Indian Bank,in_indian_bank
+b72931bc-c3b2-4d36-8d27-7ee441f31841,ewallet,IN,OlaMoney eWallet,in_olamoney_ewallet
+232489d8-57cf-4f99-a2d9-1b246c9fd724,ewallet,IN,JioMoney eWallet,in_jiomoney_ewallet
+cd359ea2-fcb5-4467-8f13-dcf1466d64f3,ewallet,IN,Freecharge eWallet,in_freecharge_ewallet
+3813b221-423f-4ee7-9230-132fd3ccf56c,bank_redirect,IN,UPI,in_upi_bank
+e8c446ff-8f16-4823-ba53-140587b21710,ewallet,IN,PhonePe eWallet,in_phonepe_ewallet
+c02fce63-7ea6-4ffd-8feb-60d62f22f2e1,ewallet,IN,Paytm eWallet,in_paytm_ewallet
+09ad674d-2a9f-40bd-a824-a12e24886395,ewallet,IN,Airtel Money eWallet,in_airtelmoney_ewallet
+fdacfa93-e8ea-4514-b879-c72311d72405,ewallet,IN,PayZapp eWallet,in_payzapp_ewallet
+26236ffa-2683-4a34-96f1-463668ea3e90,bank_redirect,IN,Google Pay via UPI,in_googlepay_upi_bank
+c541d319-cdc0-4133-b036-dce218b1ac72,bank_redirect,IN,ICICI Bank,in_icici_bank
+30c18845-bd11-447c-b5ba-753345a7ab28,bank_redirect,IN,Andhra Bank,in_andhra_bank
+b223e2b3-87c9-4ac1-9295-d9f310666274,bank_redirect,IN,Catholic Syrian Bank,in_catholicsyrian_bank
+6980a536-ebaf-4829-a78d-23cf5816ccb4,bank_redirect,IN,Canara Bank,in_canara_bank
+8eff6483-5bc8-4cc8-8d69-d72cfc92880c,bank_redirect,IN,Corporation Bank,in_corporation_bank
+1e92a234-329f-4e29-ac75-844e0fdb16f0,bank_redirect,IN,Cosmos Bank,in_cosmos_bank
+d61b88a4-8f36-4f42-8cf6-3a0bc57db67b,bank_redirect,IN,Bank of India,in_bankofindia_bank
+b0b7597f-2988-456a-a756-63815d186413,bank_redirect,IN,DCB Bank,in_dcbcorporate_bank
+68f101cb-69d9-4e05-975c-5f0abd106c64,bank_redirect,IN,City Union Bank,in_cityunion_bank
+74c58b0d-7bda-4b32-8059-fbdf9e0e757d,bank_redirect,IN,HDFC Bank,in_hdfc_bank
+715cb832-c838-4f72-b8aa-1ef3aae2e0d0,bank_redirect,IN,Deutsche Bank,in_deutsche_bank
+2abccc33-5240-47cc-8a9a-e799a616dabb,bank_redirect,IN,The Federal Bank,in_federal_bank
+aff7fd99-e180-4948-b2a2-5d59771aa428,bank_redirect,IN,Indian Overseas Bank,in_indianoverseas_bank
+f02b8e1e-7e8f-44fb-95e8-99c4032556c2,bank_redirect,IN,Dena Bank,in_dena_bank
+26a0f3ee-985e-41af-9718-298c2b10fe82,bank_redirect,IN,IndusInd Bank,in_indusind_bank
+10d6d96d-2e5d-468b-bb9d-b98a5c85c411,bank_redirect,IN,Janata Sahakari Bank Pune,in_janatasahakari_bank
+54ffc0e5-b93b-495c-962e-d0bf88ae6c48,bank_redirect,IN,Karnataka Bank,in_karnataka_bank
+ff5222dd-bdd5-4213-9207-70a23db6b64c,bank_redirect,IN,Karur Vysya Bank Corporate,in_karurvysya_bank
+7e1f38b7-fb0b-4747-a3cf-a8498aa09787,bank_redirect,IN,South Indian Bank,in_southindian_bank
+ed4edcb1-e340-48d7-8412-738a7db16bb0,bank_redirect,IN,Saraswat Bank,in_saraswat_bank
+c8648a6c-de43-4e11-b9e9-64b58c0c9d5c,bank_redirect,IN,Syndicate Bank,in_syndicate_bank
+88c0ef5f-b4a7-44d2-ba3f-2bb082fbb5dd,bank_redirect,IN,Nainital Bank,in_nainital_bank
+7be14baa-3468-41ba-adf6-b1e0cc26ad90,bank_redirect,IN,Vijaya Bank,in_vijaya_bank
+391ca511-26f5-4cc2-a12b-1df75716c1b0,bank_redirect,IN,UCO Bank,in_uco_bank
+6fd5dfcf-b718-44fb-ae39-bd84626f4d72,bank_redirect,IN,IDBI Bank,in_idbi_bank
+3c9d9e04-f8f2-4cdf-abb4-a179b0d4035c,bank_redirect,IN,Airtel Payments Bank,in_airtelpayments_bank
+6d173117-d913-4c1e-a242-1ce92a9ba7f4,bank_redirect,IN,Axis Bank,in_axisnb_bank
+ec627cb2-11d1-4d81-86e9-c8297dbe672c,bank_redirect,IN,Bank of Maharashtra,in_bankofmaha_bank
+b73a8900-7ec6-4e1d-907f-6ce450eec89b,bank_redirect,IN,Bharat Co-Op Bank,in_bharatcoop_bank
+e34cba6d-1df8-4872-8dc1-dbde32e5d304,bank_redirect,IN,Central Bank of India,in_cbi_bank
+761201ed-4f1a-4162-aabd-527edae82ec6,bank_redirect,IN,Citibank,in_citibank_bank
+d772fb08-45ff-475f-8b48-274f6e264df3,bank_redirect,IN,Development Credit Bank,in_devcredit_bank
+a76edda5-4049-4013-8597-a6d985d9a184,bank_redirect,IN,Dhanlaxmi Bank,in_dhanlaxmi_bank
+c994f7b8-9969-4897-8024-677d285fbad2,bank_redirect,IN,ICICI Bank - Corporate,in_icicinetbanking_bank
+62a4a45c-4611-4d66-a446-3b703a500e13,bank_redirect,IN,IDFC Bank,in_idfc_bank
+f5413476-1e95-4610-96a0-c11b379a60ad,bank_redirect,IN,Jammu and Kashmir Bank,in_jnk_bank
+ca3f560b-4df3-4e69-9827-43a7fb8779ee,bank_redirect,IN,Kotak Mahindra Bank,in_kotakmahindra_bank
+2cc27519-cd52-4dee-9e35-d97ebd1798ac,bank_redirect,IN,Lakshmi Vilas Bank Corporate,in_lakshmivilascorp_bank
+a1571690-1a1a-4686-ad4e-64227f215eb0,bank_redirect,IN,Lakshmi Vilas Bank,in_lakshmivilasretail_bank
+7b0164f7-237a-4609-bc89-9d54ccada55c,bank_redirect,IN,Oriental Bank of Commerce,in_orientalbank_bank
+e4a8b50c-0e96-4c43-a24e-d3762db4e3e7,bank_redirect,IN,Punjab and Maharashtra Co-operative Bank,in_punjmahacoop_bank
+31472d1d-153d-4a9f-9bce-188d07bf36a6,bank_redirect,IN,Punjab and Sind Bank,in_punjabsind_bank
+7fd5293b-d0d0-4bf3-b9c0-ab16a53e5b0c,bank_redirect,IN,Punjab National Bank Corporate,in_pnbcorp_bank
+a80b64e9-e4b3-47ab-bc69-e2860dfdafb3,bank_redirect,IN,Punjab National Bank,in_pnbretail_bank
+6c978364-33d5-4cf0-a3bb-8c6177fc9ae3,bank_redirect,IN,State Bank of India,in_sbinb_bank
+e1a69528-db8b-4ef1-a457-d52d559ef559,bank_redirect,IN,State Bank of India Corporate,in_sbicorp_bank
+3daea653-b051-4fb1-80f4-ccdbedb4a2c2,bank_redirect,IN,Shamrao Vithal Co-operative Bank,in_shamraovithal_bank
+acea184b-b2db-49af-b8f5-a8a724f0a6bf,bank_redirect,IN,Tamilnad Mercantile Bank,in_tamilnad_mercantile_bank
+854ac92c-28fb-490c-a044-42ef3003cab1,bank_redirect,IN,Karur Vysya Bank,in_karur_vysya_bank
+4dfd0cd5-93b5-4d22-922a-0548721a8e80,bank_redirect,IN,Union Bank of India - Corporate,in_unionbnkcorp_bank
+8ca93d43-fb48-484d-958f-3a5984266f70,bank_redirect,IN,Union Bank of India,in_unionbankindia_bank
+9e5eb29b-858a-4345-b711-d9b3926f7a07,bank_redirect,IN,United Bank of India,in_unitedbankindia_bank
+9c9a1951-e961-4c98-bd9c-44326f9d5615,bank_redirect,IN,Yes Bank,in_yesbank_bank
+1464c9a0-5617-4956-9e54-840ff9096a2d,bank_redirect,IN,Standard Charted Bank,in_standardcharted_bank
+aabe161e-9e73-11e8-85bb-126629637faa,cash,CO,Cash Payments Banco AV Villas Cash Colombia,co_bancoavvilas_cash
+6f29ee84-8dd7-424f-8968-370dc86840d4,bank_redirect,MT,Malta Trustly Bank Payment,mt_trustly_bank
+e722dfc4-948e-4382-9de1-3b53d83b0620,cash,CL,Multicaja (Klap),cl_instore_cash
+c8534960-2a80-436e-8289-673afb681e87,cash,PE,Caja Arequipa Peru /Cash Payments,pe_caja-arequipa_cash
+0cb4af60-55c8-4bf8-a7f2-148f53c7dab4,bank_transfer,AT,Nordea Denmark,at_sofortuberweisung_bank
+8774ceae-1aff-48ad-8396-82cd6d158d9d,bank_transfer,DE,Tutte le Banche di Credito Cooperativo,de_sofortuberweisung_bank
+0287ee55-957d-40fe-9d14-2ac37e65f2a5,bank_transfer,AU,National Irish Bank,au_bankofqueensland_bank
+f394a20e-a5b8-47a6-b6a2-d5055f0d8268,bank_transfer,BE,Sampo Bank,be_ing_bank
+50886b3e-8ae5-41b7-a5ed-928b7bcbf88f,bank_transfer,BE,Fokus Bank,be_sofortuberweisung_bank
+d430fc99-e37a-4cb7-aefb-79db21259b42,bank_transfer,BE,Banca Popolare di Sondrio,be_kbc_bank
+592d79ce-ee99-4a15-b978-169808c93f8b,bank_transfer,AU,Nordea Latvia,au_nationalaustraliabank_bank
+ee048ed5-9767-44f1-9182-1482da669a2d,bank_transfer,BG,TrustPay SK,bg_unicredit_bank
+e043dc69-597c-4ae7-9355-787a051e5097,bank_transfer,AU,Nordea Lithuania,au_raiffeisen_bank
+9292e7d3-897e-4a11-82fc-b505945a9b25,bank_transfer,CZ,Multibank,cz_ceskasporitenlna_bank
+1e525164-8077-4c35-a62b-ade5809b195f,bank_transfer,AU,CommonwealthBank,au_anzbank_bank
+56b879bb-8ffc-416c-90c8-a9c4e802099f,bank_transfer,AU,Nordea Estonia,au_commonwealthbank_bank
+c0c57341-3e3b-46f7-a67b-698a571538bc,bank_transfer,AU,Nordea Sweden,au_amp_bank
+b7a955cb-1bfd-4cbf-a144-237833eb9af8,bank_transfer,DE,Tatra banka,de_postbank_bank
+3bf957f2-eb04-43fa-810d-f940930cf1f1,bank_transfer,BA,Pohjola,ba_trustpay_bank
+31a2baeb-9021-43e7-a9f4-3e63d390f947,bank_transfer,FI,TrustPay RS,fi_sampo_bank
+66d69850-5e1e-4428-aeca-b318c12349b5,bank_transfer,DK,Banco Popolare di Novara,dk_seb_bank
+48a954c9-add0-4f22-b295-74a70b3a227e,bank_transfer,FI,TrustPay BA,fi_aktia5_bank
+aac315f1-0289-4adf-9f67-160b203c110d,bank_transfer,FI,TrustPay BG,fi_aktia3_bank
+fdac016d-db4f-494f-bbd7-d5e3de1a786f,bank_transfer,EE,TrustPay EE,ee_trustpay_bank
+19f60658-d002-4643-8b03-24234d347d2b,bank_transfer,FI,TrustPay RO,fi_aktia4_bank
+76e1d96d-eac7-4c38-8366-3f23117b6377,bank_transfer,DK,TrustPay HU,dk_nordea_bank
+80d319d8-22c4-4239-b317-ec3529b6dc84,bank_transfer,FI,TrustPay LT,fi_aktia_bank
+e9d30111-68d4-4db0-9f4c-e642f7f94c46,bank_transfer,EE,TrustPay PL,ee_banca_popolare_bank
+924438a2-c534-4aa7-9a16-f28863bea39b,bank_transfer,FR,Banca Popolare di Lodi,fr_abn_bank
+7e6e7c60-7170-4ab1-b67f-476058da3c21,bank_transfer,FI,TrustPay HR,fi_aktia2_bank
+ae5090ad-19cd-41f1-ab82-2b19fe98df17,bank_transfer,FI,TrustPay SL,fi_pohjola_bank
+1356c9a7-7c8e-44a4-a560-692051889233,bank_transfer,FI,Credito Bergamasco,fi_seb_bank
+d36eb013-539e-47bf-af4a-4c9f83638715,bank_transfer,IT,BANIF,it_tuttelebanchedicredito_bank
+efc1cc33-a354-498f-b879-3ca7f041ec9b,bank_transfer,LT,Raiffeisen Bank,lt_huf_nordea_bank
+e3610cfa-c311-4672-b950-71459a3a7f9d,bank_transfer,IT,IT alBaraka,it_try_bancopopolare_bank
+aaeb3b0a-1d23-456a-a1c7-cc12211407ef,bank_transfer,HU,AMP,hu_raiffeisen_bank
+af6103a0-90e9-4bef-acfb-a6c21dcc56a7,bank_transfer,IS,T-BANK,is_arion_bank
+290a8eae-61a3-44f3-ad05-6664bd6b3e73,bank_transfer,IS,Halk Bank,is_islandsbanki_bank
+2af91631-777e-4303-8247-729a93770e08,bank_transfer,IE,Sekerbank,ie_nationalirish_bank
+f7c4bfa5-972f-4c51-89c5-723ee29f5604,bank_transfer,HR,Ziraat Bankasi,hr_trustpay_bank
+7f0c8e05-f707-4541-98e1-2ed86b7fb0e5,bank_transfer,HU,SEB Denmark,hu_trustpay_bank
+3ae529ec-a375-4809-8115-eb7c0664b24b,bank_transfer,LT,ING - Belgium,lt_trustpay_bank
+543fdd52-d30a-42c9-bda7-6373a317e190,bank_transfer,IT,Banque Internationale à Luxembourg,it_eur_bancopopolare_bank
+5f9ce59a-009d-431c-8525-237b1a9af58e,bank_transfer,HR,KASIKORNBANK,hr_privredna_bank
+dee3669d-d39a-4a2e-b5b3-1d793f4ed550,bank_transfer,HU,SEB Finland,hu_unicredit_bank
+fd476975-16f9-48d2-82ea-d9e72bdbc566,bank_transfer,GE,HSBC Turkey,ge_bankofgeorgia_bank
+1684caa8-7df2-43e7-bac0-fd5b481b8fbb,bank_transfer,LT,Unicredit Romania,lt_ron_nordea_bank
+7be82e3d-54c3-49c1-9262-bc15494d3131,bank_transfer,IT,UniCredit Bulbank,it_creditobergamasco_bank
+53fed1fb-acc0-4ab6-9be1-c416f0633369,bank_transfer,PL,al khaliji,pl_pekao_bank
+a829b5c1-3608-4e61-8c50-75de405dad40,bank_transfer,LV,Nordea Norway,lv_trustpay_bank
+6c9a10a3-7ce4-4496-b4ee-b1b84453b7dc,bank_transfer,PL,Maybank,pl_trustpay_bank
+94dd489b-d6c5-4e77-9af5-45cdaf7a6c03,bank_transfer,NO,Sofortüberweisung,no_seb_bank
+511b1f88-8c24-46bd-a5e3-b2d92203497f,bank_transfer,PL,KBC Bank,pl_nordea_bank
+17c92ae4-69f0-41bf-8c9d-5bdd9eb51d79,bank_transfer,PA,Arion,pa_multibank_bank
+cddd7d03-b9e7-49c0-a8e4-b336613369f7,bank_transfer,NO,Postbank,no_seb_dnb
+5680f0a0-fd10-4342-98b4-90e885eccbbc,bank_transfer,NP,mBank (BRE Bank),np_prabhu_bank
+7d5c2193-7315-4e94-9a8a-7c99532f33df,bank_transfer,NE,SEB Norway,ne_abn_bank
+105dcff3-6948-4434-9801-cd9f24ed6b02,bank_transfer,PL,VakifBank,pl_try_mbank_bank
+93e184e0-8f5d-4abe-bbcc-02ca96a95324,bank_transfer,LV,SEB Sweden,lv_nordea_bank
+ff89c941-6526-4687-a29a-71000729e247,bank_transfer,LU,Handelsbanken,lu_banque_bank
+07e02ea6-73d4-4f9c-bb97-2be41595bd17,bank_transfer,PL,Bank of Georgia,pl_gel_mbank_bank
+668873f7-3f05-48e6-833f-8642c4dbe595,bank_transfer,NO,Sofortüberweisung,no_nordea_bank
+42ed41c4-4299-4963-85ba-7be300126b91,bank_transfer,NO,Sofortüberweisung,no_fokus_bank
+defb6217-8a9c-47bc-ab47-3f17434e1282,bank_transfer,RO,RO Aktia Bank,ro_unicredit_bank
+1b583669-9a90-45b8-b00a-c66d22c2f77b,bank_transfer,RU,RU Aktia Bank,ru_alfa_bank
+8b12b002-0ce9-4798-b497-9ba080315dd2,bank_transfer,QA,QA Aktia Bank,qa_alkhaliji_bank
+729362b4-5523-42fb-ba31-bc4ba70ae0af,bank_transfer,SE,SE alBaraka,se_handelsbanken_bank
+23fbf139-f6fd-42f8-ab3c-598a80265185,bank_transfer,SE,Islandsbanki,se_seb_bank
+f2a9b541-948d-4845-9022-2717d9567a35,bank_transfer,TR,Privredna Banka Zagreb - PBZ,tr_albaraka2_bank
+fb1e65ff-85af-4b52-a05c-45c74a4eaf56,bank_transfer,SK,Pekao Bank,sk_slovakia_bank
+c9e87453-024f-40eb-be02-d99fa85fe348,bank_transfer,RS,RS Aktia Bank,rs_trustpay_bank
+d14eb7ba-2bc9-42b0-94ee-0a42c11fce81,bank_transfer,TR,Unicredit Hungary,tr_halkbank_bank
+ebd7eb01-bf53-41d7-9ddc-c35a63f86281,bank_transfer,SE,mBank EUR,se_nordea_bank
+22050205-6faf-4c8c-bc48-1c25593228db,bank_transfer,PT,Alfa Bank,pt_banif_bank
+45638352-0100-49ba-b3a0-91266452edc5,bank_transfer,RO,RO Aktia Bank,ro_trustpay_bank
+2541c962-2f09-45ee-82e3-6eed456ce8e7,bank_transfer,TL,Santander,tl_kasikornbank_bank
+515be43d-e22e-4560-9b04-4e1eeb220334,bank_transfer,SK,Ceska sporitelna,sk_czk_trustpay_bank
+20ac4171-95bc-4c97-ab42-d65acf45107e,bank_transfer,SK,"Neuflize OBC, ABN AMRO",sk_eur_trustpay_bank
+75e11ca3-4d6c-4062-b014-1df747e56886,bank_transfer,TR,ICICI Bank (Reconcilliation),tr_albaraka_bank
+0edd8ff4-d1ab-45e5-8962-406bb614800c,bank_transfer,TR,Raiffeisen bank,tr_sekerbank_bank
+654a0414-b52b-4e51-acff-e1484bf5623c,bank_transfer,TR,National Australia Bank,tr_ziraat_bank
+aca82e7d-cab4-4b96-9b1b-d46412abf8c5,bank_transfer,TR,Bank of Queensland Ltd,tr_hsbc_bank
+08b8749f-daab-4576-8f55-6a3441586be3,bank_transfer,TR,ANZ Bank Australia,tr_tbank_bank
+0e0f04a4-9920-47b8-a779-8022f1426007,bank_transfer,TR,Prabhu Bank Nepal,tr_vakifbank_bank
+aabf0988-9e73-11e8-85bb-126629637faa,cash,CO,Cash Payments PinValidda Bank Colombia,co_pinvalidda_cash
+aabd302e-9e73-11e8-85bb-126629637faa,cash,CO,MovilRed Colombia,co_movilred_cash
+477dd42e-7bbd-4e43-b175-530f32384b19,bank_redirect,HU,Hungary Trustly Bank Payment,hu_trustly_bank
+192ae7da-d749-4651-9f51-6609aecf17f6,bank_redirect,BG,Bulgaria Trustly Bank Payment,bg_trustly_bank
+b05d86ba-978e-4483-91dc-5deb1a0eefe5,bank_redirect,PT,Portugal Trustly Bank Payment,pt_trustly_bank
+b5cc8463-6e89-4d64-9bc5-8fd66aaaca61,bank_redirect,IT,Italy Trustly Bank Payment,it_trustly_bank
+4e81c213-414d-4c8e-aace-e07014f17502,bank_redirect,IE,Ireland Trustly Bank Payment,ie_trustly_bank
+356b8863-a68e-427f-8e4c-10d29314e172,bank_redirect,SI,Slovenia Trustly Bank Payment,si_trustly_bank
+b3b03590-86af-4d48-8b82-30767c444e36,bank_redirect,RO,Romania Trustly Bank Payment,ro_trustly_bank
+ee417ea6-d8cc-4534-9faa-28ad81fbdd87,card,GB,EU and UK DinersCard,eu_diners_card
+ee1bbe98-c51b-4de3-861a-478946ddf023,card,BL,Belgium Bancontact Card,bl_bancontact_card
+365956cd-695f-4a2c-ba4b-c9cabefd3898,card,GB,EU and UK Int Maestro Card,eu_intlmaestro_card
+6e68bb39-2f42-4f2d-b7c9-1954facd6b59,card,AR,Argentina Cabal Card,ar_cabal_card
+052fc289-b131-4e72-a6e4-2a227631ac3a,card,GB,EU and UK AMEX Card,eu_amex_card
+3a9984e0-b6df-4138-8f38-bc1246778688,card,GB,UK Visa Card,uk_visa_card
+51d11825-6f14-46b4-b01e-1fd89278c30e,card,GB,UK Master Card,uk_mastercard_card
+02401299-6386-41f9-8508-3d6e401619ad,card,GB,EU and UK JCB Card,eu_jcb_card
+625e52bc-eaea-49d6-a015-9d5b531b5766,card,GB,EU and UK Discover Card,eu_discover_card
+3761de4e-4d14-44ab-8471-1a5676c0a8f4,card,CL,Chile Webpay Card,cl_webpay_card
+21519a9e-74eb-4924-8f6e-2d44899b5218,card,AU,Australia Visa Card,au_visa_card
+bf9d1479-f881-4e53-945e-257927ed126b,card,AU,Australia Master Card,au_mastercard_card
+b5fbb880-f70c-43bd-8518-696c8b80d4f9,card,US,Mastercard,us_mastercard_card
+bae2588f-ec16-47db-a46d-84b7e2119dbb,card,US,Visa,us_visa_card
+9b6d38aa-bdd4-4427-b4c6-fe65a40ae86c,card,US,Discover,us_discover_card
+15fd060d-bcb3-4e9b-9acb-474fb5317091,bank_redirect,MY,Hong Leong Bank,my_hong-leong_bank
+ec50bfb8-b679-4e3b-ac7b-08b31bf24958,bank_redirect,MY,Kuwait Finance House 2,my_kuwait-finance-house_bank
+8758d723-1c2e-4b80-827b-516620b6a6e4,bank_redirect,MY,UOB Bank,my_united-overseas-bank_bank
+2f6a2049-b274-4df4-b943-a5918a4ef74b,cash,BR,Caixa Econômica Federal,br_caixa_economica_federal_cash
+25b11654-f6b0-4819-b294-db23dd499aee,cash,BR,Caixa Econômica Federal,br_caixaeconomicafederal_cash
+f8183a3c-3d44-402b-be48-ed09a2339cf1,ewallet,SG,GrabPay Recurring,sg_grabpayrecurring_ewallet
+154b7a93-e931-4b00-9e41-7145afa91caa,bank_redirect,MY,Bank Simpanan Nasional,my_simpanan-nasiona_bank
+87d59ed5-ea9b-4c27-bfb3-b38f67520c32,ewallet,MY,GrabPay Recurring,my_grabpayrecurring_ewallet
+c18ef656-9e73-11e8-85bb-126629637faa,cash,PH,Direct Agent 5,ph_da5_cash
+c18c168b-9e73-11e8-85bb-126629637faa,cash,PH,ECPay Location,ph_ecp_cash
+c1983f26-9e73-11e8-85bb-126629637faa,cash,PH,SM Location,ph_smp_cash
+73a31c4c-7c76-4e7f-8088-93bd2be34736,ewallet,GH,Vodafone Ghana mobile money,gh_vodafone_mobile_ewallet
+8a823e7b-7772-42d9-b4d7-426f9ae76eed,ewallet,GH,Tigo Ghana mobile money,gh_tigo_mobile_ewallet
+85c47109-f346-41cb-88ed-806c32234c99,ewallet,GH,MTN Ghana mobile money,gh_mtn_mobile_ewallet
+ad59369b-cb11-42f3-9b5b-32bfda84cff1,ewallet,NG,Access Bank QR Code,ng_access_qr_bank
+6dbf428c-eda8-436b-80df-0985ad45d73e,bank_transfer,NG,Nigeria Zenith Bank USSD payment,ng_zenith_ussd_bank
+4666f19b-febd-4b7a-abe8-c6dd4fe6ea68,ewallet,NG,Nigeria Diamond bank QR,ng_diamond_qr_bank
+e70a526b-bb6e-4329-8465-346e1b69cde7,bank_transfer,NG,Nigeria GTB Bank USSD payment,ng_gtb_ussd_bank
+f2666805-9531-4c54-a4c2-b5df8da3e22e,ewallet,NG,First BankeWallet QR Code,ng_first_qr_bank
+29708b0a-7ee9-479b-8907-c61a1476e507,ewallet,NG,Skye Bank QR Code,ng_skye_qr_bank
+33b828dd-6671-466c-9939-deb037deb1aa,ewallet,NG,Nigeria ecobank QR ,ng_ecobank_qr_bank
+547a198d-f892-4129-a0dc-9c54baa98f70,ewallet,NG,Zenith Bank QR Code        ,ng_zenith_qr_bank
+d1ec3d8b-10b2-4c5c-aef7-17efca8f657e,ewallet,RU,Qiwi mobile,ru_qiwi_mobile
+3af33700-0040-4a12-8bf2-c4d2171af602,ewallet,KR,EggMoney Voucher,kr_eggmoney_ewallet
+53b52113-c43e-431a-96f5-324734b4002c,ewallet,KR,Book Voucher,kr_book_ewallet
+80e90307-43a6-4bae-acb2-035a8f0b1d6d,ewallet,KR,HappyMoney Voucher,kr_happymoney_ewallet
+cd5bff5e-b85f-48f5-8d39-fdb97f2c9ce4,ewallet,KR,TeenCash Voucher,kr_teencash_ewallet
+e08c138b-6d9c-4bfd-98af-5cb26284bbc3,ewallet,KR,OnCash Voucher,kr_oncash_ewallet
+62ddd18b-4ea8-426e-add1-a8a15af02030,ewallet,KR,Game Culture Voucher,kr_game_ewallet
+de6f2071-76aa-4ece-8ba0-b55cea7293a8,bank_redirect,KR,Direct Debit from Bank Account,kr_bank_bank
+8d419f55-717d-4ed8-b103-4b9bdacf304e,ewallet,KR,Carrier Billing (Digital),kr_carrierbilling_ewallet
+7557097e-b8cf-4146-b445-b0dc597ba61d,ewallet,KR,Culture Voucher,kr_culture_ewallet
+ffa9e918-8758-4ec9-ae35-0bb1ae435024,cash,PH,Direct Agent 5,ph_paynamicsda5_cash
+e16f5093-cef6-44c5-b94c-528d1523fb60,cash,PH,ECPay Location,ph_paynamicsecp_cash
+2a9cd2e2-56f4-4cb9-8b0f-d811d7987095,cash,PH,SM Location,ph_paynamicssmp_cash
+f1a2cef3-3977-4111-955c-9b8e2acd47a7,cash,RU,Qiwi cash,ru_qiwi_cash
+a9ddfab0-1c7e-4033-96b3-3783da561963,bank_redirect,RU,Qiwi site,ru_qiwi_site
+d7062021-b140-11ea-9218-02672765d2c9,ewallet,RU,Qiwi mobile,ru_qiwimobile_ewallet
+cce67edf-b140-11ea-9218-02672765d2c9,bank_redirect,RU,Qiwi site,ru_qiwisite_bank
+25efdc39-85ee-4cd1-a266-d75e93d92a28,bank_transfer,KE,Diamond Trust Bank,ke_diamondtrust_bank
+f0201a3c-cc82-4e65-b5de-41806f7b79e7,ewallet,KE,Airtel Money,ke_airtel_ewallet
+07325c82-8347-426d-93bf-cb6b64a3dda6,card,KE,Kenya Card Payment redirect,ke_cardpayment_card
+02be4753-ff73-4541-816d-a2d09464384b,bank_transfer,KE,CFC Stanbic,ke_cfcstanbic_card
+c9196c91-ae35-4f7f-97ae-67ec3a24890b,bank_transfer,KE,Ecobank,ke_ecobank_bank
+fbbd172f-5e34-430b-8312-6c07cb5c2e94,bank_transfer,NG,Access Bank Plc,ng_access_bank
+ba2d628b-2a77-4a69-a421-1575c5e419bd,bank_transfer,KE,MPesa,ke_mpesa_bank
+6b70ed71-1161-4517-b398-597d707bac43,bank_transfer,NG,Ecobank Nigeria Plc,ng_ecobank_bank
+87f13ff5-2323-4c02-a43a-56e84082ee02,bank_transfer,NG,Diamond Bank Plc,ng_diamond_bank
+090ae9fc-6731-4854-91c5-9a2ebcaba08f,bank_transfer,NG,Fidelity Bank Plc,ng_fidelity_bank
+80dca29f-098e-4775-bbc4-8cc85e1d483f,bank_transfer,NG,First Bank Nigeria limited,ng_firstbank_bank
+31ab58a9-7700-4700-b0ea-473138e5f654,bank_transfer,NG,Globus Bank Limited,ng_globalbanklimited_bank
+6332545b-2e8b-488d-a973-ca800db3447a,bank_transfer,NG,First City Monument Bank Plc,ng_firstcitymonument_bank
+44327981-f994-42fa-8410-29b498471264,bank_transfer,NG,GTBank,ng_gtbank_bank
+e6cabaf3-0f3b-4282-aaac-2e5f83da648a,bank_transfer,NG,KeyStone Bank,ng_keystone_bank
+27c44fc0-30da-44fe-8502-40bf95596d53,bank_transfer,NG,Heritage Banking Company Ltd.,ng_heritagebanking_bank
+e3ec990c-0b4e-4d10-8a53-e5b16325e628,bank_transfer,NG,Skye Bank,ng_skye_bank
+60eb2eb5-6e3d-4bf5-9fe5-0401e286bea8,bank_transfer,NG,Sterling Bank Plc,ng_serling_bank
+dc3eea10-a323-46ae-911f-68106bbb8e4d,bank_transfer,NG,Providus Bank,ng_providus_bank
+3efe0067-409d-465e-8d4b-0f662d73f067,bank_transfer,NG,Standard Chartered Bank Nigeria Ltd.,ng_standardchartered_bank
+a684a8c9-06f7-4f49-ac8a-51336b00e007,bank_transfer,NG,Stanbic IBTC Bank Ltd.,ng_stanbicibtc_bank
+9a99264a-fcbb-4f2b-a0e2-253f998ad3a0,bank_transfer,NG,SunTrust Bank Nigeria Limited,ng_suntrust_bank
+e7f2e716-e488-4532-9322-ddf88e9e0155,bank_transfer,NG,tingg,ng_tingg_ewallet
+889ae4f7-01ef-4a37-b3be-1659f634038f,bank_transfer,NG,UBA Bank Plc,ng_uba_bank
+04ee0b13-6595-4987-a0eb-59d1616569a8,bank_transfer,NG,Unity Bank,ng_unitybankplc_bank
+a3595097-02e9-4f56-b76c-95cbdef3b9e7,bank_transfer,NG,Titan Trust Bank Ltd,ng_titan_bank
+bb234ac4-1706-4c00-bc26-4b65e3108793,bank_transfer,NG,Zenith Bank Plc,ng_zenith_bank
+7781c747-cf17-4cff-b4c5-994e1730c03b,bank_transfer,NG,Wema Bank Plc,ng_wema_bank
+2fbea19d-ccad-4965-a90a-1e917056fd46,cash,AR,PagoFacil Cash Payments Argentina,ar_pagofacil_cash
+e011f1f5-8ae6-4841-9b8d-93c0a0b1284c,cash,BR,Banco do Brasil Cash Payment,br_banco_do_brasil_cash
+997c9b08-99ad-4926-b832-7c580f6d220e,cash,BR,Santander Cash Payment,br_santander_cash
+ee66478e-b0a8-4f61-9546-7482c0e54462,cash,BR,Banrisul Cash Payment,br_banrisul_cash
+eda268f5-5de8-4931-a319-6092a20c3022,cash,AR,RapiPago Cash Payments Argentina,ar_rapipago_cash
+777eaeb6-f765-49c2-84d6-1cd52f3f8479,cash,AR,Cobro Express Cash Payments Argentina,ar_cobro_express_cash
+6c80f080-0d49-4349-87ed-12db8bafa2e0,cash,AR,Bapro Pagos Cash Payments Argentina,ar_bapro_pagos_cash
+e5c60fef-bc76-44d9-99df-189a83d3534a,cash,BR,Itau Cash Payment,br_itau_cash
+e6c24944-3903-44fb-b521-9df5a90aa79e,card,MX,Visa Debit,mx_visa_card
+9e93ceb9-bcd7-4ca6-95aa-06bf4b0e4141,card,MX,Mastercard,mx_mastercard_card
+14a67ac4-bccc-4af9-8cc2-5dc980867fd8,card,MX,Mastercard,mx_mastercardcredit_card
+a9855863-a6e0-4812-af4f-a235d20f5bb7,card,MX,Visa,mx_visacredit_card
+24f87270-c960-4c22-a666-2f39302dcbb0,card,CO,Visa,co_debit_visa_card
+745899b2-7447-4d75-8f8d-8d4f2dfce06c,card,CO,Mastercard Debit,co_credit_mastercard_card
+3a01ad18-e574-49f3-8177-2da77a74a0b7,card,CO,Visa Debit,co_credit_visa_card
+f20e8bf0-ae3a-4193-92af-284e25a3d70d,card,CO,Mastercard,co_debit_mastercard_card
+f03d7e8b-a6a9-414f-a7f0-3eb1612435b9,bank_redirect,TW,E.SUN (Taiwan ATM & Internet banking),tw_webatm_bank
+aaffb473-7251-487e-9f87-ff5b708dd191,bank_redirect,MY,Bank Islam,my_bankislam_bank
+9145f3b1-fc37-4d36-965b-8d6798d73345,bank_redirect,MY,Bank Muamalat,my_bankmuamalat_bank
+836b0453-29b0-41a3-951e-fce9c81be654,bank_redirect,MY,CIMB Clicks,my_cimbclicks_bank
+b0f87ba9-d897-4c35-bb74-1301a527285c,bank_redirect,MY,Affin Bank Redirect,my_affinbank_redirect_bank
+68f35e74-3f71-426d-86ea-304a16ab8d44,bank_redirect,MY,Bank Islam,my_bankislam_redirect_bank
+562084f1-5e50-49cc-aefe-e269b9d44980,bank_redirect,MY,UnionPay,my_unionpay_card
+1316aab1-addb-4eea-b4cb-5200856838be,bank_redirect,MY,Hong Leong Bank,my_hong_leong_bank
+575e60df-4fbd-499e-9ab1-ebc0c28d5076,bank_redirect,MY,AgroBank,my_agrobank_bank
+1eb70da7-8124-44a0-bdf5-6ec26b8d7c10,card,SK,Valitor Visa Test,sk_visavalitor_card
+8ca069e7-f480-40a8-9ecc-8a6cfafdac35,card,DE,Visa Valitor Test,de_visavalitor_card
+52af50d4-9c30-42c9-8e7e-dda39e3e8def,cash,CL,Multicaja (Klap),cl_multicaja_cash
+53ec975e-b954-4ec9-bf5f-ba777777fa84,cash,PH,OTC Cash Collections (In Store),ph_nonbankotc_cash
+5681447c-75b6-4dca-8770-7a64b513b7ff,cash,PH,OTC Cash Collections (ATM),ph_bankatmotc_cash
+7e3d1411-cf57-4908-8096-0b7af46ac70a,bank_transfer,TH,Visa QR Scan to Pay,th_thaipromptpayqrcredit_bank
+d78ca359-4ece-4ceb-8d7f-72a42d25c182,bank_transfer,TH,PromptPay,th_thaipromptpayqr_bank
+c1953358-9e73-11e8-85bb-126629637faa,cash,PH,Cash Payments MLuhillier Philippines,ph_mlh_cash
+c930592b-7b92-4914-90b2-ff4529aebb5b,cash,MX,Walmart Cash Mexico,mx_walmart_cash
+f24c304d-5767-498b-badc-1d734c9c5d73,bank_redirect,PH,Credit or Debit Card,ph_cc_card
+a09cac8f-35c6-4b28-9e35-773a2ec3db1c,bank_redirect,PH,UnionPay,ph_unionpay_card
+c00ba09b-6b77-4759-88a3-5036b08fb9a0,bank_redirect,PH,Dragonpay Prepaid Card,ph_dpcard_card
+179ae1d4-fa49-40cc-a8ec-a03755c15d53,ewallet,PH,GCash,ph_gcash_ewallet
+7867099d-51ea-4fb0-942e-ff5c8c03b3e1,bank_redirect,PH,Online Banking,ph_bancnet_bank
+40a0fb1e-744b-4036-955a-23c64eef2f57,cash_redirect,PH,Bayad Center Payments Philippines,ph_baycd_cash
+162457a1-4e5e-4895-8636-aa965bb18ed6,cash_redirect,PH,Cebuana Lhuillier Payments Philippines,ph_cebl_cash
+59b047a6-b240-49ec-a367-0bfe954d3509,cash,PH,ECPay Location,ph_ecpay_cash
+479935e4-e5d5-4dd4-89b7-36b4af6ff4f3,cash_redirect,PH,LBC Payments Philippines,ph_lbc_cash
+4e200c87-6032-43d8-93c3-92ef8327298f,cash_redirect,PH,Robinsons Dept Store Payments Philippines,ph_rds_cash
+387cd6ac-5f6e-47b7-a954-10378fdf2e9a,cash_redirect,PH,SM Payment Counters Payments Philippines,ph_smr_cash
+8c2a6375-ef6f-42a0-9a04-b820ebb95061,cash,MX,Multiple Mom and Pop stores in Mexico,mx_multiplestores_cash
+41641452-68d6-4fa9-b7a0-49f50c875ec5,ewallet,PH,eWallet payments Philippines,ph_general_ewallet
+5d860972-ab5c-49c9-b934-14c273bc60fe,cash,PH,7-Eleven,ph_paynamics711_cash
+96dbad6f-c6b8-421a-9ad1-bf4dcbb8e7e7,bank_redirect,PH,Bank Redirect Payments Philippines,ph_general_bank
+5a511511-7d04-434a-89d1-581b2c7ddad1,cash,PH,Cash payments Philippines,ph_general_cash
+332a11a0-bf7c-4f37-ab0f-0055b8a22683,cash,BR,Bradesco Cash Payment,br_bradesco_cash
+32fc7c6f-952e-4251-a814-cea81e895e47,cash,BR,Caixa Cash Payment,br_caixa_cash
+20f7d582-4657-459c-a072-94772603fd61,bank_transfer,KR,Bank Direct Debit,kr_localredirect_bank
+b8da228d-6b92-4064-9fab-39874ba37e39,ewallet,KR,PAYCO,kr_payco_ewallet
+2e2be623-8ce1-4404-89b5-8b6af9e33534,bank_transfer,KR,Virtual Account Transfer,kr_virtualaccount_bank
+fb6fa4dc-1e68-490b-abed-6876adbb8356,ewallet,KR,KakaoPay,kr_kakao_ewallet
+cd03ad76-a1f8-4788-8551-55357992e987,ewallet,KR,Samsung Pay,kr_samsungpay_ewallet
+f3188424-fc26-4ae1-8899-97a058393187,ewallet,KR,Korea Mobile Carrier Billing (eWallet),kr_carrierbilling_redirect_ewallet
+a4a58dd9-13bb-43f4-8b68-c99898f13e8c,cash,PH,Bayad Center,ph_bayadcenterotc_cash
+217f779c-d933-4380-809a-fbe3bd092e4a,cash,PH,Cebuana Lhuillier,ph_cebuanalhuillierotc_cash
+ccfdebe0-f0d6-4f5e-8277-d7e38532583c,cash,PH,ECPay,ph_ecpayotc_cash
+2d9fb412-6cb8-4e82-b77a-431944e7ac74,cash,PH,Palawan Pawnshop,ph_palawanpawnshopotc_cash
+20347060-c3f9-4c8a-9fc2-8badf5ee16fc,cash,PH,RD Pawnshop,ph_rdpawnshopotc_cash
+46d85b17-362e-4814-aaf6-9c811d4937b2,cash,PH,Robinsons Dept Store,ph_robinsonsdeptstoreotc_cash
+f85a39f8-9361-4401-b133-2662761a897f,cash,PH,Save More (Dept or Supermarket or Counter),ph_smdeptsupermarketsavemorecounterotc_cash
+5f660edd-526e-4a46-b493-7413d61a2a47,cash,PH,AUB,ph_aubotc_cash
+2d89a1a5-5c27-47cc-89f2-a4795323b22b,cash,PH,BDO Cash Deposit,ph_bdocashdeposit_cash
+e1de7071-9959-4f49-a3a0-43b951a2bee3,cash,PH,BDO Network Bank ,ph_bdonetworkbank_cash
+bc584ad8-b9a3-40a3-96a9-4468dc388b24,cash,PH,Chinabank Cash Payment,ph_chinabankotc_cash
+78e197c4-355c-403c-80ce-1992075352c0,cash,PH,BPI Cash Payment,ph_bpicashotc_cash
+f01400d8-a5e9-488e-9e5e-3bad551f1025,cash,PH,EastWest,ph_eastwestotc_cash
+7bc1f43b-a43b-455b-9891-c654b3b989b5,cash,PH,i2i Rural Banks,ph_i2iotc_cash
+58ba440c-27c0-49cc-b019-4dd861a00b0c,cash,PH,Landbank Cash Payment,ph_landbankotc_cash
+321a7054-26e7-449a-b24d-79629f3f4d39,cash,PH,Metrobank Cash Payment,ph_metrobankotc_cash
+39c3cb84-cd71-4ff4-8bd7-be0850494332,cash,PH,PNB Cash Payment,ph_pnbcash_cash
+bc348855-5a85-49b3-8b64-272f07c289f6,cash,PH,PNB Bills Payment,ph_bnpotc_cash
+fb028795-2a0e-4217-a4f2-fb01a696b81a,cash,PH,RCBC Cash Payment,ph_rcbccashpayment_cash
+8ac2d553-77af-47c0-b87b-a5b47873275a,cash,PH,RobinsonsBank Cash Payment,ph_robinsonsbank_cash
+9a0615ad-2b73-4b54-b7db-dbaeaf4bbf81,cash,PH,Security Bank Cash Payment,ph_securitybank_cash
+a52d4c73-0f2f-44f8-9909-363726cbe248,cash,PH,Unionbank Cash Payment,ph_unionbank_cash
+e38233bd-acce-4ca4-82c1-ac1d23d11a67,cash,PH,Cash payments Philippines through Bank ATM and Non-Bank  for Financial Services Merchants,ph_general_fsm_cash
+c7738013-efd0-4db0-9ad1-c4332e297a0c,ewallet,PH,GrabPay,ph_grabpay_ewallet
+a54efb37-e0b5-4685-b4a5-b77088b58438,ewallet,PH,Coins eWallet,ph_coins_ewallet
+c0d5e696-f7ac-4d76-9691-f462ffc1111c,cash,PH,Rural Net Bank and Coops,ph_ruralnetbankandcoopsotc_cash
+240f8d33-5b22-428d-8f8d-80245ae71193,cash,PH,UCPB ATM or Cash Payment,ph_ucpbatm_cash
+0b96702b-a910-443c-9689-814e13f6c49a,ewallet,PH,eWallet payments Philippines for Financial Services Merchants,ph_general_fsm_ewallet
+102ab197-9099-42eb-a2de-ff24378633bf,ewallet,PH,GCash,ph_gcash_fsm_ewallet
+a4c4d447-f20e-4e88-a844-9c8d7329281e,ewallet,PH,Globe GrabPay Payments Philippines for Financial Services Merchants,ph_grabpay_fsm_ewallet
+ab7be35c-22ff-4c8b-a892-586881587c51,ewallet,PH,Coins ph Wallet for Financial Services Merchants,ph_coins_fsm_ewallet
+a96fe87d-e531-41e0-bcbe-ebdf4130767f,bank_redirect,PH,Bancnet Online Payments for Financial Services Merchants,ph_bancnet_fsm_bank
+be2b88b6-7931-487c-847f-dfb8897e6ef0,cash,PH,Cash payments Philippines through non-bank OTCs for Financial Services Merchants,ph_nonbankotc_fsm_cash
+1ade1952-92ba-47d4-86a9-216ccc04867b,cash,PH,Cash payments Philippines through Bank ATM OTCs for Financial Services Merchants,ph_bankatmotc_fsm_cash
+4e36a042-fb80-464c-a5e8-9e5498f898d7,cash,PH,Cash Payments 7/11 Philippines for Financial Services Merchants,ph_711_fsm_cash
+dc7e5900-b71c-4645-9f08-75559e257051,bank_redirect,PH,Bank Redirect payments Philippines for Financial Services Merchants,ph_general_fsm_bank
+c1d3d71c-9e73-11e8-85bb-126629637faa,cash,KW,Cash Payments PaysafeCard Kuwait,kw_psc_cash
+c1a711ec-9e73-11e8-85bb-126629637faa,cash,BG,Cash Payments PaysafeCard Bulgaria,bg_psc_cash
+c21773dc-9e73-11e8-85bb-126629637faa,cash,US,Cash Payments PaysafeCard United States,us_psc_cash
+c1dd77dd-9e73-11e8-85bb-126629637faa,cash,LT,Cash Payments PaysafeCard Lithuania,lt_psc_cash
+c2114dba-9e73-11e8-85bb-126629637faa,cash,TR,Cash Payments PaysafeCard Turkey,tr_psc_cash
+c201bbbf-9e73-11e8-85bb-126629637faa,cash,SK,Cash Payments PaysafeCard Slovakia,sk_psc_cash
+c1d0f1ab-9e73-11e8-85bb-126629637faa,cash,IT,Cash Payments PaysafeCard Italy,it_psc_cash
+c207dba4-9e73-11e8-85bb-126629637faa,cash,ES,Cash Payments PaysafeCard Spain,es_psc_cash
+c1a1253a-9e73-11e8-85bb-126629637faa,cash,AU,Cash Payments PaysafeCard Australia,au_psc_cash
+c2145677-9e73-11e8-85bb-126629637faa,cash,GB,Cash Payments PaysafeCard United Kingdom,gb_psc_cash
+c1f893eb-9e73-11e8-85bb-126629637faa,cash,PT,Cash Payments PaysafeCard Portugal,pt_psc_cash
+c1b60ccb-9e73-11e8-85bb-126629637faa,cash,DK,Cash Payments PaysafeCard Denmark,dk_psc_cash
+c1e3a0bc-9e73-11e8-85bb-126629637faa,cash,MT,Cash Payments PaysafeCard Malta,mt_psc_cash
+c1f26c99-9e73-11e8-85bb-126629637faa,cash,PE,Cash Payments PaysafeCard Peru,pe_psc_cash
+c1acfdeb-9e73-11e8-85bb-126629637faa,cash,HR,Cash Payments PaysafeCard Croatia,hr_psc_cash
+c1da336d-9e73-11e8-85bb-126629637faa,cash,LI,Cash Payments PaysafeCard Liechtenstein,li_psc_cash
+c1c4ebb2-9e73-11e8-85bb-126629637faa,cash,GI,Cash Payments PaysafeCard Gibraltar,gi_psc_cash
+c1a42de0-9e73-11e8-85bb-126629637faa,cash,BE,Cash Payments PaysafeCard Belgium,be_psc_cash
+c1ec956a-9e73-11e8-85bb-126629637faa,cash,NZ,Cash Payments PaysafeCard New Zealand,nz_psc_cash
+c1d72f68-9e73-11e8-85bb-126629637faa,cash,LV,Cash Payments PaysafeCard Latvia,lv_psc_cash
+c20b0422-9e73-11e8-85bb-126629637faa,cash,SE,Cash Payments PaysafeCard Sweden,se_psc_cash
+c1fe9b83-9e73-11e8-85bb-126629637faa,cash,SA,Cash Payments PaysafeCard Saudi Arabia,sa_psc_cash
+c1b92092-9e73-11e8-85bb-126629637faa,cash,FI,Cash Payments PaysafeCard Finland,fi_psc_cash
+c1c7cc68-9e73-11e8-85bb-126629637faa,cash,GR,Cash Payments PaysafeCard Greece,gr_psc_cash
+c1caf0fd-9e73-11e8-85bb-126629637faa,cash,HU,Cash Payments PaysafeCard Hungary,hu_psc_cash
+c1f576b3-9e73-11e8-85bb-126629637faa,cash,PL,Cash Payments PaysafeCard Poland,pl_psc_cash
+c1bef416-9e73-11e8-85bb-126629637faa,cash,GE,Cash Payments PaysafeCard Georgia,ge_psc_cash
+c20e3ab8-9e73-11e8-85bb-126629637faa,cash,CH,Cash Payments PaysafeCard Switzerland,ch_psc_cash
+c19e3b14-9e73-11e8-85bb-126629637faa,cash,AT,Cash Payments PaysafeCard Austria,at_psc_cash
+c1ef8258-9e73-11e8-85bb-126629637faa,cash,NO,Cash Payments PaysafeCard Norway,no_psc_cash
+c1ce00fe-9e73-11e8-85bb-126629637faa,cash,IE,Cash Payments PaysafeCard Ireland,ie_psc_cash
+c1aa0b64-9e73-11e8-85bb-126629637faa,cash,CA,Cash Payments PaysafeCard Canada,ca_psc_cash
+c1fb9582-9e73-11e8-85bb-126629637faa,cash,RO,Cash Payments PaysafeCard Romania,ro_psc_cash
+c21ad9ef-9e73-11e8-85bb-126629637faa,cash,UY,Cash Payments PaysafeCard Uruguay,uy_psc_cash
+c1e09ec2-9e73-11e8-85bb-126629637faa,cash,LU,Cash Payments PaysafeCard Luxembourg,lu_psc_cash
+c1c1dc5b-9e73-11e8-85bb-126629637faa,cash,DE,Cash Payments PaysafeCard Germany,de_psc_cash
+c1bc113e-9e73-11e8-85bb-126629637faa,cash,FR,Cash Payments PaysafeCard France,fr_psc_cash
+b299c3e2-af91-11e8-a933-0ea3bb4200ce,bank_redirect,AU,online bank payment Commonwealth Bank Australia,au_commonwealth_bank
+736ffce5-639f-4564-a338-1d38ccdcfb87,cash,CZ,Cash Payments PaysafeCard Czech Republic,cz_psc_cash
+7263cbef-4d00-4c5a-8e00-5345852a2179,cash,CY,Cash Payments PaysafeCard Cyprus,cy_psc_cash
+f90390ae-e5a0-46f3-a41f-0b78066771f6,cash,MX,Cash Payments PaysafeCard Mexico,mx_psc_cash
+0fe4150c-a76e-43a8-ba48-08bf28c113d4,bank_redirect,AT,Sofort,at_sofort_bank
+03fa0f20-9480-49c3-8416-d5b3c55fe90c,bank_redirect,BE,Sofort,be_sofort_bank
+a7c2d507-adf2-4c88-90fb-d6d946acb94b,bank_redirect,IT,Sofort,it_sofort_bank
+f58bea86-fb49-4ef1-b77d-f12b21fdba9b,bank_redirect,ES,Sofort,es_sofort_bank
+ae3a6ba0-016c-432b-9f28-398e9b6effe0,bank_redirect,CZ,Sofort,cz_sofort_bank
+999dd2c2-3cb7-483c-87db-0d8497fe9e78,bank_redirect,DE,Sofort,de_sofort_bank
+3c41eef3-ecac-47e4-979d-8d110098caf0,bank_redirect,CH,Sofort,ch_sofort_bank
+aea3352f-2209-4d62-b1c3-03717fe3335e,bank_redirect,HU,Sofort,hu_sofort_bank
+feabcd9b-831f-4e93-bc8e-f22d0228cf4b,bank_redirect,PL,Sofort,pl_sofort_bank
+6287467a-91ea-47cd-9d54-5b0da6465a8c,bank_redirect,SK,Sofort,sk_sofort_bank
+a6640a9f-e826-4055-85d6-5b2cfc47adbf,bank_redirect,GB,Sofort,gb_sofort_bank
+e3f6f6ff-dcfe-416d-9fc6-06b56479c268,bank_redirect,NL,Sofort,nl_sofort_bank
+b6ff7488-3fa4-44b4-a886-1f2d017915f5,cash,MX,Mexico Cash Network,mx_zeropago_cash
+16aea06f-e90a-4ad2-b38a-a89700fdab84,cash,MX,Paycash,mx_paycash_cash
+e97dda0c-246c-487a-8dd5-77354f1ad42c,cash,MX,7-Eleven,mx_7eleven_cash
+a8a38d8e-bb20-444f-bbd9-8acd2b7ab030,cash,MX,CircleK,mx_circlek_cash
+43d6cc79-e040-446a-8287-e8eda5369000,cash,MX,AurreraExpress,mx_aurreraexpress_cash
+f0f61bbb-336c-4079-a52b-152ec54767e1,cash,MX,Extra,mx_extra_cash
+b15632e0-4e47-4658-a6a2-caf32ecf7abe,cash,MX,Calimax,mx_calimax_cash
+3c1cb250-c426-4815-b781-dc7aee10d0ef,cash,MX,ComercialMexicana,mx_comercialmexicana_cash
+67c3a657-692f-4bcb-9b02-9f10f3896a67,cash,DE,QR code test Germany,de_testqr_cash
+ee2bdd38-2e67-4f04-a819-835e43e7c82a,ewallet,ZA,Capitec ewallet,za_capitecpay_ewallet
+85004a81-3cec-4a23-b69a-664a87be6124,ewallet,ZA,Capitec verified ewallet,za_capitecpayverified_ewallet
+08115771-9fe4-44e0-bc27-b463beb22879,bank_transfer,SG,FAST,sg_fast_bank
+97680deb-beac-462c-adef-236d79099a00,bank_transfer,SG,PayNow QR,sg_paynow_bank
+ef8c31ee-bc14-43db-9f44-75b467c0147c,bank_transfer,SG,SG Virtual Account,sg_virtualaccount_bank
+adac5060-e2a9-4987-b570-b72bb13e86e5,bank_transfer,AU,PayID,au_npp_bank
+6b9c3e38-f12f-46d0-8686-6ac9afae78e9,bank_redirect,CY,Cyprus Trustly Bank Payment,cy_trustly_bank
+7f81b971-f9b0-46d2-aa1b-4a9d8baf93a1,bank_redirect,BE,Belgium Trusly Bank Payment,be_trustly_bank
+d23c2fef-5567-4ca1-9ed8-b425968d37ae,bank_redirect,HR,Croatia Trustly Bank Payment,hr_trustly_bank
+333270d3-031a-4029-b65a-41ba68faac46,bank_redirect,DE,Germany Trustly Bank Payment,de_trustly_bank
+6ce8c5b6-50ae-42e2-9a40-9f1d5969b338,bank_redirect,FI,Finland Trustly Bank Payment,fi_trustly_bank
+1377cfb7-6206-46ca-bb69-0cbec0a8c607,bank_redirect,DK,Denmark Trustly Bank Payment,dk_trustly_bank
+2a6fe9bb-4d63-4bfc-adc2-bd16e1412e7e,bank_redirect,ES,Spain Trustly Bank Payment,es_trustly_bank
+ae0fecb1-9aa2-4a04-90a9-8df3675b7976,bank_redirect,AT,Austria Trustly Bank Payment,at_trustly_bank
+7ed984e7-a04f-4f7a-8cdb-3467d1af7faa,bank_redirect,GB,United Kingdom Trustly Bank Payment,gb_trustly_bank
+a7b41a09-4fef-4f0e-8922-39a63d5dda43,bank_redirect,EE,Estonia Trustly Bank Payment,ee_trustly_bank
+27054daf-7a57-4c92-adf2-eb0afa4feb0f,bank_redirect,CZ,Czech Trustly Bank Payment,cz_trustly_bank
+99a215d6-1000-4b35-b2aa-961f913b644c,bank_redirect,NO,Norway Trusly Bank Payment,no_trustly_bank
+57854a65-a66a-4dad-9a79-c76af9182327,bank_redirect,LV,Latvia Trustly Bank Payment,lv_trustly_bank
+71ae8fb5-4287-4880-9e27-1746dc6fcbb7,bank_redirect,SK,Slovakia Trustly Bank Payment,sk_trustly_bank
+d869dfc4-ebae-4110-bd5f-6e040f240581,bank_redirect,NL,Netherlands Trustly Bank Payment,nl_trustly_bank
+f833e050-b3f6-412b-84a9-3da5c9675434,bank_redirect,PL,Poland Trustly Bank Payment,pl_trustly_bank
+a51e4838-05d7-4491-bd22-790e83064e9d,bank_redirect,SE,Sweden Trustly Bank Payment,se_trustly_bank
+a1de4355-f65d-4a96-b4e7-e4e0d105f1f9,bank_redirect,LT,Lithuania Trustly Bank Payment,lt_trustly_bank
+57a58f40-e59d-476c-8020-5204830f5969,bank_redirect,NL,iDeal online payment,nl_ideal_bank
+aa234e7c-9b34-45e4-b548-4a9ea43dde9a,card,LI,Mastercard,li_mastercard_card
+1f8d6818-f652-4b4b-8b89-f512d6b94336,card,GB,Mastercard,gb_mastercard_card
+c96d1dc6-2acb-47ba-beb6-bf364dd6f210,card,GB,Visa,gb_visa_card
+d6bc261f-3eb1-4909-bd8f-580e9042bcad,card,BA,Visa,ba_visa_card
+bf20efe3-6e1b-4bb7-a967-eb26029ca8c8,card,SM,Visa,sm_visa_card
+3f04679c-c8e5-4b20-8440-676d5fbe7561,card,IS,Visa,is_visa_card
+689f50ac-9e5d-4454-99d4-1c508380c130,card,AM,Visa,am_visa_card
+585ff74c-405a-45b4-b2be-54c7e8573d3a,card,VA,Visa,va_visa_card
+89b35cb2-3393-4c5e-950f-32bb8970b63d,card,TR,Visa,tr_visa_card
+1b279d5f-dc6a-4b14-88ae-0cc4e08418cd,card,FO,Visa,fo_visa_card
+56ecd441-4b9f-4c97-9389-30a04c8a52d4,card,MC,Visa,mc_visa_card
+78aa7748-d03b-4504-abcf-f68aa867f6f0,card,GE,Visa,ge_visa_card
+e09abe54-c6bd-4527-a893-90842295172b,card,GI,Visa,gi_visa_card
+23496973-a302-489b-afff-c33da1db59bf,card,MK,Visa,mk_visa_card
+6ccf7b16-cf8c-4c29-bc78-23a85185172b,card,IM,Visa,im_visa_card
+73223c03-6226-4462-ab8f-7b094abe44d2,card,UA,Visa,ua_visa_card
+905c6b36-6c17-4951-9bfa-e800bbee4edb,card,XK,Visa,xk_visa_card
+51881bbe-7f13-4b96-8752-f973c70b5876,card,AD,Visa,ad_visa_card
+ee246677-0941-422f-85fe-ed165144bfcc,card,CH,Visa,ch_visa_card
+c4640f64-48d0-4f5f-8840-c794e3b32c35,card,MD,Visa,md_visa_card
+b06b42c2-cadd-4d89-8cc5-503d6aa3927f,card,RS,Visa,rs_visa_card
+49c32960-cb55-4213-9ab4-ee2dd29f8ac4,card,RU,Visa,ru_visa_card
+aa948266-d9c9-4f1c-a066-d7fc90a30050,card,ME,Visa,me_visa_card
+416a3263-e985-45d7-913a-8f0eadcefff5,card,MC,Mastercard,mc_mastercard_card
+b857b619-0a84-4db2-b2ee-cbff67fad2cd,card,GE,Mastercard,ge_mastercard_card
+5f81aaea-7fe0-4f6f-9737-9c738e3df0e0,card,NO,Mastercard,no_mastercard_card
+4647ea7a-7981-4c84-b942-2146422f1806,card,MD,Mastercard,md_mastercard_card
+0b04b539-a800-4272-81f8-165ec3c90d21,card,AM,Mastercard,am_mastercard_card
+65ffc34e-5505-4487-87e8-3d1b8501a531,card,IS,Mastercard,is_mastercard_card
+957ab768-3943-4575-95d5-01fe6aa42891,card,AD,Mastercard,ad_mastercard_card
+121bba81-afe8-489d-a8fc-d7a77d16d41a,card,XK,Mastercard,xk_mastercard_card
+6c5ea1b8-d26f-4b64-bce2-670dc7882b1f,card,BA,Mastercard,ba_mastercard_card
+1a0ed39a-e219-4e4b-bb63-6afd0ec22431,card,SM,Mastercard,sm_mastercard_card
+189c01da-27d2-4fa1-897f-27428d96dd96,card,ME,Mastercard,me_mastercard_card
+0fd2185a-d1cf-4adb-abf5-e1044aff8e68,card,GI,Mastercard,gi_mastercard_card
+139f1b8b-7910-4b0f-bf14-22d959789ea9,card,MK,Mastercard,mk_mastercard_card
+fe664854-5b83-4e7f-8034-e4c668f0c41f,card,RU,Mastercard,ru_mastercard_card
+01f8fd62-a699-4592-83c9-ccc74127fec3,card,FO,Mastercard,fo_mastercard_card
+9c8e352e-f069-4486-984a-164a6840ec23,card,IM,Mastercard,im_mastercard_card
+b11ce87e-c585-464e-88e6-0d0a5b043f96,card,RS,Mastercard,rs_mastercard_card
+9b2dde0d-df7d-4c45-a10a-ce37acf5be27,card,TR,Mastercard,tr_mastercard_card
+0d6bb00e-204c-4711-9ea0-6433e56679b0,card,UA,Mastercard,ua_mastercard_card
+c45d7533-234f-47b0-855a-c36ee0a553c4,card,CH,Mastercard,ch_mastercard_card
+8e9126e0-f8e3-43bf-abcc-4576105c66ca,card,VA,Mastercard,va_mastercard_card
+ec8af002-4762-42ab-add7-b9fae347c16b,card,IL,MasterCard,il_mastercard_card
+11af10a0-18d1-4a2a-9312-dc9fe92859f0,card,CY,MasterCard,cy_mastercard_extended_card
+c6cc4010-0af2-47b9-9994-89b2c8bc45be,card,CY,Visa,cy_visa_extended_card
+858f7c0c-e1e4-4011-b0df-b6eec0712fac,card,IL,Visa,il_visa_card
+418d0481-f45f-4658-9d78-2e572e556ae6,card,HR,Visa,hr_visa_card
+ec538892-78ab-4ae3-89ce-7e5059128017,card,BG,Visa,bg_visa_card
+f88dbdfa-87cc-4ea6-b2a4-364c25b1133e,card,EE,Visa,ee_visa_card
+260facbd-a420-4213-92e5-3831d8a39ab5,card,CZ,Visa,cz_visa_card
+756ef321-4f07-424f-99ac-ffc33797d8cc,card,BE,Visa,be_visa_card
+59896207-2a55-4cd4-9d29-0da91f1d6c58,card,FI,Visa,fi_visa_card
+1b9bb196-fe13-4618-a870-ca1b71d5b38a,card,CY,Visa,cy_visa_card
+0e2b8126-7de9-4f12-8424-25ddac2232d7,card,DK,Visa,dk_visa_card
+b5507701-e8f9-4bdd-8125-6c9923c1d86c,card,SI,Visa,si_visa_card
+a8ebf9e5-15ed-4301-8fbc-01a68b5ebdb9,card,IT,Visa,it_visa_card
+be88b800-a0a7-4cd2-ae28-72841280e113,card,PT,Visa,pt_visa_card
+c98876ae-b66a-4dcd-936d-d06469b8dcc3,card,SK,Visa,sk_visa_card
+a7ee6f7e-dfde-4599-bb72-fa45d797f392,card,LT,Visa,lt_visa_card
+1cef264a-c250-4132-90dc-b14ff2bb0ecc,card,ES,Visa,es_visa_card
+06d243f0-5cb0-441a-bae8-d5ed8e062365,card,LU,Visa,lu_visa_card
+119cb879-574a-4991-8445-31253aeefdc7,card,DE,Visa,de_visa_card
+38a82b69-d288-436e-868b-f4065a756e0b,card,NL,Visa,nl_visa_card
+b739dedd-3c25-4ac0-93e9-1b3ae05dfef6,card,GR,Visa,gr_visa_card
+27e8f8f9-4d44-454b-a519-379a7b257d3f,card,PL,Visa,pl_visa_card
+8179afb4-b17d-480b-94f5-a3c6e68e3633,card,HU,Visa,hu_visa_card
+69bd839c-5294-46e3-96d4-72b10cced1e4,card,IE,Visa,ie_visa_card
+7b7a474e-ea6b-41d4-ab52-ad684e15fde9,card,LV,Visa,lv_visa_card
+5fa7f9f7-f217-4716-b924-1827f6a2a034,card,SE,Visa,se_visa_card
+00c840ee-3c1b-47e7-b183-c0053003ed34,card,FR,Visa,fr_visa_card
+d59f0adf-261c-4021-8b71-0744e3003de2,card,MT,Visa,mt_visa_card
+976d0eed-593a-4e73-bc8f-47ed6b18eedc,card,RO,Visa,ro_visa_card
+d6ccbcce-6791-4326-a307-401df045de3b,card,EE,Mastercard,ee_mastercard_card
+3906a186-51cf-42ff-ad83-fe7ad84f5fa7,card,HR,Mastercard,hr_mastercard_card
+ba694283-3acb-4b2e-a6ad-0f4c7eecbb6b,card,LV,Mastercard,lv_mastercard_card
+627a867f-5c99-4b54-a76a-b36f5429642c,card,BG,Mastercard,bg_mastercard_card
+560d50d9-387c-4215-b264-cb0b2ee9f377,card,GR,Mastercard,gr_mastercard_card
+90535ed1-1ef2-4e91-a5da-87a7b7a2e42b,card,FR,Mastercard,fr_mastercard_card
+912ed2f2-9d41-4cd3-b46b-61598838ef93,card,CY,Mastercard,cy_mastercard_card
+d5cde234-2e98-4b1b-804a-410d50aa7598,card,HU,Mastercard,hu_mastercard_card
+00f5c50a-6b96-4312-9b74-d63e9590c42d,card,LT,Mastercard,lt_mastercard_card
+0525b401-d564-4d21-bfe7-8d9db643b382,card,DK,Mastercard,dk_mastercard_card
+6637e315-0106-45e0-bed8-9cb28cfe7071,card,FI,Mastercard,fi_mastercard_card
+fc671005-ccc8-4ea0-a012-14be386bcf9d,card,LU,Mastercard,lu_mastercard_card
+0eb07e96-4055-4313-9cd7-f73a28745fe7,card,BE,Mastercard,be_mastercard_card
+fe24ca74-66aa-4dd6-a3e6-65f9b3ef8b55,card,IE,Mastercard,ie_mastercard_card
+da34776f-3f95-4b5e-8e0c-a61df7a3d0b9,card,IT,Mastercard,it_mastercard_card
+b3c8b9b8-3be6-429e-af24-87a5b8f998c1,card,DE,Mastercard,de_mastercard_card
+76274387-0422-4387-ae3f-5b065fcf00cf,card,CZ,Mastercard,cz_mastercard_card
+f85ef192-9bec-48d2-8670-ba83e8ef33c5,card,ES,Mastercard,es_mastercard_card
+9d3c18a5-733d-49b0-83cd-416d90df20e2,card,SE,Mastercard,se_mastercard_card
+6d3aa8e7-49db-4ccb-bc44-0934cf6c88ef,card,SK,Mastercard,sk_mastercard_card
+9924a33b-3099-403e-932f-b5c1fc5decca,card,PT,Mastercard,pt_mastercard_card
+95dc7e1d-19c8-4cf1-b5ef-8a53c36b8040,card,RO,Mastercard,ro_mastercard_card
+03dd0455-2e9a-4edf-b909-1f0e12423019,card,MT,Mastercard,mt_mastercard_card
+9c9f04d8-1542-4a1b-ac2c-cb32d662d5a3,card,NL,Mastercard,nl_mastercard_card
+dcdec96d-2cd7-4b9c-8eec-351e476fbd79,card,PL,Mastercard,pl_mastercard_card
+33faa8d8-ed1e-4f03-8703-d4d744361f01,card,SI,Mastercard,si_mastercard_card
+ecbdb852-9ddd-4c3d-9738-a5aac89f4538,card,AT,Visa,at_visa_card
+c2a0ccea-9278-490b-b23a-224fec74a6f5,card,NO,Visa,no_visa_card
+3521cdc2-7da6-429c-abb9-6c33cd3eb6ca,card,LI,Visa,li_visa_card
+8ab823a1-0d6b-42b4-9d71-2df3cda03bc5,card,AT,Mastercard,at_mastercard_card
+59f49581-1fb5-11ee-a8ee-128df04cb343,card,SG,Visa,sg_visa_card
+c70e14ec-2637-4048-a292-6d3ae21d9733,card,IS,AMEX,is_amex_card
+80e1294d-36a2-4ec4-9d06-5296d8fa4f72,card,IE,AMEX,ie_amex_card
+e02625f0-1e34-11ee-a8ee-128df04cb343,card,SG,Mastercard,sg_mastercard_card
+14fc72e9-6b81-11f0-83db-021ccffab243,pos,MT,Malta Visa POS PMT,mt_mastercard_pos
+15041538-6b81-11f0-83db-021ccffab243,pos,PT,Portugal Visa POS PMT,pt_mastercard_pos
+1509ef00-6b81-11f0-83db-021ccffab243,pos,ES,Spain Visa POS PMT,es_mastercard_pos
+150ee0dd-6b81-11f0-83db-021ccffab243,pos,LV,Latvia Visa POS PMT,lv_mastercard_pos
+15141087-6b81-11f0-83db-021ccffab243,pos,CZ,Czech Republic Visa POS PMT,cz_mastercard_pos
+151a2498-6b81-11f0-83db-021ccffab243,pos,RU,Russia Visa POS PMT,ru_mastercard_pos
+151f3d65-6b81-11f0-83db-021ccffab243,pos,GR,Greece Visa POS PMT,gr_mastercard_pos
+1525a3bc-6b81-11f0-83db-021ccffab243,pos,CH,Switzerland Visa POS PMT,ch_mastercard_pos
+152d47d6-6b81-11f0-83db-021ccffab243,pos,BE,Belgium Visa POS PMT,be_mastercard_pos
+1532b712-6b81-11f0-83db-021ccffab243,pos,AM,Armenia Visa POS PMT,am_mastercard_pos
+1538704f-6b81-11f0-83db-021ccffab243,pos,LI,Liechtenstein Visa POS PMT,li_mastercard_pos
+153ebc40-6b81-11f0-83db-021ccffab243,pos,DE,Germany Visa POS PMT,de_mastercard_pos
+1544c959-6b81-11f0-83db-021ccffab243,pos,AT,Austria Visa POS PMT,at_mastercard_pos
+154ade7a-6b81-11f0-83db-021ccffab243,pos,HR,Croatia Visa POS PMT,hr_mastercard_pos
+15502cd3-6b81-11f0-83db-021ccffab243,pos,IT,Italy Visa POS PMT,it_mastercard_pos
+15567744-6b81-11f0-83db-021ccffab243,pos,LT,Lithuania Visa POS PMT,lt_mastercard_pos
+155bea8b-6b81-11f0-83db-021ccffab243,pos,EE,Estonia Visa POS PMT,ee_mastercard_pos
+15618c06-6b81-11f0-83db-021ccffab243,pos,NL,Netherlands Visa POS PMT,nl_mastercard_pos
+15682389-6b81-11f0-83db-021ccffab243,pos,VA,Vatican City Visa POS PMT,va_mastercard_pos
+156d3ed6-6b81-11f0-83db-021ccffab243,pos,LU,Luxembourg Visa POS PMT,lu_mastercard_pos
+15733681-6b81-11f0-83db-021ccffab243,pos,UA,Ukraine Visa POS PMT,ua_mastercard_pos
+157941e9-6b81-11f0-83db-021ccffab243,pos,IM,Isle of Man Visa POS PMT,im_mastercard_pos
+157f6608-6b81-11f0-83db-021ccffab243,pos,GE,Georgia Visa POS PMT,ge_mastercard_pos
+15855af7-6b81-11f0-83db-021ccffab243,pos,GI,Gibraltar Visa POS PMT,gi_mastercard_pos
+158b2302-6b81-11f0-83db-021ccffab243,pos,PL,Poland Visa POS PMT,pl_mastercard_pos
+159029a2-6b81-11f0-83db-021ccffab243,pos,AD,Andorra Visa POS PMT,ad_mastercard_pos
+1596ee81-6b81-11f0-83db-021ccffab243,pos,FO,Faroe Islands Visa POS PMT,fo_mastercard_pos
+159cd470-6b81-11f0-83db-021ccffab243,pos,MC,Monaco Visa POS PMT,mc_mastercard_pos
+15a2fc39-6b81-11f0-83db-021ccffab243,pos,FI,Finland Visa POS PMT,fi_mastercard_pos
+15a8f77c-6b81-11f0-83db-021ccffab243,pos,CY,Cyprus Visa POS PMT,cy_mastercard_pos
+15afc736-6b81-11f0-83db-021ccffab243,pos,RS,Serbia Visa POS PMT,rs_mastercard_pos
+15b5f14a-6b81-11f0-83db-021ccffab243,pos,IE,Ireland Visa POS PMT,ie_mastercard_pos
+15bbfd58-6b81-11f0-83db-021ccffab243,pos,SE,Sweden Visa POS PMT,se_mastercard_pos
+15c05121-6b81-11f0-83db-021ccffab243,pos,FR,France Visa POS PMT,fr_mastercard_pos
+15c5ac53-6b81-11f0-83db-021ccffab243,pos,HU,Hungary Visa POS PMT,hu_mastercard_pos
+15cb89d2-6b81-11f0-83db-021ccffab243,pos,MK,North Macedonia Visa POS PMT,mk_mastercard_pos
+15d18233-6b81-11f0-83db-021ccffab243,pos,XK,Kosovo Visa POS PMT,xk_mastercard_pos
+15d7b19d-6b81-11f0-83db-021ccffab243,pos,BA,Bosnia and Herzegovina Visa POS PMT,ba_mastercard_pos
+15ddad5b-6b81-11f0-83db-021ccffab243,pos,NO,Norway Visa POS PMT,no_mastercard_pos
+15e3a772-6b81-11f0-83db-021ccffab243,pos,BG,Bulgaria Visa POS PMT,bg_mastercard_pos
+15e8d293-6b81-11f0-83db-021ccffab243,pos,SM,San Marino Visa POS PMT,sm_mastercard_pos
+15ee3812-6b81-11f0-83db-021ccffab243,pos,SI,Slovenia Visa POS PMT,si_mastercard_pos
+15f3a666-6b81-11f0-83db-021ccffab243,pos,TR,Turkey Visa POS PMT,tr_mastercard_pos
+15f9e2fd-6b81-11f0-83db-021ccffab243,pos,MD,Moldova Visa POS PMT,md_mastercard_pos
+15ffafe0-6b81-11f0-83db-021ccffab243,pos,SK,Slovakia Visa POS PMT,sk_mastercard_pos
+1604c25c-6b81-11f0-83db-021ccffab243,pos,RO,Romania Visa POS PMT,ro_mastercard_pos
+160a6329-6b81-11f0-83db-021ccffab243,pos,DK,Denmark Visa POS PMT,dk_mastercard_pos
+160f63f2-6b81-11f0-83db-021ccffab243,pos,ME,Montenegro Visa POS PMT,me_mastercard_pos
+91b4cb17-5878-11ef-a69e-02ee5facfc59,pos,IS,Iceland Mastercard POS PMT,is_mastercard_pos
+ceda41c0-5878-11ef-a69e-02ee5facfc59,pos,IS,Iceland Visa POS PMT,is_visa_pos
+01b79421-94b7-4ac5-b9a9-d7fc68d22787,pos,IL,Israel Visa POS PMT,il_visa_pos
+f11c7fab-fbf2-46c4-8185-3a41fa1640f7,pos,IL,Israel Mastercard POS PMT,il_mastercard_pos
+b1d50d31-64d8-4dfe-a58b-f580439a415b,pos,GB,United Kingdom Mastercard POS PMT,gb_mastercard_pos
+4aa769fb-3d9b-4869-b504-bdbc8ef8f879,pos,GB,United Kingdom Visa POS PMT,gb_visa_pos
+3993cd9a-6b81-11f0-83db-021ccffab243,pos,MT,Malta Visa POS PMT,mt_visa_pos
+3998dc04-6b81-11f0-83db-021ccffab243,pos,PT,Portugal Visa POS PMT,pt_visa_pos
+399e43d8-6b81-11f0-83db-021ccffab243,pos,ES,Spain Visa POS PMT,es_visa_pos
+39a44a31-6b81-11f0-83db-021ccffab243,pos,LV,Latvia Visa POS PMT,lv_visa_pos
+39a9fb60-6b81-11f0-83db-021ccffab243,pos,CZ,Czech Republic Visa POS PMT,cz_visa_pos
+39af506f-6b81-11f0-83db-021ccffab243,pos,RU,Russia Visa POS PMT,ru_visa_pos
+39b5b3b4-6b81-11f0-83db-021ccffab243,pos,GR,Greece Visa POS PMT,gr_visa_pos
+39bb9cbe-6b81-11f0-83db-021ccffab243,pos,CH,Switzerland Visa POS PMT,ch_visa_pos
+39c22008-6b81-11f0-83db-021ccffab243,pos,BE,Belgium Visa POS PMT,be_visa_pos
+39c81dfb-6b81-11f0-83db-021ccffab243,pos,AM,Armenia Visa POS PMT,am_visa_pos
+39cd5ec4-6b81-11f0-83db-021ccffab243,pos,LI,Liechtenstein Visa POS PMT,li_visa_pos
+39d25645-6b81-11f0-83db-021ccffab243,pos,DE,Germany Visa POS PMT,de_visa_pos
+39d7f4f9-6b81-11f0-83db-021ccffab243,pos,AT,Austria Visa POS PMT,at_visa_pos
+39dd86cd-6b81-11f0-83db-021ccffab243,pos,HR,Croatia Visa POS PMT,hr_visa_pos
+39e33022-6b81-11f0-83db-021ccffab243,pos,IT,Italy Visa POS PMT,it_visa_pos
+39e9c6f3-6b81-11f0-83db-021ccffab243,pos,LT,Lithuania Visa POS PMT,lt_visa_pos
+39efc340-6b81-11f0-83db-021ccffab243,pos,EE,Estonia Visa POS PMT,ee_visa_pos
+39f57be5-6b81-11f0-83db-021ccffab243,pos,NL,Netherlands Visa POS PMT,nl_visa_pos
+39fb671b-6b81-11f0-83db-021ccffab243,pos,VA,Vatican City Visa POS PMT,va_visa_pos
+3a017037-6b81-11f0-83db-021ccffab243,pos,LU,Luxembourg Visa POS PMT,lu_visa_pos
+3a076ead-6b81-11f0-83db-021ccffab243,pos,UA,Ukraine Visa POS PMT,ua_visa_pos
+3a0d1869-6b81-11f0-83db-021ccffab243,pos,IM,Isle of Man Visa POS PMT,im_visa_pos
+3a13469e-6b81-11f0-83db-021ccffab243,pos,GE,Georgia Visa POS PMT,ge_visa_pos
+3a185b46-6b81-11f0-83db-021ccffab243,pos,GI,Gibraltar Visa POS PMT,gi_visa_pos
+3a1d3081-6b81-11f0-83db-021ccffab243,pos,PL,Poland Visa POS PMT,pl_visa_pos
+3a2297b4-6b81-11f0-83db-021ccffab243,pos,AD,Andorra Visa POS PMT,ad_visa_pos
+3a284e30-6b81-11f0-83db-021ccffab243,pos,FO,Faroe Islands Visa POS PMT,fo_visa_pos
+3a2ed0b0-6b81-11f0-83db-021ccffab243,pos,MC,Monaco Visa POS PMT,mc_visa_pos
+3a34e0b2-6b81-11f0-83db-021ccffab243,pos,FI,Finland Visa POS PMT,fi_visa_pos
+3a39eda2-6b81-11f0-83db-021ccffab243,pos,CY,Cyprus Visa POS PMT,cy_visa_pos
+3a400948-6b81-11f0-83db-021ccffab243,pos,RS,Serbia Visa POS PMT,rs_visa_pos
+3a467e48-6b81-11f0-83db-021ccffab243,pos,IE,Ireland Visa POS PMT,ie_visa_pos
+3a4ca200-6b81-11f0-83db-021ccffab243,pos,SE,Sweden Visa POS PMT,se_visa_pos
+3a53ef63-6b81-11f0-83db-021ccffab243,pos,FR,France Visa POS PMT,fr_visa_pos
+3a5a22e7-6b81-11f0-83db-021ccffab243,pos,HU,Hungary Visa POS PMT,hu_visa_pos
+3a5f90e2-6b81-11f0-83db-021ccffab243,pos,MK,North Macedonia Visa POS PMT,mk_visa_pos
+3a6553d9-6b81-11f0-83db-021ccffab243,pos,XK,Kosovo Visa POS PMT,xk_visa_pos
+3a6b8672-6b81-11f0-83db-021ccffab243,pos,BA,Bosnia and Herzegovina Visa POS PMT,ba_visa_pos
+3a7172ca-6b81-11f0-83db-021ccffab243,pos,NO,Norway Visa POS PMT,no_visa_pos
+3a76904b-6b81-11f0-83db-021ccffab243,pos,BG,Bulgaria Visa POS PMT,bg_visa_pos
+3a7c6059-6b81-11f0-83db-021ccffab243,pos,SM,San Marino Visa POS PMT,sm_visa_pos
+3a818bd1-6b81-11f0-83db-021ccffab243,pos,SI,Slovenia Visa POS PMT,si_visa_pos
+3a86a02d-6b81-11f0-83db-021ccffab243,pos,TR,Turkey Visa POS PMT,tr_visa_pos
+3a8c7d11-6b81-11f0-83db-021ccffab243,pos,MD,Moldova Visa POS PMT,md_visa_pos
+3a92970a-6b81-11f0-83db-021ccffab243,pos,SK,Slovakia Visa POS PMT,sk_visa_pos
+3a988c3f-6b81-11f0-83db-021ccffab243,pos,RO,Romania Visa POS PMT,ro_visa_pos
+3a9d8fe7-6b81-11f0-83db-021ccffab243,pos,DK,Denmark Visa POS PMT,dk_visa_pos
+3aa33cbd-6b81-11f0-83db-021ccffab243,pos,ME,Montenegro Visa POS PMT,me_visa_pos
+2e2edaf7-3548-11f0-88d2-02c21b26f347,bank_redirect,ID,QRIS HO,id_qris_ho_bank
+469e18bc-3548-11f0-88d2-02c21b26f347,bank_transfer,ID,BCA VA,id_va_bca_bank
+624aea05-3548-11f0-88d2-02c21b26f347,bank_transfer,ID,MANDIRI VA,id_va_mandiri_bank
+7ba70002-3548-11f0-88d2-02c21b26f347,bank_transfer,ID,PERMATA VA,id_va_permata_bank
+94199732-3548-11f0-88d2-02c21b26f347,bank_transfer,ID,BNI VA,id_va_bni_bank
+ac941a80-3548-11f0-88d2-02c21b26f347,bank_transfer,ID,BRI VA,id_va_bri_bank
+82c94af6-a652-11ef-a69e-02ee5facfc59,ewallet,PH,Gcash HO,ph_gcash_ho_ewallet
+25d823ad-bd0f-11ef-a69e-02ee5facfc59,bank_redirect,PH,BPI HO,ph_bpi_ho_bank
+42658540-bd0f-11ef-a69e-02ee5facfc59,bank_redirect,PH,UBP HO,ph_ubp_ho_bank
+5eddba7a-bd0f-11ef-a69e-02ee5facfc59,bank_redirect,PH,BDO HO,ph_bdo_ho_bank
+7b776bad-bd0f-11ef-a69e-02ee5facfc59,bank_redirect,PH,Landbank HO,ph_landbank_ho_bank
+97e2fb69-bd0f-11ef-a69e-02ee5facfc59,bank_redirect,PH,Metrobank HO,ph_metrobank_ho_bank
+b519257d-bd0f-11ef-a69e-02ee5facfc59,bank_redirect,PH,RCBC HO,ph_rcbc_ho_bank
+b731df74-3303-11eb-b9a4-0ee0a5395629,card,ID,Visa,id_visa_card
+08944fdf-5656-11eb-9a51-0e74c3dacc2f,card,ID,Mastercard,id_mastercard_card
+2f815370-5656-11eb-9a51-0e74c3dacc2f,card,ID,JCB,id_jcb_card
+2a85a045-4ad1-44b8-8b2c-21a630d5d775,bank_transfer,MX,SPEI,mx_spei_bank
+aab9e5dc-9e73-11e8-85bb-126629637faa,cash,CL,Walmart Chile,cl_walmart_cash
+5b40be25-584f-42b8-94cd-bc14cdc0d254,card,BR,Hipercard,br_credit_hipercard_card
+177c49ab-93cb-48c5-96b1-863be0ec499d,card,TZ,Visa,tz_visa_card
+9968c362-e45d-45d9-b2ac-d86f002e959b,card,TZ,Mastercard,tz_mastercard_card
+5b5eafae-9e1b-4539-87a8-1aca1e43058a,bank_redirect,BR,Boleto,br_boleto_bank
+4accad1d-6aac-45f3-ab60-6bd6e7ee709a,card,IS,Valitor,is_valitor_card
+c8a37f77-3499-11eb-8b24-0274f6f35407,card,IS,Card Payment,is_korta_card
+912252ad-7b98-4e1b-adf6-7d83df8824f6,card,GB,Visa,gb_visa_mo_card
+bcd7fb92-e129-452d-b5ce-433d70d003c5,card,GB,Visa,nl_visa_mo_card
+5644fae0-20eb-4945-a97c-d003613a9194,card,GB,Mastercard,gb_mastercard_mo_card
+5ea1b0ab-d36b-4761-a482-9efce8312978,card,GB,Mastercard,nl_mastercard_mo_card
+c191e417-9e73-11e8-85bb-126629637faa,cash,PH,7-Eleven,ph_711_cash
+4a704c0c-a224-41f0-9a39-be1c729281cf,bank_redirect,ES,Santander Spain,es_santander_bank

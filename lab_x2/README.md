@@ -1,213 +1,76 @@
-# LangGraph Project Skeleton
+# Payment Method Query Agent
 
-A complete skeleton for building applications with LangGraph, featuring state management, node implementations, and workflow orchestration.
-
-## Project Structure
-
-```
-├── requirements.txt      # Project dependencies
-├── state.py             # State definitions and management
-├── node.py              # Node implementations
-├── main.py              # Main workflow and entry point
-├── .env.example         # Environment variables template
-└── README.md            # This file
-```
+A Python agent built with OpenAI and LangGraph that queries payment methods from a pandas DataFrame based on country and payment type.
 
 ## Features
 
-- **Comprehensive State Management**: TypedDict-based state with helper functions
-- **Modular Node Architecture**: Separate, reusable node implementations
-- **Error Handling**: Built-in error handling and retry mechanisms
-- **Conditional Routing**: Dynamic workflow routing based on state
-- **Demo and Interactive Modes**: Multiple ways to test and use the workflow
-- **Environment Configuration**: Easy setup with environment variables
+- **Country Normalization**: Accepts various country formats (ISO codes, full names, common aliases) and normalizes to ISO 3166-1 alpha-2
+- **Payment Type Detection**: Automatically detects card/bank payment types with synonym support
+- **LangGraph Integration**: Uses a simple graph with LLM parsing and tool execution nodes
+- **Structured Output**: Returns consistent JSON format with validation and error handling
 
-## Quick Start
+## Installation
 
-### 1. Install Dependencies
-
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Set Up Environment
+2. Set your OpenAI API key:
+```bash
+export OPENAI_API_KEY="your-api-key-here"
+```
+
+## Usage
+
+### As a Module
+
+```python
+from payment_agent import run_agent
+
+result = run_agent("US card")
+print(result)
+# Output: {"country": "US", "payment_type": "card", "count": 3, "types": ["amex", "mastercard", "visa"], "note": ""}
+```
+
+### Command Line Demo
 
 ```bash
-cp .env.example .env
-# Edit .env with your API keys
+python payment_agent.py
 ```
 
-### 3. Run the Demo
+## DataFrame Schema
 
-```bash
-# Run demo examples
-python main.py demo
+The agent expects a pandas DataFrame with these columns:
 
-# Run in interactive mode
-python main.py interactive
+- `country`: ISO 3166-1 alpha-2 country code (e.g., "US", "GB")
+- `payment_method_type`: Payment type ("card" or "bank")
+- `payment_method_type_name`: Specific payment method name (e.g., "visa", "ach")
 
-# Run with direct input
-python main.py "Your question here"
-```
+## Example Inputs & Outputs
 
-## Core Components
+| Input | Output |
+|-------|--------|
+| "US card" | Card payment methods for US |
+| "United Kingdom" | All payment methods for GB |
+| "Please list bank methods for br" | Bank payment methods for Brazil |
+| "mars card" | Error for invalid country |
 
-### State (`state.py`)
+## Key Functions
 
-Defines the data structures that flow through your graph:
+- `normalize_country_to_alpha2()`: Country name normalization
+- `parse_user_input()`: Extract country and payment type from text
+- `query_df()`: Filter DataFrame and return matching payment methods
+- `build_graph()`: Create LangGraph workflow
+- `run_agent()`: Execute the full agent pipeline
 
-- `GraphState`: Main state for basic workflows
-- `WorkflowState`: Extended state for complex scenarios
-- Helper functions for state management
+## Error Handling
 
-### Nodes (`node.py`)
+The agent handles various error cases gracefully:
+- Invalid country names
+- Missing countries
+- Empty results
+- API failures
 
-Contains the core business logic:
+All errors return valid JSON with empty `types` list and descriptive `note` field.
 
-- `start_node`: Entry point and initialization
-- `processing_node`: Main processing logic
-- `decision_node`: Routing and decision making
-- `finalization_node`: Output preparation and cleanup
-- `error_handling_node`: Error management and recovery
-
-### Workflow (`main.py`)
-
-Orchestrates the entire flow:
-
-- Graph construction and configuration
-- Edge definitions and conditional routing
-- Execution management and error handling
-- Demo and interactive modes
-
-## Customization
-
-### Adding New Nodes
-
-1. Define your node function in `node.py`:
-
-```python
-def my_custom_node(state: GraphState) -> GraphState:
-    # Your logic here
-    return updated_state
-```
-
-2. Register it in the workflow (`main.py`):
-
-```python
-workflow.add_node("my_node", my_custom_node)
-workflow.add_edge("previous_node", "my_node")
-```
-
-### Extending State
-
-Add new fields to `GraphState` in `state.py`:
-
-```python
-class GraphState(TypedDict):
-    # Existing fields...
-    my_new_field: str
-    my_optional_field: Optional[int]
-```
-
-### Custom Routing
-
-Create conditional functions for dynamic routing:
-
-```python
-def my_routing_function(state: GraphState) -> str:
-    if some_condition:
-        return "node_a"
-    else:
-        return "node_b"
-```
-
-## Common Patterns
-
-### Sequential Processing
-```python
-workflow.add_edge("node1", "node2")
-workflow.add_edge("node2", "node3")
-```
-
-### Conditional Branching
-```python
-workflow.add_conditional_edges(
-    "decision_node",
-    routing_function,
-    {
-        "path_a": "node_a",
-        "path_b": "node_b"
-    }
-)
-```
-
-### Error Recovery
-```python
-workflow.add_conditional_edges(
-    "risky_node",
-    check_for_errors,
-    {
-        "success": "next_node",
-        "error": "error_handler"
-    }
-)
-```
-
-## Best Practices
-
-1. **State Management**: Keep state minimal and well-typed
-2. **Node Design**: Make nodes pure functions when possible
-3. **Error Handling**: Always include error handling paths
-4. **Testing**: Use demo mode to test different scenarios
-5. **Logging**: Include appropriate logging for debugging
-
-## Advanced Features
-
-### LangSmith Integration
-
-Enable tracing by setting environment variables:
-
-```bash
-LANGCHAIN_TRACING_V2=true
-LANGCHAIN_API_KEY=your_api_key
-LANGCHAIN_PROJECT=your_project_name
-```
-
-### Custom Models
-
-Integrate different LLM providers by modifying the requirements and adding appropriate imports:
-
-```python
-from langchain_anthropic import ChatAnthropic
-from langchain_google_genai import ChatGoogleGenerativeAI
-```
-
-## Troubleshooting
-
-### Common Issues
-
-1. **Import Errors**: Ensure all dependencies are installed
-2. **API Key Issues**: Check your `.env` file configuration
-3. **State Type Errors**: Verify your state modifications match the TypedDict definitions
-
-### Debug Mode
-
-Run with debug output:
-
-```bash
-DEBUG=true python main.py demo
-```
-
-## Contributing
-
-Feel free to extend this skeleton with additional features:
-
-- More sophisticated error handling
-- Additional node types
-- Performance monitoring
-- Database integration
-- API endpoints
-
-## License
-
-This project skeleton is provided as-is for educational and development purposes.
