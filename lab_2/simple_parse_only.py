@@ -66,7 +66,12 @@ def parse_song_request(user_input: str) -> dict:
             ],
             temperature=0.3,
             max_tokens=200,
+    #########################################################
+    #########################################################
             response_format={"type": "json_object"}
+            
+    #########################################################
+    #########################################################
         )
         
         # Parse the JSON response
@@ -218,4 +223,5 @@ def main():
             print(f"❌ Error: {e}")
 
 if __name__ == "__main__":
+    #print(SongRequest.model_json_schema())
     main()
